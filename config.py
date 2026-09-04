@@ -10,12 +10,12 @@ import os
 # Provides live scores (with inline stats/point-by-point), odds, live odds,
 # standings, H2H, and fixtures. No prediction endpoint -- our own MODEL
 # probability is estimated from current ATP/WTA ranking points (see main.py).
-APITENNIS_KEY = os.environ.get("APITENNIS_KEY", "YOUR_APITENNIS_KEY_HERE")
+APITENNIS_KEY = os.environ.get("APITENNIS_KEY", "YOUR_APITENNIS_KEY_HERE").strip()
 
 # --- Notifications (ntfy.sh) ---
 # ntfy is free, no signup: pick any unique topic name, install the ntfy app,
 # subscribe to that topic name in the app, done.
-NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "your-unique-topic-name-here")
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "your-unique-topic-name-here").strip()
 NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}"
 
 # --- Model thresholds ---
