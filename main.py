@@ -147,7 +147,7 @@ def process_live_events():
     stats_by_event = {}
 
     for event in events:
-        event_id = event.get("matchId") or event.get("id")
+        event_id = event.get("id") or event.get("matchId")
         p1 = event.get("participant1")
         p2 = event.get("participant2")
         tour_type = str(event.get("tourType", "atp")).lower()
