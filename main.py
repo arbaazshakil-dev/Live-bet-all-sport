@@ -50,6 +50,54 @@ def save_predictions(rows):
             writer.writerow({k: row.get(k, "") for k in FIELDNAMES})
 
 
+def recalculate_with_elo(rows, elo_ratings):
+    """Re-scores every logged row (old and new alike) against the current
+    Elo ratings, whenever both players are found in them. Market odds are
+    historical fact and left untouched; only MODEL and EDGE are refreshed.
+    Rows already settled get re-graded too, since a changed model_prob can
+    flip whether that pick reads as correct."""
+    if not elo_ratings:
+        return rows
+
+    updated_count = 0
+    flipped_count = 0
+    for row in rows:
+        p1, p2 = row.get("player"), row.get("opponent")
+        if not p1 or not p2:
+            continue
+
+        new_prob = elo_model.win_probability(elo_ratings, p1, p2)
+        if new_prob is None:
+            continue  # not in the Elo pool -- leave this row as-is
+
+        old_prob_str = row.get("model_prob")
+        if old_prob_str not in (None, "") and abs(float(old_prob_str) - new_prob) < 1e-6:
+            continue  # already up to date, nothing changed
+
+        row["model_prob"] = round(new_prob, 4)
+
+        implied = row.get("implied_prob")
+        if implied not in (None, ""):
+            row["edge"] = round(new_prob - float(implied), 4)
+
+        if row.get("correct") in ("0", "1") and row.get("actual_winner"):
+            actual_p1_won = row["actual_winner"] == p1
+            model_favors_p1 = new_prob >= 0.5
+            new_correct = "1" if (model_favors_p1 == actual_p1_won) else "0"
+            if new_correct != row["correct"]:
+                flipped_count += 1
+            row["correct"] = new_correct
+
+        updated_count += 1
+
+    if updated_count:
+        msg = f"[main] Recalculated {updated_count} row(s) against current Elo ratings."
+        if flipped_count:
+            msg += f" {flipped_count} previously-graded pick(s) flipped correct/wrong."
+        print(msg)
+    return rows
+
+
 def settle_predictions(rows):
     """For every row that has a model prediction but no recorded outcome yet,
     check whether that match has finished and, if so, record whether the
@@ -340,6 +388,11 @@ def process_live_matches(existing_rows):
 
 def run_once():
     existing_rows = load_predictions()
+
+    elo_ratings = load_elo_ratings()
+    if elo_ratings:
+        print("[main] Recalculating logged predictions against current Elo ratings ...")
+        existing_rows = recalculate_with_elo(existing_rows, elo_ratings)
 
     print("[main] Settling past predictions ...")
     existing_rows = settle_predictions(existing_rows)
