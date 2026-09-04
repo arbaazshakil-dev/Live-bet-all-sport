@@ -169,6 +169,15 @@
   .edge-tag.neu { background: rgba(143, 163, 150, 0.15); color: var(--chalk-dim); }
   .edge-tag.bad { background: rgba(224, 118, 90, 0.15); color: var(--down); }
 
+  .result-badge {
+    display: block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    margin-top: 6px;
+  }
+  .result-badge.good { color: var(--up); }
+  .result-badge.bad { color: var(--down); }
+
   .match details {
     margin-top: 10px;
     border-top: 1px solid var(--border);
@@ -242,6 +251,43 @@
     padding-top: 4px;
   }
 
+  .h2h-record {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--chalk);
+    margin: 8px 0 10px;
+    text-align: center;
+  }
+
+  .h2h-cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 10px;
+  }
+
+  .h2h-col-header {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--chalk-dim);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 4px;
+    margin-bottom: 4px;
+  }
+
+  .h2h-row {
+    font-size: 11px;
+    padding: 3px 0;
+    display: flex;
+    gap: 5px;
+    align-items: baseline;
+  }
+
+  .h2h-row .res { font-family: 'JetBrains Mono', monospace; font-weight: 700; width: 14px; flex-shrink: 0; }
+  .h2h-row .res.W { color: var(--up); }
+  .h2h-row .res.L { color: var(--down); }
+  .h2h-row .opp { color: var(--chalk-dim); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
   .empty, .loading, .error {
     text-align: center;
     color: var(--chalk-dim);
@@ -274,7 +320,7 @@
 <main>
   <div class="stat-row" id="stat-row" style="display:none;">
     <div class="stat"><span class="num" id="stat-total">–</span><span class="label">logged</span></div>
-    <div class="stat"><span class="num" id="stat-edge">–</span><span class="label">avg edge</span></div>
+    <div class="stat"><span class="num" id="stat-accuracy">–</span><span class="label">accuracy</span></div>
     <div class="stat"><span class="num" id="stat-value">–</span><span class="label">value bets</span></div>
   </div>
 
@@ -359,6 +405,30 @@
     return `${score}${statGrid}${timelineHtml}`;
   }
 
+  function h2hHtml(stats) {
+    const h2h = stats && stats.h2h;
+    if (!h2h) return `<div class="no-stats">No head-to-head data available for this match.</div>`;
+
+    const formCol = (form, player) => {
+      if (!form || !form.length) return `<div class="h2h-row"><span class="opp">No recent results found</span></div>`;
+      return form.map(m => `<div class="h2h-row"><span class="res ${m.result}">${m.result}</span><span class="opp">vs ${m.opponent} (${m.score || "–"})</span></div>`).join("");
+    };
+
+    return `
+      <div class="h2h-record">Head-to-head: ${h2h.h2h_record}</div>
+      <div class="h2h-cols">
+        <div>
+          <div class="h2h-col-header">${stats.player || "P1"} — last 5</div>
+          ${formCol(h2h.p1_form)}
+        </div>
+        <div>
+          <div class="h2h-col-header">${stats.opponent || "P2"} — last 5</div>
+          ${formCol(h2h.p2_form)}
+        </div>
+      </div>
+    `;
+  }
+
   function render(rows, liveStats) {
     const content = document.getElementById("content");
 
@@ -371,12 +441,15 @@
     rows.reverse();
 
     const edges = rows.map(r => parseFloat(r.edge)).filter(n => !isNaN(n));
-    const avgEdge = edges.length ? (edges.reduce((a, b) => a + b, 0) / edges.length) : null;
     const valueCount = edges.filter(e => e >= 0.05).length;
+
+    const graded = rows.filter(r => r.correct === "0" || r.correct === "1");
+    const correctCount = graded.filter(r => r.correct === "1").length;
+    const accuracyText = graded.length ? `${((correctCount / graded.length) * 100).toFixed(0)}%` : "–";
 
     document.getElementById("stat-row").style.display = "grid";
     document.getElementById("stat-total").textContent = rows.length;
-    document.getElementById("stat-edge").textContent = avgEdge !== null ? (avgEdge * 100).toFixed(1) + "%" : "–";
+    document.getElementById("stat-accuracy").textContent = accuracyText;
     document.getElementById("stat-value").textContent = valueCount;
 
     const matches = (liveStats && liveStats.matches) || {};
@@ -398,6 +471,13 @@
       // green edge = a real value bet, red = model disagrees with the market
       const edgeCls = isNaN(edgeVal) ? "" : (edgeVal >= 0.05 ? "good" : (edgeVal < 0 ? "bad" : ""));
 
+      let resultBadge = "";
+      if (r.correct === "1") {
+        resultBadge = `<span class="result-badge good">✓ correct — ${r.actual_winner} won</span>`;
+      } else if (r.correct === "0") {
+        resultBadge = `<span class="result-badge bad">✗ wrong — ${r.actual_winner} won</span>`;
+      }
+
       return `
         <div class="match">
           <div class="names">
@@ -409,10 +489,15 @@
             <div>IMPLIED <b>${impliedProb}</b></div>
           </div>
           ${edgeDisplay ? `<div class="edge-tag ${isValue ? 'pos' : 'neu'} ${edgeCls}">EDGE ${edgeDisplay}</div>` : ""}
+          ${resultBadge}
           <div class="meta" style="margin-top:6px;"><div>${time}</div></div>
           <details>
             <summary>Match stats &amp; score</summary>
             ${statsHtml(stats)}
+          </details>
+          <details>
+            <summary>Head-to-head &amp; form</summary>
+            ${h2hHtml(stats)}
           </details>
         </div>
       `;

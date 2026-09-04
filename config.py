@@ -25,9 +25,18 @@ EDGE_THRESHOLD = 0.05  # 5 percentage points
 # Minimum model win probability to trigger a "high-confidence pick" ping
 CONFIDENCE_THRESHOLD = 0.75  # 75%
 
-# How often to poll for new odds (seconds) -- only used by main.py's --loop mode;
-# the GitHub Actions schedule (run_model.yml) controls the real cadence.
+# How often to poll for new matches while a run is active (seconds)
 POLL_INTERVAL_SECONDS = 300  # 5 minutes
+
+# How long a single GitHub Actions run stays active and keeps polling before
+# exiting (minutes). Kept under the schedule interval in run_model.yml so
+# this session finishes before the next one starts. Lower this (or raise
+# POLL_INTERVAL_SECONDS) if you're burning through API quota too fast.
+MAX_RUN_MINUTES = 50
+
+# Whether to fetch head-to-head + recent form for each live match (1 extra
+# API call per match). Turn off if you're running low on API quota.
+ENABLE_H2H = True
 
 # --- Data paths ---
 DATA_DIR = "data"
