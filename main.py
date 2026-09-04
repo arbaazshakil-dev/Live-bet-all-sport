@@ -22,6 +22,7 @@ import time
 from datetime import datetime, timezone
 
 import config
+import elo_model
 import notifier
 import tennis_api_client as api
 
@@ -126,10 +127,24 @@ def load_standings_points():
     return points
 
 
-def estimate_model_prob(p1_key, p2_key, points):
-    """Simple strength-share estimate: player's share of combined ranking
-    points. Returns None if either player isn't in the current top rankings
-    (common for lower-tier ITF/Challenger matches -- no coverage there)."""
+def load_elo_ratings():
+    if not os.path.exists(config.ELO_RATINGS_FILE):
+        return {}
+    with open(config.ELO_RATINGS_FILE) as f:
+        return json.load(f)
+
+
+def estimate_model_prob(p1_key, p2_key, points, p1_name=None, p2_name=None, elo_ratings=None, surface=None):
+    """Primary: surface-aware Elo rating built from real historical match
+    results, if both players are found in it (uses the exact names as
+    given by the live feed). Falls back to a ranking-points share estimate
+    if either player isn't in the Elo ratings (e.g. a player with no match
+    history in the uploaded CSVs)."""
+    if elo_ratings and p1_name and p2_name:
+        elo_prob = elo_model.win_probability(elo_ratings, p1_name, p2_name, surface)
+        if elo_prob is not None:
+            return elo_prob
+
     p1 = points.get(str(p1_key))
     p2 = points.get(str(p2_key))
     if p1 is None or p2 is None or (p1 + p2) == 0:
@@ -256,6 +271,9 @@ def process_live_matches(existing_rows):
 
     print(f"[main] {len(live)} live match(es) found.")
     points = load_standings_points()
+    elo_ratings = load_elo_ratings()
+    if elo_ratings:
+        print(f"[main] Loaded Elo ratings for {len(elo_ratings)} players.")
 
     stats_by_event = {}
 
@@ -274,7 +292,11 @@ def process_live_matches(existing_rows):
             if h2h_entry:
                 stats_by_event[str(event_id)]["h2h"] = h2h_entry
 
-        model_prob = estimate_model_prob(p1_key, p2_key, points)
+        model_prob = estimate_model_prob(
+            p1_key, p2_key, points,
+            p1_name=p1, p2_name=p2, elo_ratings=elo_ratings,
+            surface=None,  # api-tennis.com's live feed doesn't expose surface; Elo defaults to "hard" internally
+        )
 
         market_odds_p1 = None
         implied_p1 = None
@@ -305,8 +327,9 @@ def process_live_matches(existing_rows):
         new_rows.append(row)
 
         if edge is not None and edge >= config.EDGE_THRESHOLD:
-            print(f"[VALUE BET] {p1} vs {p2}: edge={edge:.1%}")
-            notifier.notify_value_bet(p1, p2, model_prob, market_odds_p1, edge, "best available")
+            print(f"[VALUE BET -- logged only, alerts off] {p1} vs {p2}: edge={edge:.1%}")
+            if config.ENABLE_VALUE_BET_ALERTS:
+                notifier.notify_value_bet(p1, p2, model_prob, market_odds_p1, edge, "best available")
         elif model_prob is not None and model_prob >= config.CONFIDENCE_THRESHOLD:
             print(f"[HIGH CONFIDENCE] {p1} vs {p2}: prob={model_prob:.1%}")
             notifier.notify_high_confidence(p1, p2, model_prob)

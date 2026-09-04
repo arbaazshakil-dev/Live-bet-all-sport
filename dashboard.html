@@ -64,6 +64,18 @@
     margin: 0;
   }
 
+  .csv-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--ball);
+    text-decoration: none;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 5px 12px;
+  }
+
   main {
     max-width: 640px;
     margin: 0 auto;
@@ -315,13 +327,15 @@
   <div class="eyebrow">// LIVE PREDICTIONS BOARD</div>
   <h1>Tennis Model</h1>
   <p class="sub">Reads directly from your GitHub prediction log — refresh to update.</p>
+  <p class="sub" style="margin-top:4px;">* EDGE / value bets are logged for tracking only — a backtest against 2 years of real odds showed this signal loses money and gets worse at higher edges. Not currently pushed as alerts.</p>
+  <a id="csv-link" href="#" target="_blank" rel="noopener" class="csv-link">⬇ Download predictions_log.csv</a>
 </header>
 
 <main>
   <div class="stat-row" id="stat-row" style="display:none;">
     <div class="stat"><span class="num" id="stat-total">–</span><span class="label">logged</span></div>
     <div class="stat"><span class="num" id="stat-accuracy">–</span><span class="label">accuracy</span></div>
-    <div class="stat"><span class="num" id="stat-value">–</span><span class="label">value bets</span></div>
+    <div class="stat"><span class="num" id="stat-value">–</span><span class="label">value bets*</span></div>
   </div>
 
   <div id="content">
@@ -342,6 +356,7 @@
 
   const csvUrl = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${BRANCH}/${CSV_PATH}`;
   const statsUrl = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${BRANCH}/${STATS_PATH}`;
+  document.getElementById("csv-link").href = csvUrl;
 
   function parseCSV(text) {
     const lines = text.trim().split("\n");

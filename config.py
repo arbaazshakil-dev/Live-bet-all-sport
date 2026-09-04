@@ -38,7 +38,18 @@ MAX_RUN_MINUTES = 50
 # API call per match). Turn off if you're running low on API quota.
 ENABLE_H2H = True
 
+# Whether to send push notifications for "value bet" (edge-based) picks.
+# Default OFF: a walk-forward backtest against ~2 years of real WTA odds
+# (2024-2026) showed this signal loses money overall (-11.9% ROI), and gets
+# WORSE at higher edge thresholds -- meaning big disagreements with the
+# market are more often the model missing context (injury, form, fatigue)
+# than genuine mispricing. High-confidence picks (raw model probability)
+# backtested at a legitimate 64% accuracy and are unaffected by this flag.
+# Don't flip this on without re-validating -- see backtest/backtest_wta.py.
+ENABLE_VALUE_BET_ALERTS = False
+
 # --- Data paths ---
 DATA_DIR = "data"
 LOG_FILE = f"{DATA_DIR}/predictions_log.csv"
 LIVE_STATS_FILE = f"{DATA_DIR}/live_stats.json"
+ELO_RATINGS_FILE = f"{DATA_DIR}/elo_ratings.json"
