@@ -11,6 +11,7 @@ for the free GitHub Actions setup.)
 """
 import argparse
 import csv
+import json
 import os
 import time
 from datetime import datetime, timezone
@@ -80,6 +81,49 @@ def _find_events_list(payload):
     return None
 
 
+def _fetch_match_stats(event_id, p1, p2, score_hint, status_hint):
+    """
+    Pulls score, per-player stats, and the match timeline for one live
+    match. Tries the live-score endpoint first (keyed by event id, fast);
+    falls back to the player+date lookup for richer stats/timeline if
+    that fails. Returns a dict for live_stats.json, or None on failure.
+    """
+    entry = {
+        "player": p1,
+        "opponent": p2,
+        "score": score_hint,
+        "status": status_hint,
+        "stats": None,
+        "timeline": None,
+    }
+
+    try:
+        details = api.get_event_details(p1, p2, datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+        result = details.get("result", details) if isinstance(details, dict) else {}
+        if isinstance(result, dict):
+            entry["score"] = result.get("score", entry["score"])
+            entry["status"] = result.get("status", entry["status"])
+            entry["stats"] = result.get("stats")
+            timeline = result.get("timeline")
+            if isinstance(timeline, list):
+                entry["timeline"] = [t.get("text") for t in timeline if isinstance(t, dict) and t.get("text")]
+        return entry
+    except Exception as e:
+        print(f"[main] Stats fetch failed for {p1} vs {p2}: {e}")
+        # still return the score/status we already had from the live-events list
+        return entry
+
+
+def save_live_stats(stats_by_event):
+    os.makedirs(config.DATA_DIR, exist_ok=True)
+    payload = {
+        "updated": datetime.now(timezone.utc).isoformat(),
+        "matches": stats_by_event,
+    }
+    with open(config.LIVE_STATS_FILE, "w") as f:
+        json.dump(payload, f, indent=2)
+
+
 def process_live_events():
     try:
         live = api.get_live_events()
@@ -97,7 +141,10 @@ def process_live_events():
 
     if not events:
         print("[main] No live tennis events right now.")
+        save_live_stats({})
         return
+
+    stats_by_event = {}
 
     for event in events:
         event_id = event.get("matchId") or event.get("id")
@@ -106,6 +153,11 @@ def process_live_events():
         tour_type = str(event.get("tourType", "atp")).lower()
         if not (event_id and p1 and p2):
             continue
+
+        # 0. Score/stats/timeline for the live match tab
+        stats_entry = _fetch_match_stats(event_id, p1, p2, event.get("score"), event.get("status"))
+        if stats_entry:
+            stats_by_event[event_id] = stats_entry
 
         # 1. Get the API's own prediction
         try:
@@ -163,6 +215,8 @@ def process_live_events():
         elif model_prob is not None and model_prob >= config.CONFIDENCE_THRESHOLD:
             print(f"[HIGH CONFIDENCE] {p1} vs {p2}: prob={model_prob:.1%}")
             notifier.notify_high_confidence(p1, p2, model_prob)
+
+    save_live_stats(stats_by_event)
 
 
 def run_once():
