@@ -152,6 +152,9 @@
     font-weight: 500;
   }
 
+  .match .meta div b.good { color: var(--up); font-weight: 700; }
+  .match .meta div b.bad { color: var(--down); font-weight: 700; }
+
   .edge-tag {
     display: inline-block;
     font-family: 'JetBrains Mono', monospace;
@@ -164,6 +167,7 @@
 
   .edge-tag.pos { background: rgba(111, 207, 151, 0.15); color: var(--up); }
   .edge-tag.neu { background: rgba(143, 163, 150, 0.15); color: var(--chalk-dim); }
+  .edge-tag.bad { background: rgba(224, 118, 90, 0.15); color: var(--down); }
 
   .match details {
     margin-top: 10px;
@@ -214,6 +218,8 @@
 
   .stat-grid .label { color: var(--chalk-dim); }
   .stat-grid .p1, .stat-grid .p2 { color: var(--chalk); text-align: right; }
+  .stat-grid .good { color: var(--up); font-weight: 700; }
+  .stat-grid .bad { color: var(--down); }
 
   .timeline {
     margin: 8px 0 0;
@@ -315,16 +321,25 @@
 
     let statRows = "";
     if (stats.stats && typeof stats.stats === "object") {
+      // higher is better, except double faults where fewer is better
       const rowsMap = {
-        aces: "Aces",
-        double_faults: "Double faults",
-        win_1st_serve: "1st serve won",
-        break_point_conversions: "Break points won",
+        aces: { label: "Aces", lowerIsBetter: false },
+        double_faults: { label: "Double faults", lowerIsBetter: true },
+        win_1st_serve: { label: "1st serve won", lowerIsBetter: false },
+        break_point_conversions: { label: "Break points won", lowerIsBetter: false },
       };
-      statRows = Object.entries(rowsMap).map(([key, label]) => {
+      statRows = Object.entries(rowsMap).map(([key, cfg]) => {
         const val = stats.stats[key];
         if (!Array.isArray(val)) return "";
-        return `<div class="label">${label}</div><div class="p1">${val[0] ?? "–"}</div><div class="p2">${val[1] ?? "–"}</div>`;
+        const n1 = parseFloat(val[0]);
+        const n2 = parseFloat(val[1]);
+        let cls1 = "", cls2 = "";
+        if (!isNaN(n1) && !isNaN(n2) && n1 !== n2) {
+          const p1Better = cfg.lowerIsBetter ? n1 < n2 : n1 > n2;
+          cls1 = p1Better ? "good" : "bad";
+          cls2 = p1Better ? "bad" : "good";
+        }
+        return `<div class="label">${cfg.label}</div><div class="p1 ${cls1}">${val[0] ?? "–"}</div><div class="p2 ${cls2}">${val[1] ?? "–"}</div>`;
       }).join("");
     }
     const statGrid = statRows
@@ -377,17 +392,23 @@
       }) : "";
       const stats = r.event_id ? matches[r.event_id] : null;
 
+      // green if the model favors this player above a coin flip, red if against
+      const modelProbVal = parseFloat(r.model_prob);
+      const modelCls = isNaN(modelProbVal) ? "" : (modelProbVal >= 0.5 ? "good" : "bad");
+      // green edge = a real value bet, red = model disagrees with the market
+      const edgeCls = isNaN(edgeVal) ? "" : (edgeVal >= 0.05 ? "good" : (edgeVal < 0 ? "bad" : ""));
+
       return `
         <div class="match">
           <div class="names">
             <span>${r.player || "?"} <span class="vs">vs</span> ${r.opponent || "?"}</span>
           </div>
           <div class="meta">
-            <div>MODEL <b>${modelProb}</b></div>
+            <div>MODEL <b class="${modelCls}">${modelProb}</b></div>
             <div>MARKET <b>${r.market_odds || "–"}</b></div>
             <div>IMPLIED <b>${impliedProb}</b></div>
           </div>
-          ${edgeDisplay ? `<div class="edge-tag ${isValue ? 'pos' : 'neu'}">EDGE ${edgeDisplay}</div>` : ""}
+          ${edgeDisplay ? `<div class="edge-tag ${isValue ? 'pos' : 'neu'} ${edgeCls}">EDGE ${edgeDisplay}</div>` : ""}
           <div class="meta" style="margin-top:6px;"><div>${time}</div></div>
           <details>
             <summary>Match stats &amp; score</summary>
