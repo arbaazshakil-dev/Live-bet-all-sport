@@ -4,12 +4,13 @@ Fill in your API keys below (or set as environment variables of the same name).
 """
 import os
 
-# --- Tennis API (RapidAPI / matchstat.com) ---
-# Subscribe (free tier available) at https://rapidapi.com/jjrm365-kIFr3Nx_odV/api/tennis-api-atp-wta-itf
-# Docs: https://tennisapidoc.matchstat.com/
-# Provides live events, predictions, pre-match & live odds, and arbitrage detection
-# all from one source -- replaces the separate historical-Elo + odds-API approach.
-RAPIDAPI_KEY = os.environ.get("RAPIDAPI_KEY", "YOUR_RAPIDAPI_KEY_HERE")
+# --- Tennis API (api-tennis.com) ---
+# Register / get your key at https://api-tennis.com/register
+# Docs: https://api-tennis.com/documentation
+# Provides live scores (with inline stats/point-by-point), odds, live odds,
+# standings, H2H, and fixtures. No prediction endpoint -- our own MODEL
+# probability is estimated from current ATP/WTA ranking points (see main.py).
+APITENNIS_KEY = os.environ.get("APITENNIS_KEY", "YOUR_APITENNIS_KEY_HERE")
 
 # --- Notifications (ntfy.sh) ---
 # ntfy is free, no signup: pick any unique topic name, install the ntfy app,
@@ -24,21 +25,11 @@ EDGE_THRESHOLD = 0.05  # 5 percentage points
 # Minimum model win probability to trigger a "high-confidence pick" ping
 CONFIDENCE_THRESHOLD = 0.75  # 75%
 
-# How often to poll for new odds (seconds)
+# How often to poll for new odds (seconds) -- only used by main.py's --loop mode;
+# the GitHub Actions schedule (run_model.yml) controls the real cadence.
 POLL_INTERVAL_SECONDS = 300  # 5 minutes
-
-# --- Sports to track (Odds API sport keys) ---
-# Full list: https://the-odds-api.com/sports-odds-data/sports-apis.html
-SPORT_KEYS = [
-    "tennis_atp",
-    "tennis_wta",
-    # add more once tennis pilot is validated, e.g.:
-    # "basketball_nba", "americanfootball_nfl", "soccer_epl", "icehockey_nhl"
-]
 
 # --- Data paths ---
 DATA_DIR = "data"
-HISTORICAL_DIR = f"{DATA_DIR}/historical"
-RATINGS_FILE = f"{DATA_DIR}/elo_ratings.json"
 LOG_FILE = f"{DATA_DIR}/predictions_log.csv"
 LIVE_STATS_FILE = f"{DATA_DIR}/live_stats.json"
