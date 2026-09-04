@@ -1,0 +1,39 @@
+name: Run tennis betting model
+
+on:
+  schedule:
+    # Every hour, on the hour.
+    - cron: "0 * * * *"
+  workflow_dispatch: {}  # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write  # lets the workflow commit the updated prediction log back to the repo
+
+jobs:
+  run-model:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run one pass of the model
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python main.py --once
+
+      - name: Commit updated prediction log
+        run: |
+          git config user.name "sports-model-bot"
+          git config user.email "actions@github.com"
+          git add data/predictions_log.csv data/live_stats.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Update predictions log and live stats [skip ci]"
+          git push
