@@ -165,6 +165,77 @@
   .edge-tag.pos { background: rgba(111, 207, 151, 0.15); color: var(--up); }
   .edge-tag.neu { background: rgba(143, 163, 150, 0.15); color: var(--chalk-dim); }
 
+  .match details {
+    margin-top: 10px;
+    border-top: 1px solid var(--border);
+    padding-top: 8px;
+  }
+
+  .match summary {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--ball);
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .match summary::-webkit-details-marker { display: none; }
+  .match summary::before { content: "▸ "; }
+  .match details[open] summary::before { content: "▾ "; }
+
+  .score-line {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--chalk);
+    margin: 8px 0 6px;
+  }
+
+  .status-pill {
+    display: inline-block;
+    font-size: 10px;
+    font-family: 'JetBrains Mono', monospace;
+    color: var(--up);
+    background: rgba(111, 207, 151, 0.12);
+    border-radius: 20px;
+    padding: 2px 8px;
+    margin-left: 8px;
+    vertical-align: middle;
+  }
+
+  .stat-grid {
+    display: grid;
+    grid-template-columns: auto 1fr 1fr;
+    gap: 4px 10px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    margin: 6px 0;
+  }
+
+  .stat-grid .label { color: var(--chalk-dim); }
+  .stat-grid .p1, .stat-grid .p2 { color: var(--chalk); text-align: right; }
+
+  .timeline {
+    margin: 8px 0 0;
+    padding: 0;
+    list-style: none;
+    font-size: 12px;
+    color: var(--chalk-dim);
+    max-height: 160px;
+    overflow-y: auto;
+  }
+
+  .timeline li {
+    padding: 4px 0;
+    border-bottom: 1px solid var(--court-line);
+  }
+
+  .no-stats {
+    font-size: 12px;
+    color: var(--chalk-dim);
+    padding-top: 4px;
+  }
+
   .empty, .loading, .error {
     text-align: center;
     color: var(--chalk-dim);
@@ -214,9 +285,11 @@
   const REPO_NAME = "Live-bet-all-sport";
   const BRANCH = "main";
   const CSV_PATH = "data/predictions_log.csv";
+  const STATS_PATH = "data/live_stats.json";
   // ----------------------------------
 
-  const url = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${BRANCH}/${CSV_PATH}`;
+  const csvUrl = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${BRANCH}/${CSV_PATH}`;
+  const statsUrl = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${BRANCH}/${STATS_PATH}`;
 
   function parseCSV(text) {
     const lines = text.trim().split("\n");
@@ -235,7 +308,43 @@
     return (f * 100).toFixed(1) + "%";
   }
 
-  function render(rows) {
+  function statsHtml(stats) {
+    if (!stats) return `<div class="no-stats">No live stats available for this match yet.</div>`;
+
+    const score = stats.score ? `<div class="score-line">${stats.score}${stats.status ? `<span class="status-pill">${stats.status}</span>` : ""}</div>` : "";
+
+    let statRows = "";
+    if (stats.stats && typeof stats.stats === "object") {
+      const rowsMap = {
+        aces: "Aces",
+        double_faults: "Double faults",
+        win_1st_serve: "1st serve won",
+        break_point_conversions: "Break points won",
+      };
+      statRows = Object.entries(rowsMap).map(([key, label]) => {
+        const val = stats.stats[key];
+        if (!Array.isArray(val)) return "";
+        return `<div class="label">${label}</div><div class="p1">${val[0] ?? "–"}</div><div class="p2">${val[1] ?? "–"}</div>`;
+      }).join("");
+    }
+    const statGrid = statRows
+      ? `<div class="stat-grid"><div></div><div class="p1">${stats.player || "P1"}</div><div class="p2">${stats.opponent || "P2"}</div>${statRows}</div>`
+      : "";
+
+    let timelineHtml = "";
+    if (Array.isArray(stats.timeline) && stats.timeline.length) {
+      const items = stats.timeline.slice(-15).reverse().map(t => `<li>${t}</li>`).join("");
+      timelineHtml = `<ul class="timeline">${items}</ul>`;
+    }
+
+    if (!score && !statGrid && !timelineHtml) {
+      return `<div class="no-stats">No live stats available for this match yet.</div>`;
+    }
+
+    return `${score}${statGrid}${timelineHtml}`;
+  }
+
+  function render(rows, liveStats) {
     const content = document.getElementById("content");
 
     if (!rows.length) {
@@ -255,6 +364,8 @@
     document.getElementById("stat-edge").textContent = avgEdge !== null ? (avgEdge * 100).toFixed(1) + "%" : "–";
     document.getElementById("stat-value").textContent = valueCount;
 
+    const matches = (liveStats && liveStats.matches) || {};
+
     const cards = rows.slice(0, 40).map(r => {
       const edgeVal = parseFloat(r.edge);
       const isValue = !isNaN(edgeVal) && edgeVal >= 0.05;
@@ -264,6 +375,7 @@
       const time = r.timestamp ? new Date(r.timestamp).toLocaleString(undefined, {
         month: "short", day: "numeric", hour: "2-digit", minute: "2-digit"
       }) : "";
+      const stats = r.event_id ? matches[r.event_id] : null;
 
       return `
         <div class="match">
@@ -277,6 +389,10 @@
           </div>
           ${edgeDisplay ? `<div class="edge-tag ${isValue ? 'pos' : 'neu'}">EDGE ${edgeDisplay}</div>` : ""}
           <div class="meta" style="margin-top:6px;"><div>${time}</div></div>
+          <details>
+            <summary>Match stats &amp; score</summary>
+            ${statsHtml(stats)}
+          </details>
         </div>
       `;
     }).join("");
@@ -284,16 +400,19 @@
     content.innerHTML = `<div class="section-title">Recent predictions</div>${cards}`;
   }
 
-  fetch(url)
-    .then(res => {
-      if (!res.ok) throw new Error("File not found (no predictions logged yet, or repo/path is wrong)");
+  Promise.all([
+    fetch(csvUrl).then(res => {
+      if (!res.ok) throw new Error("predictions_log.csv not found (no predictions logged yet, or repo/path is wrong)");
       return res.text();
-    })
-    .then(text => render(parseCSV(text)))
+    }).then(parseCSV),
+    fetch(statsUrl).then(res => res.ok ? res.json() : null).catch(() => null),
+  ])
+    .then(([rows, liveStats]) => render(rows, liveStats))
     .catch(err => {
       document.getElementById("content").innerHTML =
         `<div class="error">Couldn't load the log.<br>${err.message}</div>`;
     });
+
 </script>
 
 </body>
