@@ -32,7 +32,7 @@ POLL_INTERVAL_SECONDS = 300  # 5 minutes
 # exiting (minutes). Kept under the schedule interval in run_model.yml so
 # this session finishes before the next one starts. Lower this (or raise
 # POLL_INTERVAL_SECONDS) if you're burning through API quota too fast.
-MAX_RUN_MINUTES = 50
+MAX_RUN_MINUTES = 15
 
 # Whether to fetch head-to-head + recent form for each live match (1 extra
 # API call per match). Turn off if you're running low on API quota.
