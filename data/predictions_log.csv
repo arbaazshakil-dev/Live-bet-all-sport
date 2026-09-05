@@ -642,15 +642,23 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-04T23:22:29.093392+00:00,12160137,T. M. Etcheverry,M. Navone,Atp Singles,0.5749,1.97,0.5076,0.0672,1,T. M. Etcheverry,2026-09-05T00:21:05.204145+00:00
 2026-09-05T00:21:07.476794+00:00,12159684,Fossa Huergo/ Korpatsch,Maleckova/ Skoch,Wta Doubles,,,,,,,
 2026-09-05T00:21:08.192647+00:00,12159709,Williams/ Williams,Chan H-/Joint,Wta Doubles,,,,,,,
-2026-09-05T00:21:08.959732+00:00,12160020,A. Michelsen,D. Merida Aguilar,Atp Singles,0.4805,1.54,0.6494,-0.1689,,,
-2026-09-05T00:21:09.683602+00:00,12160138,V. Vacherot,F. Tiafoe,Atp Singles,0.4472,2.57,0.3891,0.0581,,,
+2026-09-05T00:21:08.959732+00:00,12160020,A. Michelsen,D. Merida Aguilar,Atp Singles,0.4805,1.54,0.6494,-0.1689,0,A. Michelsen,2026-09-05T01:11:38.618589+00:00
+2026-09-05T00:21:09.683602+00:00,12160138,V. Vacherot,F. Tiafoe,Atp Singles,0.4472,2.57,0.3891,0.0581,1,F. Tiafoe,2026-09-05T01:11:39.044145+00:00
 2026-09-05T00:21:10.419395+00:00,12160137,T. M. Etcheverry,M. Navone,Atp Singles,0.5749,1.97,0.5076,0.0672,,,
 2026-09-05T00:26:16.388823+00:00,12159684,Fossa Huergo/ Korpatsch,Maleckova/ Skoch,Wta Doubles,,,,,,,
 2026-09-05T00:26:17.125913+00:00,12159709,Williams/ Williams,Chan H-/Joint,Wta Doubles,,,,,,,
-2026-09-05T00:26:17.945106+00:00,12160020,A. Michelsen,D. Merida Aguilar,Atp Singles,0.4805,1.54,0.6494,-0.1689,,,
-2026-09-05T00:26:18.665440+00:00,12160138,V. Vacherot,F. Tiafoe,Atp Singles,0.4472,2.57,0.3891,0.0581,,,
+2026-09-05T00:26:17.945106+00:00,12160020,A. Michelsen,D. Merida Aguilar,Atp Singles,0.4805,1.54,0.6494,-0.1689,0,A. Michelsen,2026-09-05T01:11:39.816342+00:00
+2026-09-05T00:26:18.665440+00:00,12160138,V. Vacherot,F. Tiafoe,Atp Singles,0.4472,2.57,0.3891,0.0581,1,F. Tiafoe,2026-09-05T01:11:40.161145+00:00
 2026-09-05T00:26:19.422277+00:00,12160137,T. M. Etcheverry,M. Navone,Atp Singles,0.5749,1.97,0.5076,0.0672,,,
 2026-09-05T00:31:26.367533+00:00,12159684,Fossa Huergo/ Korpatsch,Maleckova/ Skoch,Wta Doubles,,,,,,,
 2026-09-05T00:31:27.094072+00:00,12159709,Williams/ Williams,Chan H-/Joint,Wta Doubles,,,,,,,
-2026-09-05T00:31:27.894830+00:00,12160020,A. Michelsen,D. Merida Aguilar,Atp Singles,0.4805,1.54,0.6494,-0.1689,,,
-2026-09-05T00:31:28.618210+00:00,12160138,V. Vacherot,F. Tiafoe,Atp Singles,0.4472,2.57,0.3891,0.0581,,,
+2026-09-05T00:31:27.894830+00:00,12160020,A. Michelsen,D. Merida Aguilar,Atp Singles,0.4805,1.54,0.6494,-0.1689,0,A. Michelsen,2026-09-05T01:11:40.884860+00:00
+2026-09-05T00:31:28.618210+00:00,12160138,V. Vacherot,F. Tiafoe,Atp Singles,0.4472,2.57,0.3891,0.0581,1,F. Tiafoe,2026-09-05T01:11:41.235196+00:00
+2026-09-05T01:11:43.279780+00:00,12159709,Williams/ Williams,Chan H-/Joint,Wta Doubles,,,,,,,
+2026-09-05T01:11:43.966829+00:00,12160138,V. Vacherot,F. Tiafoe,Atp Singles,0.4472,2.57,0.3891,0.0581,1,F. Tiafoe,2026-09-05T01:16:47.337300+00:00
+2026-09-05T01:16:49.625684+00:00,12159709,Williams/ Williams,Chan H-/Joint,Wta Doubles,,,,,,,
+2026-09-05T01:16:50.391779+00:00,12160138,V. Vacherot,F. Tiafoe,Atp Singles,0.4472,2.57,0.3891,0.0581,1,F. Tiafoe,2026-09-05T01:21:54.517674+00:00
+2026-09-05T01:16:51.109044+00:00,12160141,E. Svitolina,A. Kalinskaya,Wta Singles,0.7081,1.39,0.7194,-0.0113,,,
+2026-09-05T01:21:56.909965+00:00,12159709,Williams/ Williams,Chan H-/Joint,Wta Doubles,,,,,,,
+2026-09-05T01:21:57.633768+00:00,12160138,V. Vacherot,F. Tiafoe,Atp Singles,0.4472,2.57,0.3891,0.0581,,,
+2026-09-05T01:21:58.399601+00:00,12160141,E. Svitolina,A. Kalinskaya,Wta Singles,0.7081,1.39,0.7194,-0.0113,,,
