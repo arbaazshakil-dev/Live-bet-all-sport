@@ -2604,7 +2604,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T18:15:58.228017+00:00,12160529,Muhammad/ Stollar,Hozumi/ Klepac,Wta Doubles,,,,,,,
 2026-09-06T18:15:59.279718+00:00,12160519,Dart/ Lumsden,Bucsa/ Melichar-Martinez,Wta Doubles,,,,,,,
 2026-09-06T18:16:00.341387+00:00,12160518,Maria/ Sonmez,Danilina/ Krunic,Wta Doubles,,,,,,,
-2026-09-06T18:16:01.402791+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,,,
+2026-09-06T18:16:01.402791+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,1,C. Alcaraz,2026-09-06T21:12:25.611174+00:00
 2026-09-06T18:21:42.875796+00:00,12160693,D. Jade,M. Vaughan,Boys Singles,,,,,,,
 2026-09-06T18:21:43.932850+00:00,12160739,A. Wang,M. Makarova,Girls Singles,,,,,,,
 2026-09-06T18:21:44.991309+00:00,12160737,A. Sushkova,Y. Lin,Girls Singles,,,,,,,
@@ -2622,7 +2622,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T18:21:58.198841+00:00,12160529,Muhammad/ Stollar,Hozumi/ Klepac,Wta Doubles,,,,,,,
 2026-09-06T18:21:59.248963+00:00,12160519,Dart/ Lumsden,Bucsa/ Melichar-Martinez,Wta Doubles,,,,,,,
 2026-09-06T18:22:00.311394+00:00,12160518,Maria/ Sonmez,Danilina/ Krunic,Wta Doubles,,,,,,,
-2026-09-06T18:22:01.372565+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,,,
+2026-09-06T18:22:01.372565+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,1,C. Alcaraz,2026-09-06T21:12:26.029424+00:00
 2026-09-06T18:27:47.212261+00:00,12160693,D. Jade,M. Vaughan,Boys Singles,,,,,,,
 2026-09-06T18:27:48.359729+00:00,12160739,A. Wang,M. Makarova,Girls Singles,,,,,,,
 2026-09-06T18:27:49.503716+00:00,12160737,A. Sushkova,Y. Lin,Girls Singles,,,,,,,
@@ -2640,11 +2640,11 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T18:28:03.291853+00:00,12160529,Muhammad/ Stollar,Hozumi/ Klepac,Wta Doubles,,,,,,,
 2026-09-06T18:28:04.419406+00:00,12160519,Dart/ Lumsden,Bucsa/ Melichar-Martinez,Wta Doubles,,,,,,,
 2026-09-06T18:28:05.472725+00:00,12160518,Maria/ Sonmez,Danilina/ Krunic,Wta Doubles,,,,,,,
-2026-09-06T18:28:06.611008+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,,,
+2026-09-06T18:28:06.611008+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,1,C. Alcaraz,2026-09-06T21:12:26.482586+00:00
 2026-09-06T19:12:06.165375+00:00,12160693,D. Jade,M. Vaughan,Boys Singles,,,,,,,
-2026-09-06T19:12:07.042284+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,,,
+2026-09-06T19:12:07.042284+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,1,A. S. Sanchez,2026-09-06T21:12:26.898573+00:00
 2026-09-06T19:12:07.926912+00:00,12160851,Pavlasek/ Rikl,Cash/ Glasspool,Atp Doubles,,,,,,,
-2026-09-06T19:12:08.771503+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,,,
+2026-09-06T19:12:08.771503+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,0,I. Pistola,2026-09-06T21:12:27.324757+00:00
 2026-09-06T19:12:09.623498+00:00,12160726,C. Mercier,A. Tu,Girls Singles,,,,,,,
 2026-09-06T19:12:10.495487+00:00,12160722,S. A. Larraya Guidi,N. Kha,Girls Singles,,,,,,,
 2026-09-06T19:12:11.350804+00:00,12160704,V. Reisach,V. Reddy,Boys Singles,0.9167,,,,0,V. Reddy,2026-09-06T20:13:12.638818+00:00
@@ -2658,11 +2658,11 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T19:12:18.616961+00:00,12160533,M. Kostyuk,L. Noskova,Wta Singles,0.4418,1.72,0.5814,-0.1396,1,L. Noskova,2026-09-06T19:17:48.854987+00:00
 2026-09-06T19:12:19.518899+00:00,12160520,Jiang/ Zhang,Chong/ Yang,Wta Doubles,,,,,,,
 2026-09-06T19:12:20.417403+00:00,12160519,Dart/ Lumsden,Bucsa/ Melichar-Martinez,Wta Doubles,,,,,,,
-2026-09-06T19:12:21.306302+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,,,
+2026-09-06T19:12:21.306302+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,1,C. Alcaraz,2026-09-06T21:12:28.210385+00:00
 2026-09-06T19:17:51.968884+00:00,12160693,D. Jade,M. Vaughan,Boys Singles,,,,,,,
-2026-09-06T19:17:52.856180+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,,,
+2026-09-06T19:17:52.856180+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,1,A. S. Sanchez,2026-09-06T21:12:28.629407+00:00
 2026-09-06T19:17:53.732122+00:00,12160851,Pavlasek/ Rikl,Cash/ Glasspool,Atp Doubles,,,,,,,
-2026-09-06T19:17:54.587731+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,,,
+2026-09-06T19:17:54.587731+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,0,I. Pistola,2026-09-06T21:12:29.062736+00:00
 2026-09-06T19:17:55.453504+00:00,12160726,C. Mercier,A. Tu,Girls Singles,,,,,,,
 2026-09-06T19:17:56.327782+00:00,12160722,S. A. Larraya Guidi,N. Kha,Girls Singles,,,,,,,
 2026-09-06T19:17:57.186346+00:00,12160704,V. Reisach,V. Reddy,Boys Singles,0.9167,,,,0,V. Reddy,2026-09-06T20:13:14.361910+00:00
@@ -2675,11 +2675,11 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T19:18:03.484582+00:00,12160535,Hsieh S-/Ostapenko,Bouzkova/ Sorribes Tormo,Wta Doubles,,,,,,,
 2026-09-06T19:18:04.346255+00:00,12160533,M. Kostyuk,L. Noskova,Wta Singles,0.4418,1.72,0.5814,-0.1396,1,L. Noskova,2026-09-06T19:23:33.061365+00:00
 2026-09-06T19:18:05.218028+00:00,12160520,Jiang/ Zhang,Chong/ Yang,Wta Doubles,,,,,,,
-2026-09-06T19:18:06.100630+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,,,
+2026-09-06T19:18:06.100630+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,1,C. Alcaraz,2026-09-06T21:12:29.910140+00:00
 2026-09-06T19:23:36.156721+00:00,12160693,D. Jade,M. Vaughan,Boys Singles,,,,,,,
-2026-09-06T19:23:37.039435+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,,,
+2026-09-06T19:23:37.039435+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,1,A. S. Sanchez,2026-09-06T21:12:30.324136+00:00
 2026-09-06T19:23:37.918715+00:00,12160851,Pavlasek/ Rikl,Cash/ Glasspool,Atp Doubles,,,,,,,
-2026-09-06T19:23:38.764065+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,,,
+2026-09-06T19:23:38.764065+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,0,I. Pistola,2026-09-06T21:12:30.742607+00:00
 2026-09-06T19:23:39.610190+00:00,12160726,C. Mercier,A. Tu,Girls Singles,,,,,,,
 2026-09-06T19:23:40.488186+00:00,12160722,S. A. Larraya Guidi,N. Kha,Girls Singles,,,,,,,
 2026-09-06T19:23:41.350404+00:00,12160704,V. Reisach,V. Reddy,Boys Singles,0.9167,,,,0,V. Reddy,2026-09-06T20:13:16.077951+00:00
@@ -2692,9 +2692,9 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T19:23:47.533728+00:00,12160535,Hsieh S-/Ostapenko,Bouzkova/ Sorribes Tormo,Wta Doubles,,,,,,,
 2026-09-06T19:23:48.407507+00:00,12160533,M. Kostyuk,L. Noskova,Wta Singles,0.4418,1.72,0.5814,-0.1396,1,L. Noskova,2026-09-06T20:13:16.771336+00:00
 2026-09-06T19:23:49.256161+00:00,12160520,Jiang/ Zhang,Chong/ Yang,Wta Doubles,,,,,,,
-2026-09-06T19:23:50.122488+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,,,
+2026-09-06T19:23:50.122488+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,1,C. Alcaraz,2026-09-06T21:12:31.588997+00:00
 2026-09-06T20:13:19.279356+00:00,12160514,Miedler/ Polmans,Cash/ Erler,Atp Doubles,,,,,,,
-2026-09-06T20:13:19.962963+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,,,
+2026-09-06T20:13:19.962963+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,1,C. Alcaraz,2026-09-06T21:12:32.036958+00:00
 2026-09-06T20:13:20.641842+00:00,12160520,Jiang/ Zhang,Chong/ Yang,Wta Doubles,,,,,,,
 2026-09-06T20:13:21.338801+00:00,12160542,D. Medvedev,F. Tiafoe,Atp Singles,0.5719,1.67,0.5988,-0.0269,,,
 2026-09-06T20:13:22.023875+00:00,12160543,A. Michelsen,T. M. Etcheverry,Atp Singles,0.4263,1.36,0.7353,-0.309,,,
@@ -2705,15 +2705,15 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T20:13:25.464499+00:00,12160702,N. Raghuram,K. Thompson,Boys Singles,,,,,,,
 2026-09-06T20:13:26.146502+00:00,12160710,P. Berezina,C. Clarke,Girls Singles,,,,,,,
 2026-09-06T20:13:26.826113+00:00,12160722,S. A. Larraya Guidi,N. Kha,Girls Singles,,,,,,,
-2026-09-06T20:13:27.549978+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,,,
+2026-09-06T20:13:27.549978+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,0,I. Pistola,2026-09-06T21:12:33.335013+00:00
 2026-09-06T20:13:28.226305+00:00,12160736,X. Sun,A. Terentyeva,Girls Singles,,,,,,,
 2026-09-06T20:13:28.907858+00:00,12160851,Pavlasek/ Rikl,Cash/ Glasspool,Atp Doubles,,,,,,,
-2026-09-06T20:13:29.597909+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,,,
+2026-09-06T20:13:29.597909+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,1,A. S. Sanchez,2026-09-06T21:12:33.757587+00:00
 2026-09-06T20:18:54.585076+00:00,12160699,L. A. Miguel,D. Malacek,Boys Singles,,,,,,,
-2026-09-06T20:18:55.272731+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,,,
+2026-09-06T20:18:55.272731+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,1,A. S. Sanchez,2026-09-06T21:12:34.175975+00:00
 2026-09-06T20:18:55.947081+00:00,12160851,Pavlasek/ Rikl,Cash/ Glasspool,Atp Doubles,,,,,,,
 2026-09-06T20:18:56.624684+00:00,12160736,X. Sun,A. Terentyeva,Girls Singles,,,,,,,
-2026-09-06T20:18:57.305875+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,,,
+2026-09-06T20:18:57.305875+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,0,I. Pistola,2026-09-06T21:12:34.594210+00:00
 2026-09-06T20:18:57.979795+00:00,12160722,S. A. Larraya Guidi,N. Kha,Girls Singles,,,,,,,
 2026-09-06T20:18:58.657464+00:00,12160710,P. Berezina,C. Clarke,Girls Singles,,,,,,,
 2026-09-06T20:18:59.339971+00:00,12160705,M. Reyniak,J. Mackenzie,Boys Singles,0.1268,,,,,,
@@ -2725,12 +2725,12 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T20:19:03.454610+00:00,12160543,A. Michelsen,T. M. Etcheverry,Atp Singles,0.4263,1.36,0.7353,-0.309,,,
 2026-09-06T20:19:04.136894+00:00,12160542,D. Medvedev,F. Tiafoe,Atp Singles,0.5719,1.67,0.5988,-0.0269,,,
 2026-09-06T20:19:04.813411+00:00,12160520,Jiang/ Zhang,Chong/ Yang,Wta Doubles,,,,,,,
-2026-09-06T20:19:05.510825+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,,,
+2026-09-06T20:19:05.510825+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,1,C. Alcaraz,2026-09-06T21:12:36.326782+00:00
 2026-09-06T20:24:32.284691+00:00,12160683,M. Ceban,Y. Sakurai,Boys Singles,,,,,,,
-2026-09-06T20:24:32.989376+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,,,
+2026-09-06T20:24:32.989376+00:00,12160853,A. S. Sanchez,A. Candiotto,Itf Women Singles,0.5423,,,,1,A. S. Sanchez,2026-09-06T21:12:36.762302+00:00
 2026-09-06T20:24:33.662559+00:00,12160851,Pavlasek/ Rikl,Cash/ Glasspool,Atp Doubles,,,,,,,
 2026-09-06T20:24:34.424885+00:00,12160736,X. Sun,A. Terentyeva,Girls Singles,,,,,,,
-2026-09-06T20:24:35.113579+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,,,
+2026-09-06T20:24:35.113579+00:00,12160728,I. Pistola,A. Pircher,Girls Singles,0.3256,,,,0,I. Pistola,2026-09-06T21:12:37.178084+00:00
 2026-09-06T20:24:35.796382+00:00,12160722,S. A. Larraya Guidi,N. Kha,Girls Singles,,,,,,,
 2026-09-06T20:24:36.486734+00:00,12160710,P. Berezina,C. Clarke,Girls Singles,,,,,,,
 2026-09-06T20:24:37.170133+00:00,12160705,M. Reyniak,J. Mackenzie,Boys Singles,0.1268,,,,,,
@@ -2742,4 +2742,48 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T20:24:41.285068+00:00,12160542,D. Medvedev,F. Tiafoe,Atp Singles,0.5719,1.67,0.5988,-0.0269,,,
 2026-09-06T20:24:41.971306+00:00,12160534,Kichenok/ Kichenok,Kato/ Wu,Wta Doubles,,,,,,,
 2026-09-06T20:24:42.651436+00:00,12160520,Jiang/ Zhang,Chong/ Yang,Wta Doubles,,,,,,,
-2026-09-06T20:24:43.376102+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,,,
+2026-09-06T20:24:43.376102+00:00,12160516,T. Paul,C. Alcaraz,Atp Singles,0.2371,5.5,0.1818,0.0553,1,C. Alcaraz,2026-09-06T21:12:38.907175+00:00
+2026-09-06T21:12:41.572305+00:00,12160534,Kichenok/ Kichenok,Kato/ Wu,Wta Doubles,,,,,,,
+2026-09-06T21:12:42.421576+00:00,12160542,D. Medvedev,F. Tiafoe,Atp Singles,0.5719,1.67,0.5988,-0.0269,,,
+2026-09-06T21:12:43.277637+00:00,12160543,A. Michelsen,T. M. Etcheverry,Atp Singles,0.4263,1.36,0.7353,-0.309,,,
+2026-09-06T21:12:44.129178+00:00,12160545,Fossa Huergo/ Korpatsch,Chan H-/Joint,Wta Doubles,,,,,,,
+2026-09-06T21:12:44.969933+00:00,12160677,F. Alfano,Y. T. Alexandrescou,Boys Singles,0.027,,,,,,
+2026-09-06T21:12:45.809010+00:00,12160685,K. S. Chen,O. Ogunsakin,Boys Singles,0.5,,,,,,
+2026-09-06T21:12:46.659243+00:00,12160689,C. Doig,T. Davidov,Boys Singles,0.4286,,,,,,
+2026-09-06T21:12:47.494542+00:00,12160705,M. Reyniak,J. Mackenzie,Boys Singles,0.1268,,,,,,
+2026-09-06T21:12:48.337118+00:00,12160706,J. Secord,D. Zhalgasbay,Boys Singles,0.0714,,,,,,
+2026-09-06T21:12:49.174095+00:00,12160710,P. Berezina,C. Clarke,Girls Singles,,,,,,,
+2026-09-06T21:12:50.023099+00:00,12160715,K. Efremova,S. Fagan,Girls Singles,,,,,,,
+2026-09-06T21:12:50.880941+00:00,12160729,D. Popovski,C. Esquiva Banuls,Girls Singles,0.2131,,,,,,
+2026-09-06T21:12:51.753556+00:00,12160852,Ram/ Salisbury,Arribage/ Olivetti,Atp Doubles,,,,,,,
+2026-09-06T21:12:52.632967+00:00,12160854,M. Alves,V. H. Remondy Pagotto,Itf Men Singles,0.9077,,,,,,
+2026-09-06T21:18:24.643021+00:00,12160534,Kichenok/ Kichenok,Kato/ Wu,Wta Doubles,,,,,,,
+2026-09-06T21:18:25.481703+00:00,12160542,D. Medvedev,F. Tiafoe,Atp Singles,0.5719,1.67,0.5988,-0.0269,,,
+2026-09-06T21:18:26.350050+00:00,12160543,A. Michelsen,T. M. Etcheverry,Atp Singles,0.4263,1.36,0.7353,-0.309,,,
+2026-09-06T21:18:27.186426+00:00,12160545,Fossa Huergo/ Korpatsch,Chan H-/Joint,Wta Doubles,,,,,,,
+2026-09-06T21:18:28.038329+00:00,12160677,F. Alfano,Y. T. Alexandrescou,Boys Singles,0.027,,,,,,
+2026-09-06T21:18:28.920543+00:00,12160685,K. S. Chen,O. Ogunsakin,Boys Singles,0.5,,,,,,
+2026-09-06T21:18:29.771235+00:00,12160689,C. Doig,T. Davidov,Boys Singles,0.4286,,,,,,
+2026-09-06T21:18:30.626267+00:00,12160705,M. Reyniak,J. Mackenzie,Boys Singles,0.1268,,,,,,
+2026-09-06T21:18:31.462429+00:00,12160706,J. Secord,D. Zhalgasbay,Boys Singles,0.0714,,,,,,
+2026-09-06T21:18:32.307236+00:00,12160708,K. Watanabe,J. Gaines,Boys Singles,,,,,,,
+2026-09-06T21:18:33.159239+00:00,12160710,P. Berezina,C. Clarke,Girls Singles,,,,,,,
+2026-09-06T21:18:34.025934+00:00,12160715,K. Efremova,S. Fagan,Girls Singles,,,,,,,
+2026-09-06T21:18:34.859151+00:00,12160729,D. Popovski,C. Esquiva Banuls,Girls Singles,0.2131,,,,,,
+2026-09-06T21:18:35.732253+00:00,12160852,Ram/ Salisbury,Arribage/ Olivetti,Atp Doubles,,,,,,,
+2026-09-06T21:18:36.589106+00:00,12160854,M. Alves,V. H. Remondy Pagotto,Itf Men Singles,0.9077,,,,,,
+2026-09-06T21:24:12.163597+00:00,12160534,Kichenok/ Kichenok,Kato/ Wu,Wta Doubles,,,,,,,
+2026-09-06T21:24:13.042651+00:00,12160542,D. Medvedev,F. Tiafoe,Atp Singles,0.5719,1.67,0.5988,-0.0269,,,
+2026-09-06T21:24:13.913855+00:00,12160543,A. Michelsen,T. M. Etcheverry,Atp Singles,0.4263,1.36,0.7353,-0.309,,,
+2026-09-06T21:24:14.770032+00:00,12160545,Fossa Huergo/ Korpatsch,Chan H-/Joint,Wta Doubles,,,,,,,
+2026-09-06T21:24:15.637596+00:00,12160677,F. Alfano,Y. T. Alexandrescou,Boys Singles,0.027,,,,,,
+2026-09-06T21:24:16.507225+00:00,12160685,K. S. Chen,O. Ogunsakin,Boys Singles,0.5,,,,,,
+2026-09-06T21:24:17.374931+00:00,12160689,C. Doig,T. Davidov,Boys Singles,0.4286,,,,,,
+2026-09-06T21:24:18.230574+00:00,12160705,M. Reyniak,J. Mackenzie,Boys Singles,0.1268,,,,,,
+2026-09-06T21:24:19.092895+00:00,12160706,J. Secord,D. Zhalgasbay,Boys Singles,0.0714,,,,,,
+2026-09-06T21:24:19.942196+00:00,12160708,K. Watanabe,J. Gaines,Boys Singles,,,,,,,
+2026-09-06T21:24:20.827102+00:00,12160710,P. Berezina,C. Clarke,Girls Singles,,,,,,,
+2026-09-06T21:24:21.702743+00:00,12160715,K. Efremova,S. Fagan,Girls Singles,,,,,,,
+2026-09-06T21:24:22.556514+00:00,12160729,D. Popovski,C. Esquiva Banuls,Girls Singles,0.2131,,,,,,
+2026-09-06T21:24:23.417782+00:00,12160852,Ram/ Salisbury,Arribage/ Olivetti,Atp Doubles,,,,,,,
+2026-09-06T21:24:24.296327+00:00,12160854,M. Alves,V. H. Remondy Pagotto,Itf Men Singles,0.9077,,,,,,
