@@ -1754,10 +1754,10 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T07:12:18.617516+00:00,12160554,A. Kadhe,T. Huang,Challenger Men Singles,,3.14,0.3185,,,,
 2026-09-06T07:12:19.337968+00:00,12160555,T. Loof,U. Park,Challenger Men Singles,0.0909,4.11,0.2433,-0.1524,0,T. Loof,2026-09-06T08:20:31.392510+00:00
 2026-09-06T07:12:20.066944+00:00,12160624,P. Dev S D,B. O'Connell,Challenger Men Singles,0.7317,,,,,,
-2026-09-06T07:12:20.768984+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,,,
+2026-09-06T07:12:20.768984+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,0,M. Borisiouk,2026-09-06T10:13:07.364598+00:00
 2026-09-06T07:12:21.506872+00:00,12160626,N. Nguyen,H. Heck,Challenger Men Singles,,11.0,0.0909,,,,
 2026-09-06T07:12:22.225064+00:00,12160627,C. Papa,S. Ryan Ziegann,Challenger Men Singles,0.3333,1.58,0.6329,-0.2996,1,S. Ryan Ziegann,2026-09-06T08:14:29.696135+00:00
-2026-09-06T07:12:22.948567+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,,,
+2026-09-06T07:12:22.948567+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,1,E. Kirkin,2026-09-06T10:13:07.760641+00:00
 2026-09-06T07:12:23.675416+00:00,12160816,S. Hamza Reguig,M. Zhukov,Challenger Men Singles,0.3937,2.95,0.339,0.0547,0,S. Hamza Reguig,2026-09-06T09:19:53.375926+00:00
 2026-09-06T07:12:24.395910+00:00,12160817,A. Hernandez,C. Ilkel,Challenger Men Singles,,1.39,0.7194,,,,
 2026-09-06T07:17:44.476817+00:00,12160552,A. Binda,C. Hsieh,Challenger Men Singles,,,,,,,
@@ -1765,10 +1765,10 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T07:17:45.918139+00:00,12160554,A. Kadhe,T. Huang,Challenger Men Singles,,3.14,0.3185,,,,
 2026-09-06T07:17:46.635644+00:00,12160555,T. Loof,U. Park,Challenger Men Singles,0.0909,3.72,0.2688,-0.1779,0,T. Loof,2026-09-06T08:20:34.583272+00:00
 2026-09-06T07:17:47.449793+00:00,12160624,P. Dev S D,B. O'Connell,Challenger Men Singles,0.7317,,,,,,
-2026-09-06T07:17:48.155289+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,,,
+2026-09-06T07:17:48.155289+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,0,M. Borisiouk,2026-09-06T10:13:08.548896+00:00
 2026-09-06T07:17:48.869906+00:00,12160626,N. Nguyen,H. Heck,Challenger Men Singles,,11.0,0.0909,,,,
 2026-09-06T07:17:49.594175+00:00,12160627,C. Papa,S. Ryan Ziegann,Challenger Men Singles,0.3333,1.58,0.6329,-0.2996,1,S. Ryan Ziegann,2026-09-06T08:14:33.261438+00:00
-2026-09-06T07:17:50.297659+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,,,
+2026-09-06T07:17:50.297659+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,1,E. Kirkin,2026-09-06T10:13:08.943965+00:00
 2026-09-06T07:17:51.013049+00:00,12160816,S. Hamza Reguig,M. Zhukov,Challenger Men Singles,0.3937,2.95,0.339,0.0547,0,S. Hamza Reguig,2026-09-06T09:19:54.886026+00:00
 2026-09-06T07:17:51.736622+00:00,12160817,A. Hernandez,C. Ilkel,Challenger Men Singles,,1.39,0.7194,,,,
 2026-09-06T07:23:14.893364+00:00,12160552,A. Binda,C. Hsieh,Challenger Men Singles,,,,,,,
@@ -1776,111 +1776,111 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T07:23:16.339583+00:00,12160554,A. Kadhe,T. Huang,Challenger Men Singles,,3.14,0.3185,,,,
 2026-09-06T07:23:17.069351+00:00,12160555,T. Loof,U. Park,Challenger Men Singles,0.0909,3.72,0.2688,-0.1779,0,T. Loof,2026-09-06T08:20:37.572211+00:00
 2026-09-06T07:23:17.774985+00:00,12160624,P. Dev S D,B. O'Connell,Challenger Men Singles,0.7317,,,,,,
-2026-09-06T07:23:18.479359+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,,,
+2026-09-06T07:23:18.479359+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,0,M. Borisiouk,2026-09-06T10:13:09.733484+00:00
 2026-09-06T07:23:19.324892+00:00,12160626,N. Nguyen,H. Heck,Challenger Men Singles,,11.0,0.0909,,,,
 2026-09-06T07:23:20.047407+00:00,12160627,C. Papa,S. Ryan Ziegann,Challenger Men Singles,0.3333,1.58,0.6329,-0.2996,1,S. Ryan Ziegann,2026-09-06T08:14:36.825662+00:00
-2026-09-06T07:23:20.778446+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,,,
+2026-09-06T07:23:20.778446+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,1,E. Kirkin,2026-09-06T10:13:10.129840+00:00
 2026-09-06T07:23:21.507431+00:00,12160816,S. Hamza Reguig,M. Zhukov,Challenger Men Singles,0.3937,2.95,0.339,0.0547,0,S. Hamza Reguig,2026-09-06T09:19:56.275457+00:00
 2026-09-06T07:23:22.223076+00:00,12160817,A. Hernandez,C. Ilkel,Challenger Men Singles,,1.39,0.7194,,,,
-2026-09-06T08:14:41.055156+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,,,
+2026-09-06T08:14:41.055156+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,1,M. Brunold,2026-09-06T10:13:10.524482+00:00
 2026-09-06T08:14:42.055464+00:00,12160817,A. Hernandez,C. Ilkel,Challenger Men Singles,,1.39,0.7194,,,,
 2026-09-06T08:14:43.179529+00:00,12160816,S. Hamza Reguig,M. Zhukov,Challenger Men Singles,0.3937,2.95,0.339,0.0547,0,S. Hamza Reguig,2026-09-06T09:19:57.056395+00:00
-2026-09-06T08:14:44.244458+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,,,
-2026-09-06T08:14:45.248032+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,,,
+2026-09-06T08:14:44.244458+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,1,E. Kirkin,2026-09-06T10:13:10.918859+00:00
+2026-09-06T08:14:45.248032+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,1,M. Giunta,2026-09-06T10:13:11.311310+00:00
 2026-09-06T08:14:46.246718+00:00,12160805,F. Ferrari,G. Ferrari,Challenger Men Singles,0.1485,4.87,0.2053,-0.0568,,,
-2026-09-06T08:14:47.249761+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,,,
+2026-09-06T08:14:47.249761+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,1,A. Chepelev,2026-09-06T10:13:12.105655+00:00
 2026-09-06T08:14:48.717661+00:00,12160675,M. Argyrokastriti,A. Lahey,Itf Women Singles,0.6593,3.8,0.2632,0.3962,,,
 2026-09-06T08:14:49.724468+00:00,12160673,G. Bosio,M. Mazza,Itf Men Singles,0.5444,3.18,0.3145,0.23,,,
-2026-09-06T08:14:50.815409+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,,,
-2026-09-06T08:14:51.883733+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,,,
-2026-09-06T08:14:52.887719+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,,,
-2026-09-06T08:14:53.885934+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,,,
+2026-09-06T08:14:50.815409+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,1,R. Zolotareva,2026-09-06T10:19:53.824092+00:00
+2026-09-06T08:14:51.883733+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,0,I. Yoruk,2026-09-06T10:13:13.682254+00:00
+2026-09-06T08:14:52.887719+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,0,I. Oz,2026-09-06T10:13:14.077345+00:00
+2026-09-06T08:14:53.885934+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,1,O. Wallin,2026-09-06T10:13:14.467092+00:00
 2026-09-06T08:14:54.888852+00:00,12160646,J. Sels,M. Donald,Challenger Men Singles,0.4185,3.14,0.3185,0.1,1,M. Donald,2026-09-06T09:26:15.639698+00:00
 2026-09-06T08:14:55.889519+00:00,12160553,Je. Delaney,M. Haliak,Challenger Men Singles,0.2941,4.5,0.2222,0.0719,1,M. Haliak,2026-09-06T09:13:54.721937+00:00
 2026-09-06T08:14:56.888202+00:00,12160630,Y. Kawahashi,A. Bastola,Challenger Men Singles,,1.05,0.9524,,,,
 2026-09-06T08:14:57.886827+00:00,12160628,Y. Dzhavakian,A. Vishal Balsekar,Challenger Men Singles,0.7042,1.8,0.5556,0.1487,,,
-2026-09-06T08:14:58.882531+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,,,
+2026-09-06T08:14:58.882531+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,0,M. Borisiouk,2026-09-06T10:13:15.249534+00:00
 2026-09-06T08:14:59.874456+00:00,12160624,P. Dev S D,B. O'Connell,Challenger Men Singles,0.7317,,,,,,
 2026-09-06T08:15:00.955685+00:00,12160608,M. Janvier,T. J. Fancutt,Challenger Men Singles,0.6034,,,,1,M. Janvier,2026-09-06T09:13:56.087831+00:00
 2026-09-06T08:15:02.035170+00:00,12160607,Y. Ghazouani Durand,G. Voelzke,Challenger Men Singles,0.9041,1.07,0.9346,-0.0305,1,Y. Ghazouani Durand,2026-09-06T09:20:02.234579+00:00
 2026-09-06T08:15:03.236499+00:00,12160606,M. Covato,L. Raquillet,Challenger Men Singles,0.4409,9.8,0.102,0.3388,1,L. Raquillet,2026-09-06T09:20:02.587891+00:00
 2026-09-06T08:15:04.231472+00:00,12160595,A. Breaz,D. Lopatetska,Itf Women Singles,,2.4,0.4167,,,,
 2026-09-06T08:15:05.231839+00:00,12160584,Z. Bednarz,K. Lazarenko,Itf Women Singles,,1.9,0.5263,,,,
-2026-09-06T08:15:06.258988+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,,,
+2026-09-06T08:15:06.258988+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,0,K. Zaytseva,2026-09-06T10:13:16.094271+00:00
 2026-09-06T08:15:07.254682+00:00,12160579,K. Mrazikova,E. Chiesa,Itf Women Singles,0.1,2.25,0.4444,-0.3444,,,
 2026-09-06T08:15:08.250263+00:00,12160555,T. Loof,U. Park,Challenger Men Singles,0.0909,3.72,0.2688,-0.1779,0,T. Loof,2026-09-06T08:20:51.184403+00:00
 2026-09-06T08:15:09.243551+00:00,12160554,A. Kadhe,T. Huang,Challenger Men Singles,,3.14,0.3185,,,,
-2026-09-06T08:20:54.360828+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,,,
+2026-09-06T08:20:54.360828+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,1,M. Brunold,2026-09-06T10:13:16.884363+00:00
 2026-09-06T08:20:55.358451+00:00,12160817,A. Hernandez,C. Ilkel,Challenger Men Singles,,1.39,0.7194,,,,
 2026-09-06T08:20:56.353489+00:00,12160816,S. Hamza Reguig,M. Zhukov,Challenger Men Singles,0.3937,2.95,0.339,0.0547,0,S. Hamza Reguig,2026-09-06T09:20:04.095698+00:00
-2026-09-06T08:20:57.350540+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,,,
-2026-09-06T08:20:58.343092+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,,,
+2026-09-06T08:20:57.350540+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,1,E. Kirkin,2026-09-06T10:13:17.280568+00:00
+2026-09-06T08:20:58.343092+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,1,M. Giunta,2026-09-06T10:13:17.673331+00:00
 2026-09-06T08:20:59.378133+00:00,12160805,F. Ferrari,G. Ferrari,Challenger Men Singles,0.1485,4.87,0.2053,-0.0568,,,
-2026-09-06T08:21:00.374760+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,,,
+2026-09-06T08:21:00.374760+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,1,A. Chepelev,2026-09-06T10:13:18.470632+00:00
 2026-09-06T08:21:01.617221+00:00,12160675,M. Argyrokastriti,A. Lahey,Itf Women Singles,0.6593,3.8,0.2632,0.3962,,,
 2026-09-06T08:21:02.621492+00:00,12160673,G. Bosio,M. Mazza,Itf Men Singles,0.5444,3.18,0.3145,0.23,,,
-2026-09-06T08:21:03.613338+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,,,
-2026-09-06T08:21:04.609636+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,,,
-2026-09-06T08:21:05.608931+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,,,
-2026-09-06T08:21:06.606479+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,,,
+2026-09-06T08:21:03.613338+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,1,R. Zolotareva,2026-09-06T10:19:56.587270+00:00
+2026-09-06T08:21:04.609636+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,0,I. Yoruk,2026-09-06T10:13:20.041039+00:00
+2026-09-06T08:21:05.608931+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,0,I. Oz,2026-09-06T10:13:20.436372+00:00
+2026-09-06T08:21:06.606479+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,1,O. Wallin,2026-09-06T10:13:20.833069+00:00
 2026-09-06T08:21:07.605239+00:00,12160646,J. Sels,M. Donald,Challenger Men Singles,0.4185,3.14,0.3185,0.1,1,M. Donald,2026-09-06T09:26:21.505875+00:00
 2026-09-06T08:21:08.601341+00:00,12160553,Je. Delaney,M. Haliak,Challenger Men Singles,0.2941,4.5,0.2222,0.0719,1,M. Haliak,2026-09-06T09:14:02.231055+00:00
 2026-09-06T08:21:09.590017+00:00,12160630,Y. Kawahashi,A. Bastola,Challenger Men Singles,,1.05,0.9524,,,,
 2026-09-06T08:21:10.615219+00:00,12160628,Y. Dzhavakian,A. Vishal Balsekar,Challenger Men Singles,0.7042,1.8,0.5556,0.1487,,,
-2026-09-06T08:21:11.609986+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,,,
+2026-09-06T08:21:11.609986+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,0,M. Borisiouk,2026-09-06T10:13:21.621039+00:00
 2026-09-06T08:21:12.606807+00:00,12160624,P. Dev S D,B. O'Connell,Challenger Men Singles,0.7317,,,,,,
 2026-09-06T08:21:13.641913+00:00,12160608,M. Janvier,T. J. Fancutt,Challenger Men Singles,0.6034,,,,1,M. Janvier,2026-09-06T09:14:03.611208+00:00
 2026-09-06T08:21:14.641842+00:00,12160607,Y. Ghazouani Durand,G. Voelzke,Challenger Men Singles,0.9041,1.07,0.9346,-0.0305,1,Y. Ghazouani Durand,2026-09-06T09:20:09.290250+00:00
 2026-09-06T08:21:15.858108+00:00,12160606,M. Covato,L. Raquillet,Challenger Men Singles,0.4409,9.8,0.102,0.3388,1,L. Raquillet,2026-09-06T09:20:09.633095+00:00
 2026-09-06T08:21:16.853864+00:00,12160595,A. Breaz,D. Lopatetska,Itf Women Singles,,2.4,0.4167,,,,
 2026-09-06T08:21:17.848740+00:00,12160584,Z. Bednarz,K. Lazarenko,Itf Women Singles,,1.9,0.5263,,,,
-2026-09-06T08:21:18.848725+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,,,
+2026-09-06T08:21:18.848725+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,0,K. Zaytseva,2026-09-06T10:13:22.415990+00:00
 2026-09-06T08:21:19.840038+00:00,12160579,K. Mrazikova,E. Chiesa,Itf Women Singles,0.1,2.25,0.4444,-0.3444,,,
 2026-09-06T08:21:20.835159+00:00,12160555,T. Loof,U. Park,Challenger Men Singles,0.0909,3.72,0.2688,-0.1779,0,T. Loof,2026-09-06T08:27:13.315093+00:00
 2026-09-06T08:21:21.829893+00:00,12160554,A. Kadhe,T. Huang,Challenger Men Singles,,3.14,0.3185,,,,
-2026-09-06T08:27:16.477311+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,,,
+2026-09-06T08:27:16.477311+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,1,M. Brunold,2026-09-06T10:13:23.207677+00:00
 2026-09-06T08:27:17.472691+00:00,12160817,A. Hernandez,C. Ilkel,Challenger Men Singles,,1.39,0.7194,,,,
 2026-09-06T08:27:18.472383+00:00,12160816,S. Hamza Reguig,M. Zhukov,Challenger Men Singles,0.3937,2.95,0.339,0.0547,0,S. Hamza Reguig,2026-09-06T09:20:10.993238+00:00
-2026-09-06T08:27:19.473125+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,,,
-2026-09-06T08:27:20.473621+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,,,
+2026-09-06T08:27:19.473125+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,1,E. Kirkin,2026-09-06T10:13:23.605632+00:00
+2026-09-06T08:27:20.473621+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,1,M. Giunta,2026-09-06T10:13:24.003370+00:00
 2026-09-06T08:27:21.468078+00:00,12160805,F. Ferrari,G. Ferrari,Challenger Men Singles,0.1485,4.87,0.2053,-0.0568,,,
-2026-09-06T08:27:22.507177+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,,,
+2026-09-06T08:27:22.507177+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,1,A. Chepelev,2026-09-06T10:13:24.814437+00:00
 2026-09-06T08:27:23.701876+00:00,12160675,M. Argyrokastriti,A. Lahey,Itf Women Singles,0.6593,3.8,0.2632,0.3962,,,
 2026-09-06T08:27:24.697503+00:00,12160673,G. Bosio,M. Mazza,Itf Men Singles,0.5444,3.18,0.3145,0.23,,,
-2026-09-06T08:27:25.691452+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,,,
-2026-09-06T08:27:26.690314+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,,,
-2026-09-06T08:27:27.688794+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,,,
-2026-09-06T08:27:28.698855+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,,,
+2026-09-06T08:27:25.691452+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,1,R. Zolotareva,2026-09-06T10:19:59.386354+00:00
+2026-09-06T08:27:26.690314+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,0,I. Yoruk,2026-09-06T10:13:26.390620+00:00
+2026-09-06T08:27:27.688794+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,0,I. Oz,2026-09-06T10:13:26.785770+00:00
+2026-09-06T08:27:28.698855+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,1,O. Wallin,2026-09-06T10:13:27.174822+00:00
 2026-09-06T08:27:29.696229+00:00,12160646,J. Sels,M. Donald,Challenger Men Singles,0.4185,3.14,0.3185,0.1,1,M. Donald,2026-09-06T09:26:27.327826+00:00
 2026-09-06T08:27:30.695811+00:00,12160553,Je. Delaney,M. Haliak,Challenger Men Singles,0.2941,4.5,0.2222,0.0719,1,M. Haliak,2026-09-06T09:14:09.762042+00:00
 2026-09-06T08:27:31.690203+00:00,12160630,Y. Kawahashi,A. Bastola,Challenger Men Singles,,1.05,0.9524,,,,
 2026-09-06T08:27:32.687191+00:00,12160628,Y. Dzhavakian,A. Vishal Balsekar,Challenger Men Singles,0.7042,1.8,0.5556,0.1487,,,
-2026-09-06T08:27:33.679178+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,,,
+2026-09-06T08:27:33.679178+00:00,12160625,T. Kumasaka,M. Borisiouk,Challenger Men Singles,0.7917,2.13,0.4695,0.3222,0,M. Borisiouk,2026-09-06T10:13:27.962710+00:00
 2026-09-06T08:27:34.675043+00:00,12160624,P. Dev S D,B. O'Connell,Challenger Men Singles,0.7317,,,,,,
 2026-09-06T08:27:35.664729+00:00,12160608,M. Janvier,T. J. Fancutt,Challenger Men Singles,0.6034,,,,1,M. Janvier,2026-09-06T09:14:11.123544+00:00
 2026-09-06T08:27:36.657302+00:00,12160607,Y. Ghazouani Durand,G. Voelzke,Challenger Men Singles,0.9041,1.07,0.9346,-0.0305,1,Y. Ghazouani Durand,2026-09-06T09:20:16.166009+00:00
 2026-09-06T08:27:37.852914+00:00,12160606,M. Covato,L. Raquillet,Challenger Men Singles,0.4409,9.8,0.102,0.3388,1,L. Raquillet,2026-09-06T09:20:16.523675+00:00
 2026-09-06T08:27:38.848971+00:00,12160595,A. Breaz,D. Lopatetska,Itf Women Singles,,2.4,0.4167,,,,
 2026-09-06T08:27:39.844020+00:00,12160584,Z. Bednarz,K. Lazarenko,Itf Women Singles,,1.9,0.5263,,,,
-2026-09-06T08:27:40.842853+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,,,
+2026-09-06T08:27:40.842853+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,0,K. Zaytseva,2026-09-06T10:13:28.748061+00:00
 2026-09-06T08:27:41.835977+00:00,12160579,K. Mrazikova,E. Chiesa,Itf Women Singles,0.1,2.25,0.4444,-0.3444,,,
 2026-09-06T08:27:42.829710+00:00,12160555,T. Loof,U. Park,Challenger Men Singles,0.0909,3.72,0.2688,-0.1779,0,T. Loof,2026-09-06T09:14:12.829565+00:00
 2026-09-06T08:27:43.831493+00:00,12160554,A. Kadhe,T. Huang,Challenger Men Singles,,3.14,0.3185,,,,
 2026-09-06T09:14:15.003956+00:00,12160673,G. Bosio,M. Mazza,Itf Men Singles,0.5444,3.18,0.3145,0.23,,,
-2026-09-06T09:14:15.688111+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,,,
+2026-09-06T09:14:15.688111+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,1,M. Brunold,2026-09-06T10:13:29.933698+00:00
 2026-09-06T09:14:16.371375+00:00,12160646,J. Sels,M. Donald,Challenger Men Singles,0.4185,3.14,0.3185,0.1,1,M. Donald,2026-09-06T09:26:30.054724+00:00
-2026-09-06T09:14:17.078315+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,,,
-2026-09-06T09:14:17.767126+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,,,
-2026-09-06T09:14:18.458736+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,,,
-2026-09-06T09:14:19.135803+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,,,
+2026-09-06T09:14:17.078315+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,1,O. Wallin,2026-09-06T10:13:30.327668+00:00
+2026-09-06T09:14:17.767126+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,0,I. Oz,2026-09-06T10:13:30.723013+00:00
+2026-09-06T09:14:18.458736+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,0,I. Yoruk,2026-09-06T10:13:31.126467+00:00
+2026-09-06T09:14:19.135803+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,1,R. Zolotareva,2026-09-06T10:20:01.372004+00:00
 2026-09-06T09:14:19.851167+00:00,12160665,A. Monnot,L. Nguyen Tan,Challenger Women Singles,0.6,1.53,0.6536,-0.0536,,,
 2026-09-06T09:14:20.534401+00:00,12160666,J. Niemeier,L. Ciric Bagaric,Challenger Women Singles,0.4641,1.73,0.578,-0.114,,,
 2026-09-06T09:14:21.233523+00:00,12160635,A. Sanchez Quilez,A. Turriziani Alvarez,Challenger Men Singles,0.7818,1.08,0.9259,-0.1441,,,
 2026-09-06T09:14:21.970533+00:00,12160675,M. Argyrokastriti,A. Lahey,Itf Women Singles,0.6593,3.8,0.2632,0.3962,,,
-2026-09-06T09:14:22.655932+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,,,
+2026-09-06T09:14:22.655932+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,1,A. Chepelev,2026-09-06T10:13:33.493210+00:00
 2026-09-06T09:14:23.391149+00:00,12160805,F. Ferrari,G. Ferrari,Challenger Men Singles,0.1485,4.87,0.2053,-0.0568,,,
-2026-09-06T09:14:24.082315+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,,,
-2026-09-06T09:14:24.764852+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,,,
+2026-09-06T09:14:24.082315+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,1,M. Giunta,2026-09-06T10:13:34.279078+00:00
+2026-09-06T09:14:24.764852+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,1,E. Kirkin,2026-09-06T10:13:34.675608+00:00
 2026-09-06T09:14:25.449742+00:00,12160816,S. Hamza Reguig,M. Zhukov,Challenger Men Singles,0.3937,2.95,0.339,0.0547,0,S. Hamza Reguig,2026-09-06T09:20:22.689617+00:00
 2026-09-06T09:14:26.140050+00:00,12160819,B. Hassan,M. Ilhan,Challenger Men Singles,,1.04,0.9615,,,,
 2026-09-06T09:14:26.831236+00:00,12160592,R. Nijboer,M. Van Der Meerschen,Itf Men Singles,0.5503,1.41,0.7092,-0.1589,,,
@@ -1890,32 +1890,32 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T09:14:29.599917+00:00,12160564,L. Lagerbohm,J. Hallquist Lithen,Itf Men Singles,0.2911,2.0,0.5,-0.2089,,,
 2026-09-06T09:14:30.295355+00:00,12160578,C. Ansari,E. Tse,Itf Women Singles,0.9226,,,,,,
 2026-09-06T09:14:31.022907+00:00,12160579,K. Mrazikova,E. Chiesa,Itf Women Singles,0.1,2.25,0.4444,-0.3444,,,
-2026-09-06T09:14:31.705244+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,,,
+2026-09-06T09:14:31.705244+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,0,K. Zaytseva,2026-09-06T10:13:37.445513+00:00
 2026-09-06T09:14:32.413940+00:00,12160584,Z. Bednarz,K. Lazarenko,Itf Women Singles,,1.9,0.5263,,,,
 2026-09-06T09:14:33.094771+00:00,12160556,W. K. Leong M.,T. Yuzuki,Challenger Men Singles,0.9036,1.29,0.7752,0.1284,,,
 2026-09-06T09:14:33.775904+00:00,12160595,A. Breaz,D. Lopatetska,Itf Women Singles,,2.4,0.4167,,,,
 2026-09-06T09:14:34.454542+00:00,12160596,F. Trevisan,N. Maines,Itf Women Singles,0.2892,1.26,0.7937,-0.5045,,,
 2026-09-06T09:14:35.134443+00:00,12160606,M. Covato,L. Raquillet,Challenger Men Singles,0.4409,9.8,0.102,0.3388,1,L. Raquillet,2026-09-06T09:20:26.082724+00:00
 2026-09-06T09:14:35.812251+00:00,12160607,Y. Ghazouani Durand,G. Voelzke,Challenger Men Singles,0.9041,1.07,0.9346,-0.0305,1,Y. Ghazouani Durand,2026-09-06T09:20:26.426758+00:00
-2026-09-06T09:14:36.549176+00:00,12160632,G. Kravchenko,Y. Milev,Challenger Men Singles,0.8125,1.52,0.6579,0.1546,,,
+2026-09-06T09:14:36.549176+00:00,12160632,G. Kravchenko,Y. Milev,Challenger Men Singles,0.8125,1.52,0.6579,0.1546,1,G. Kravchenko,2026-09-06T10:26:38.688661+00:00
 2026-09-06T09:14:37.227705+00:00,12160633,O. Covian Roca de Togores,A. Marti Pujolras,Challenger Men Singles,,11.0,0.0909,,,,
 2026-09-06T09:14:37.915671+00:00,12160634,O. Roca Batalla,I. Radulov,Challenger Men Singles,0.7117,1.31,0.7634,-0.0516,,,
 2026-09-06T09:20:29.364683+00:00,12160666,J. Niemeier,L. Ciric Bagaric,Challenger Women Singles,0.4641,1.73,0.578,-0.114,,,
 2026-09-06T09:20:30.128282+00:00,12160635,A. Sanchez Quilez,A. Turriziani Alvarez,Challenger Men Singles,0.7818,1.08,0.9259,-0.1441,,,
-2026-09-06T09:20:30.852720+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,,,
+2026-09-06T09:20:30.852720+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,1,M. Brunold,2026-09-06T10:13:40.216710+00:00
 2026-09-06T09:20:31.536898+00:00,12160646,J. Sels,M. Donald,Challenger Men Singles,0.4185,3.14,0.3185,0.1,1,M. Donald,2026-09-06T09:26:39.311510+00:00
-2026-09-06T09:20:32.225316+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,,,
-2026-09-06T09:20:32.915285+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,,,
-2026-09-06T09:20:33.623040+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,,,
-2026-09-06T09:20:34.326565+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,,,
+2026-09-06T09:20:32.225316+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,1,O. Wallin,2026-09-06T10:13:40.607091+00:00
+2026-09-06T09:20:32.915285+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,0,I. Oz,2026-09-06T10:13:41.003021+00:00
+2026-09-06T09:20:33.623040+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,0,I. Yoruk,2026-09-06T10:13:41.398202+00:00
+2026-09-06T09:20:34.326565+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,1,R. Zolotareva,2026-09-06T10:20:08.472578+00:00
 2026-09-06T09:20:35.011966+00:00,12160665,A. Monnot,L. Nguyen Tan,Challenger Women Singles,0.6,1.53,0.6536,-0.0536,,,
 2026-09-06T09:20:35.702851+00:00,12160634,O. Roca Batalla,I. Radulov,Challenger Men Singles,0.7117,1.31,0.7634,-0.0516,,,
 2026-09-06T09:20:36.387448+00:00,12160673,G. Bosio,M. Mazza,Itf Men Singles,0.5444,3.18,0.3145,0.23,,,
 2026-09-06T09:20:37.071626+00:00,12160675,M. Argyrokastriti,A. Lahey,Itf Women Singles,0.6593,3.8,0.2632,0.3962,,,
-2026-09-06T09:20:37.762870+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,,,
+2026-09-06T09:20:37.762870+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,1,A. Chepelev,2026-09-06T10:13:43.789285+00:00
 2026-09-06T09:20:38.508347+00:00,12160805,F. Ferrari,G. Ferrari,Challenger Men Singles,0.1485,4.87,0.2053,-0.0568,,,
-2026-09-06T09:20:39.236561+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,,,
-2026-09-06T09:20:39.915721+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,,,
+2026-09-06T09:20:39.236561+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,1,M. Giunta,2026-09-06T10:13:44.576509+00:00
+2026-09-06T09:20:39.915721+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,1,E. Kirkin,2026-09-06T10:13:44.971768+00:00
 2026-09-06T09:20:40.682878+00:00,12160816,S. Hamza Reguig,M. Zhukov,Challenger Men Singles,0.3937,2.95,0.339,0.0547,0,S. Hamza Reguig,2026-09-06T09:26:43.743216+00:00
 2026-09-06T09:20:41.370196+00:00,12160819,B. Hassan,M. Ilhan,Challenger Men Singles,,1.04,0.9615,,,,
 2026-09-06T09:20:42.065548+00:00,12160592,R. Nijboer,M. Van Der Meerschen,Itf Men Singles,0.5503,1.41,0.7092,-0.1589,,,
@@ -1925,7 +1925,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T09:20:44.799843+00:00,12160564,L. Lagerbohm,J. Hallquist Lithen,Itf Men Singles,0.2911,2.0,0.5,-0.2089,,,
 2026-09-06T09:20:45.478747+00:00,12160578,C. Ansari,E. Tse,Itf Women Singles,0.9226,,,,,,
 2026-09-06T09:20:46.594528+00:00,12160579,K. Mrazikova,E. Chiesa,Itf Women Singles,0.1,2.25,0.4444,-0.3444,,,
-2026-09-06T09:20:47.274783+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,,,
+2026-09-06T09:20:47.274783+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,0,K. Zaytseva,2026-09-06T10:13:47.761359+00:00
 2026-09-06T09:20:47.958588+00:00,12160584,Z. Bednarz,K. Lazarenko,Itf Women Singles,,1.9,0.5263,,,,
 2026-09-06T09:20:48.644531+00:00,12160556,W. K. Leong M.,T. Yuzuki,Challenger Men Singles,0.9036,1.29,0.7752,0.1284,,,
 2026-09-06T09:20:49.328104+00:00,12160595,A. Breaz,D. Lopatetska,Itf Women Singles,,2.4,0.4167,,,,
@@ -1933,25 +1933,25 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T09:20:50.694510+00:00,12160606,M. Covato,L. Raquillet,Challenger Men Singles,0.4409,9.8,0.102,0.3388,1,L. Raquillet,2026-09-06T09:26:47.155790+00:00
 2026-09-06T09:20:51.391496+00:00,12160607,Y. Ghazouani Durand,G. Voelzke,Challenger Men Singles,0.9041,1.07,0.9346,-0.0305,1,Y. Ghazouani Durand,2026-09-06T09:26:47.495860+00:00
 2026-09-06T09:20:52.122413+00:00,12160609,M. Dhamne,W. Rejchtman Vinciguerra,Challenger Men Singles,0.8242,1.17,0.8547,-0.0305,,,
-2026-09-06T09:20:52.858281+00:00,12160632,G. Kravchenko,Y. Milev,Challenger Men Singles,0.8125,1.52,0.6579,0.1546,,,
+2026-09-06T09:20:52.858281+00:00,12160632,G. Kravchenko,Y. Milev,Challenger Men Singles,0.8125,1.52,0.6579,0.1546,1,G. Kravchenko,2026-09-06T10:26:45.795560+00:00
 2026-09-06T09:20:53.544156+00:00,12160633,O. Covian Roca de Togores,A. Marti Pujolras,Challenger Men Singles,,23.08,0.0433,,,,
 2026-09-06T09:26:50.399415+00:00,12160666,J. Niemeier,L. Ciric Bagaric,Challenger Women Singles,0.4641,1.73,0.578,-0.114,,,
 2026-09-06T09:26:51.084500+00:00,12160635,A. Sanchez Quilez,A. Turriziani Alvarez,Challenger Men Singles,0.7818,1.08,0.9259,-0.1441,,,
-2026-09-06T09:26:51.810291+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,,,
-2026-09-06T09:26:52.487441+00:00,12160646,J. Sels,M. Donald,Challenger Men Singles,0.4185,3.14,0.3185,0.1,,,
-2026-09-06T09:26:53.186811+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,,,
-2026-09-06T09:26:53.879937+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,,,
-2026-09-06T09:26:54.629901+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,,,
-2026-09-06T09:26:55.311725+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,,,
+2026-09-06T09:26:51.810291+00:00,12160645,M. Brunold,K. Wehnelt,Challenger Men Singles,0.6316,1.32,0.7576,-0.126,1,M. Brunold,2026-09-06T10:13:50.549914+00:00
+2026-09-06T09:26:52.487441+00:00,12160646,J. Sels,M. Donald,Challenger Men Singles,0.4185,3.14,0.3185,0.1,1,M. Donald,2026-09-06T10:13:50.942732+00:00
+2026-09-06T09:26:53.186811+00:00,12160647,M. Ujvary,O. Wallin,Challenger Men Singles,0.1314,6.05,0.1653,-0.0339,1,O. Wallin,2026-09-06T10:13:51.336439+00:00
+2026-09-06T09:26:53.879937+00:00,12160657,I. Oz,D. Jakupovic,Challenger Women Singles,0.4419,1.57,0.6369,-0.195,0,I. Oz,2026-09-06T10:13:51.730227+00:00
+2026-09-06T09:26:54.629901+00:00,12160658,I. Yoruk,S. Samir,Challenger Women Singles,0.1801,2.2,0.4545,-0.2745,0,I. Yoruk,2026-09-06T10:13:52.124323+00:00
+2026-09-06T09:26:55.311725+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,1,R. Zolotareva,2026-09-06T10:13:52.517323+00:00
 2026-09-06T09:26:55.990852+00:00,12160665,A. Monnot,L. Nguyen Tan,Challenger Women Singles,0.6,1.53,0.6536,-0.0536,,,
 2026-09-06T09:26:56.672833+00:00,12160634,O. Roca Batalla,I. Radulov,Challenger Men Singles,0.7117,1.31,0.7634,-0.0516,,,
 2026-09-06T09:26:57.418386+00:00,12160673,G. Bosio,M. Mazza,Itf Men Singles,0.5444,3.18,0.3145,0.23,,,
 2026-09-06T09:26:58.101260+00:00,12160675,M. Argyrokastriti,A. Lahey,Itf Women Singles,0.6593,3.8,0.2632,0.3962,,,
-2026-09-06T09:26:58.781202+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,,,
+2026-09-06T09:26:58.781202+00:00,12160804,A. Chepelev,J. Gschwendtner,Challenger Men Singles,0.8599,,,,1,A. Chepelev,2026-09-06T10:13:54.489433+00:00
 2026-09-06T09:26:59.509381+00:00,12160805,F. Ferrari,G. Ferrari,Challenger Men Singles,0.1485,4.87,0.2053,-0.0568,,,
-2026-09-06T09:27:00.211560+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,,,
-2026-09-06T09:27:00.897934+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,,,
-2026-09-06T09:27:01.579157+00:00,12160816,S. Hamza Reguig,M. Zhukov,Challenger Men Singles,0.3937,2.95,0.339,0.0547,,,
+2026-09-06T09:27:00.211560+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,1,M. Giunta,2026-09-06T10:13:55.279965+00:00
+2026-09-06T09:27:00.897934+00:00,12160815,K. Chopra,E. Kirkin,Challenger Men Singles,0.4752,2.31,0.4329,0.0423,1,E. Kirkin,2026-09-06T10:13:55.674973+00:00
+2026-09-06T09:27:01.579157+00:00,12160816,S. Hamza Reguig,M. Zhukov,Challenger Men Singles,0.3937,2.95,0.339,0.0547,0,S. Hamza Reguig,2026-09-06T10:13:56.068433+00:00
 2026-09-06T09:27:02.259086+00:00,12160819,B. Hassan,M. Ilhan,Challenger Men Singles,,1.04,0.9615,,,,
 2026-09-06T09:27:02.939724+00:00,12160592,R. Nijboer,M. Van Der Meerschen,Itf Men Singles,0.5503,1.41,0.7092,-0.1589,,,
 2026-09-06T09:27:03.617766+00:00,12160557,R. Nakamura,H. Liu,Challenger Men Singles,,,,,,,
@@ -1960,13 +1960,130 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-06T09:27:05.670402+00:00,12160564,L. Lagerbohm,J. Hallquist Lithen,Itf Men Singles,0.2911,2.0,0.5,-0.2089,,,
 2026-09-06T09:27:06.351260+00:00,12160578,C. Ansari,E. Tse,Itf Women Singles,0.9226,,,,,,
 2026-09-06T09:27:07.079724+00:00,12160579,K. Mrazikova,E. Chiesa,Itf Women Singles,0.1,2.25,0.4444,-0.3444,,,
-2026-09-06T09:27:07.757213+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,,,
+2026-09-06T09:27:07.757213+00:00,12160583,K. Zaytseva,G. Pedone,Itf Women Singles,0.2881,1.66,0.6024,-0.3143,0,K. Zaytseva,2026-09-06T10:13:58.842430+00:00
 2026-09-06T09:27:08.436496+00:00,12160584,Z. Bednarz,K. Lazarenko,Itf Women Singles,,1.9,0.5263,,,,
 2026-09-06T09:27:09.121634+00:00,12160556,W. K. Leong M.,T. Yuzuki,Challenger Men Singles,0.9036,1.29,0.7752,0.1284,,,
 2026-09-06T09:27:09.796405+00:00,12160595,A. Breaz,D. Lopatetska,Itf Women Singles,,2.4,0.4167,,,,
 2026-09-06T09:27:10.474550+00:00,12160596,F. Trevisan,N. Maines,Itf Women Singles,0.2892,1.26,0.7937,-0.5045,,,
-2026-09-06T09:27:11.150880+00:00,12160606,M. Covato,L. Raquillet,Challenger Men Singles,0.4409,9.8,0.102,0.3388,,,
-2026-09-06T09:27:11.833572+00:00,12160607,Y. Ghazouani Durand,G. Voelzke,Challenger Men Singles,0.9041,1.07,0.9346,-0.0305,,,
+2026-09-06T09:27:11.150880+00:00,12160606,M. Covato,L. Raquillet,Challenger Men Singles,0.4409,9.8,0.102,0.3388,1,L. Raquillet,2026-09-06T10:14:00.029976+00:00
+2026-09-06T09:27:11.833572+00:00,12160607,Y. Ghazouani Durand,G. Voelzke,Challenger Men Singles,0.9041,1.07,0.9346,-0.0305,1,Y. Ghazouani Durand,2026-09-06T10:14:00.429830+00:00
 2026-09-06T09:27:12.560834+00:00,12160609,M. Dhamne,W. Rejchtman Vinciguerra,Challenger Men Singles,0.8242,1.17,0.8547,-0.0305,,,
-2026-09-06T09:27:13.315720+00:00,12160632,G. Kravchenko,Y. Milev,Challenger Men Singles,0.8125,1.52,0.6579,0.1546,,,
+2026-09-06T09:27:13.315720+00:00,12160632,G. Kravchenko,Y. Milev,Challenger Men Singles,0.8125,1.52,0.6579,0.1546,1,G. Kravchenko,2026-09-06T10:26:52.522212+00:00
 2026-09-06T09:27:13.998274+00:00,12160633,O. Covian Roca de Togores,A. Marti Pujolras,Challenger Men Singles,,23.08,0.0433,,,,
+2026-09-06T10:14:03.818518+00:00,12160666,J. Niemeier,L. Ciric Bagaric,Challenger Women Singles,0.4641,1.73,0.578,-0.114,,,
+2026-09-06T10:14:04.609504+00:00,12160634,O. Roca Batalla,I. Radulov,Challenger Men Singles,0.7117,1.31,0.7634,-0.0516,,,
+2026-09-06T10:14:05.403335+00:00,12160635,A. Sanchez Quilez,A. Turriziani Alvarez,Challenger Men Singles,0.7818,1.08,0.9259,-0.1441,,,
+2026-09-06T10:14:06.465739+00:00,12160636,S. Purtseladze,I. Almazan Valiente,Challenger Men Singles,0.4259,2.56,0.3906,0.0353,,,
+2026-09-06T10:14:07.250569+00:00,12160648,N. Gombos,A. Wagner,Challenger Men Singles,0.9156,1.04,0.9615,-0.046,,,
+2026-09-06T10:14:08.186625+00:00,12160649,O. Prihodko,I. Gakhov,Challenger Men Singles,0.553,1.59,0.6289,-0.0759,,,
+2026-09-06T10:14:08.979251+00:00,12160650,D. Siniakov,N. Visker,Challenger Men Singles,0.4433,1.9,0.5263,-0.083,,,
+2026-09-06T10:14:09.773016+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,1,R. Zolotareva,2026-09-06T10:20:24.377701+00:00
+2026-09-06T10:14:10.561080+00:00,12160662,N. Schunk,C. Oz,Challenger Women Singles,,,,,,,
+2026-09-06T10:14:11.346024+00:00,12160665,A. Monnot,L. Nguyen Tan,Challenger Women Singles,0.6,1.53,0.6536,-0.0536,,,
+2026-09-06T10:14:12.352661+00:00,12160633,O. Covian Roca de Togores,A. Marti Pujolras,Challenger Men Singles,,23.08,0.0433,,,,
+2026-09-06T10:14:13.240130+00:00,12160673,G. Bosio,M. Mazza,Itf Men Singles,0.5444,3.18,0.3145,0.23,,,
+2026-09-06T10:14:14.072165+00:00,12160675,M. Argyrokastriti,A. Lahey,Itf Women Singles,0.6593,3.8,0.2632,0.3962,,,
+2026-09-06T10:14:14.862626+00:00,12160805,F. Ferrari,G. Ferrari,Challenger Men Singles,0.1485,4.87,0.2053,-0.0568,,,
+2026-09-06T10:14:15.684199+00:00,12160806,M. Giunta,G. Oradini,Challenger Men Singles,0.6724,1.68,0.5952,0.0772,1,M. Giunta,2026-09-06T10:20:26.346677+00:00
+2026-09-06T10:14:16.496983+00:00,12160818,G. A. Boitan,Z. Aydin,Challenger Men Singles,,,,,,,
+2026-09-06T10:14:17.437201+00:00,12160820,T. Tokac,T. Duran,Challenger Men Singles,0.0656,3.55,0.2817,-0.2161,,,
+2026-09-06T10:14:18.228502+00:00,12160823,L. Wessels,A. Kachmazov,Challenger Men Singles,0.7381,2.37,0.4219,0.3162,,,
+2026-09-06T10:14:19.051089+00:00,12160827,C. Van Zonneveld,M. Horvit,Itf Women Singles,0.1552,3.25,0.3077,-0.1525,,,
+2026-09-06T10:14:19.872164+00:00,12160596,F. Trevisan,N. Maines,Itf Women Singles,0.2892,1.26,0.7937,-0.5045,,,
+2026-09-06T10:14:20.665460+00:00,12160558,S. Nam Ji,J. Charlton,Challenger Men Singles,0.3051,2.1,0.4762,-0.1711,,,
+2026-09-06T10:14:21.463851+00:00,12160560,A. Wang,Y. Zeng,Challenger Men Singles,0.4762,2.2,0.4545,0.0216,,,
+2026-09-06T10:14:22.260094+00:00,12160562,C. Bouchelaghem,A. Dougaz,Itf Men Singles,0.5116,3.66,0.2732,0.2384,,,
+2026-09-06T10:14:23.046667+00:00,12160564,L. Lagerbohm,J. Hallquist Lithen,Itf Men Singles,0.2911,2.0,0.5,-0.2089,,,
+2026-09-06T10:14:23.852182+00:00,12160578,C. Ansari,E. Tse,Itf Women Singles,0.9226,,,,,,
+2026-09-06T10:14:24.730939+00:00,12160579,K. Mrazikova,E. Chiesa,Itf Women Singles,0.1,2.25,0.4444,-0.3444,,,
+2026-09-06T10:14:25.525411+00:00,12160584,Z. Bednarz,K. Lazarenko,Itf Women Singles,,1.9,0.5263,,,,
+2026-09-06T10:14:26.312311+00:00,12160592,R. Nijboer,M. Van Der Meerschen,Itf Men Singles,0.5503,1.41,0.7092,-0.1589,,,
+2026-09-06T10:14:27.100664+00:00,12160595,A. Breaz,D. Lopatetska,Itf Women Singles,,2.4,0.4167,,,,
+2026-09-06T10:14:27.897219+00:00,12160556,W. K. Leong M.,T. Yuzuki,Challenger Men Singles,0.9036,1.29,0.7752,0.1284,,,
+2026-09-06T10:14:28.703012+00:00,12160598,F. Mena,H. Dellien,Challenger Men Singles,0.3013,3.74,0.2674,0.0339,,,
+2026-09-06T10:14:29.493328+00:00,12160609,M. Dhamne,W. Rejchtman Vinciguerra,Challenger Men Singles,0.8242,1.17,0.8547,-0.0305,,,
+2026-09-06T10:14:30.380554+00:00,12160610,A. Escoffier,A. Soriano Barrera,Challenger Men Singles,0.3043,2.1,0.4762,-0.1718,,,
+2026-09-06T10:14:31.170478+00:00,12160611,O. Paldanius,N. Tepmahc,Challenger Men Singles,0.3548,1.37,0.7299,-0.3751,,,
+2026-09-06T10:14:31.955376+00:00,12160624,P. Dev S D,B. O'Connell,Challenger Men Singles,0.7317,,,,,,
+2026-09-06T10:14:32.746064+00:00,12160628,Y. Dzhavakian,A. Vishal Balsekar,Challenger Men Singles,0.7042,1.8,0.5556,0.1487,,,
+2026-09-06T10:14:33.528475+00:00,12160631,D. J. Kim,K. Tamm,Challenger Men Singles,0.8033,,,,,,
+2026-09-06T10:14:34.406963+00:00,12160632,G. Kravchenko,Y. Milev,Challenger Men Singles,0.8125,1.52,0.6579,0.1546,1,G. Kravchenko,2026-09-06T10:27:04.779176+00:00
+2026-09-06T10:20:36.929401+00:00,12160665,A. Monnot,L. Nguyen Tan,Challenger Women Singles,0.6,1.53,0.6536,-0.0536,,,
+2026-09-06T10:20:37.721760+00:00,12160634,O. Roca Batalla,I. Radulov,Challenger Men Singles,0.7117,1.31,0.7634,-0.0516,,,
+2026-09-06T10:20:38.508558+00:00,12160635,A. Sanchez Quilez,A. Turriziani Alvarez,Challenger Men Singles,0.7818,1.08,0.9259,-0.1441,,,
+2026-09-06T10:20:39.412969+00:00,12160636,S. Purtseladze,I. Almazan Valiente,Challenger Men Singles,0.4259,2.56,0.3906,0.0353,,,
+2026-09-06T10:20:40.203729+00:00,12160648,N. Gombos,A. Wagner,Challenger Men Singles,0.9156,1.04,0.9615,-0.046,,,
+2026-09-06T10:20:41.108644+00:00,12160649,O. Prihodko,I. Gakhov,Challenger Men Singles,0.553,1.59,0.6289,-0.0759,,,
+2026-09-06T10:20:41.905721+00:00,12160650,D. Siniakov,N. Visker,Challenger Men Singles,0.4433,1.9,0.5263,-0.083,,,
+2026-09-06T10:20:42.699705+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,1,R. Zolotareva,2026-09-06T10:27:07.932735+00:00
+2026-09-06T10:20:43.484859+00:00,12160660,R. Dencheva,A. Lacinova,Challenger Women Singles,,,,,,,
+2026-09-06T10:20:44.271473+00:00,12160662,N. Schunk,C. Oz,Challenger Women Singles,,,,,,,
+2026-09-06T10:20:45.063710+00:00,12160632,G. Kravchenko,Y. Milev,Challenger Men Singles,0.8125,1.52,0.6579,0.1546,1,G. Kravchenko,2026-09-06T10:27:08.325433+00:00
+2026-09-06T10:20:45.858100+00:00,12160666,J. Niemeier,L. Ciric Bagaric,Challenger Women Singles,0.4641,1.73,0.578,-0.114,,,
+2026-09-06T10:20:46.644715+00:00,12160673,G. Bosio,M. Mazza,Itf Men Singles,0.5444,3.18,0.3145,0.23,,,
+2026-09-06T10:20:47.440724+00:00,12160675,M. Argyrokastriti,A. Lahey,Itf Women Singles,0.6593,3.8,0.2632,0.3962,,,
+2026-09-06T10:20:48.237374+00:00,12160805,F. Ferrari,G. Ferrari,Challenger Men Singles,0.1485,4.87,0.2053,-0.0568,,,
+2026-09-06T10:20:49.027419+00:00,12160807,S. Popovic,O. Krutykh,Challenger Men Singles,0.3558,4.45,0.2247,0.1311,,,
+2026-09-06T10:20:49.813416+00:00,12160818,G. A. Boitan,Z. Aydin,Challenger Men Singles,,,,,,,
+2026-09-06T10:20:50.600996+00:00,12160820,T. Tokac,T. Duran,Challenger Men Singles,0.0656,3.55,0.2817,-0.2161,,,
+2026-09-06T10:20:51.394050+00:00,12160823,L. Wessels,A. Kachmazov,Challenger Men Singles,0.7381,2.37,0.4219,0.3162,,,
+2026-09-06T10:20:52.182722+00:00,12160827,C. Van Zonneveld,M. Horvit,Itf Women Singles,0.1552,3.25,0.3077,-0.1525,,,
+2026-09-06T10:20:52.965377+00:00,12160596,F. Trevisan,N. Maines,Itf Women Singles,0.2892,1.26,0.7937,-0.5045,,,
+2026-09-06T10:20:53.765601+00:00,12160558,S. Nam Ji,J. Charlton,Challenger Men Singles,0.3051,2.1,0.4762,-0.1711,,,
+2026-09-06T10:20:54.552716+00:00,12160560,A. Wang,Y. Zeng,Challenger Men Singles,0.4762,2.2,0.4545,0.0216,,,
+2026-09-06T10:20:55.344445+00:00,12160562,C. Bouchelaghem,A. Dougaz,Itf Men Singles,0.5116,3.66,0.2732,0.2384,,,
+2026-09-06T10:20:56.133566+00:00,12160564,L. Lagerbohm,J. Hallquist Lithen,Itf Men Singles,0.2911,2.0,0.5,-0.2089,,,
+2026-09-06T10:20:56.920985+00:00,12160578,C. Ansari,E. Tse,Itf Women Singles,0.9226,,,,,,
+2026-09-06T10:20:57.874830+00:00,12160579,K. Mrazikova,E. Chiesa,Itf Women Singles,0.1,2.25,0.4444,-0.3444,,,
+2026-09-06T10:20:58.663400+00:00,12160584,Z. Bednarz,K. Lazarenko,Itf Women Singles,,1.9,0.5263,,,,
+2026-09-06T10:20:59.453912+00:00,12160592,R. Nijboer,M. Van Der Meerschen,Itf Men Singles,0.5503,1.41,0.7092,-0.1589,,,
+2026-09-06T10:21:00.246879+00:00,12160595,A. Breaz,D. Lopatetska,Itf Women Singles,,2.4,0.4167,,,,
+2026-09-06T10:21:01.085768+00:00,12160556,W. K. Leong M.,T. Yuzuki,Challenger Men Singles,0.9036,1.29,0.7752,0.1284,1,W. K. Leong M.,2026-09-06T10:27:15.106153+00:00
+2026-09-06T10:21:01.879549+00:00,12160598,F. Mena,H. Dellien,Challenger Men Singles,0.3013,3.74,0.2674,0.0339,,,
+2026-09-06T10:21:02.670433+00:00,12160609,M. Dhamne,W. Rejchtman Vinciguerra,Challenger Men Singles,0.8242,1.17,0.8547,-0.0305,,,
+2026-09-06T10:21:03.552700+00:00,12160610,A. Escoffier,A. Soriano Barrera,Challenger Men Singles,0.3043,2.1,0.4762,-0.1718,,,
+2026-09-06T10:21:04.341441+00:00,12160611,O. Paldanius,N. Tepmahc,Challenger Men Singles,0.3548,1.37,0.7299,-0.3751,,,
+2026-09-06T10:21:05.130622+00:00,12160624,P. Dev S D,B. O'Connell,Challenger Men Singles,0.7317,,,,,,
+2026-09-06T10:21:05.915781+00:00,12160628,Y. Dzhavakian,A. Vishal Balsekar,Challenger Men Singles,0.7042,1.8,0.5556,0.1487,,,
+2026-09-06T10:21:06.706983+00:00,12160629,T. Hoang,G. Lomakin,Challenger Men Singles,,,,,,,
+2026-09-06T10:21:07.501333+00:00,12160631,D. J. Kim,K. Tamm,Challenger Men Singles,0.8033,,,,,,
+2026-09-06T10:27:20.848612+00:00,12160666,J. Niemeier,L. Ciric Bagaric,Challenger Women Singles,0.4641,1.73,0.578,-0.114,,,
+2026-09-06T10:27:21.643498+00:00,12160635,A. Sanchez Quilez,A. Turriziani Alvarez,Challenger Men Singles,0.7818,1.08,0.9259,-0.1441,,,
+2026-09-06T10:27:22.531004+00:00,12160636,S. Purtseladze,I. Almazan Valiente,Challenger Men Singles,0.4259,2.56,0.3906,0.0353,,,
+2026-09-06T10:27:23.311205+00:00,12160648,N. Gombos,A. Wagner,Challenger Men Singles,0.9156,1.04,0.9615,-0.046,,,
+2026-09-06T10:27:24.204919+00:00,12160649,O. Prihodko,I. Gakhov,Challenger Men Singles,0.553,1.59,0.6289,-0.0759,,,
+2026-09-06T10:27:24.995603+00:00,12160650,D. Siniakov,N. Visker,Challenger Men Singles,0.4433,1.9,0.5263,-0.083,,,
+2026-09-06T10:27:25.784711+00:00,12160659,R. Zolotareva,A. Laboutkova,Challenger Women Singles,0.6154,1.25,0.8,-0.1846,,,
+2026-09-06T10:27:26.570333+00:00,12160660,R. Dencheva,A. Lacinova,Challenger Women Singles,,,,,,,
+2026-09-06T10:27:27.363453+00:00,12160662,N. Schunk,C. Oz,Challenger Women Singles,,,,,,,
+2026-09-06T10:27:28.150488+00:00,12160665,A. Monnot,L. Nguyen Tan,Challenger Women Singles,0.6,1.53,0.6536,-0.0536,,,
+2026-09-06T10:27:29.055834+00:00,12160634,O. Roca Batalla,I. Radulov,Challenger Men Singles,0.7117,1.31,0.7634,-0.0516,,,
+2026-09-06T10:27:29.843699+00:00,12160673,G. Bosio,M. Mazza,Itf Men Singles,0.5444,3.18,0.3145,0.23,,,
+2026-09-06T10:27:30.629593+00:00,12160675,M. Argyrokastriti,A. Lahey,Itf Women Singles,0.6593,3.8,0.2632,0.3962,,,
+2026-09-06T10:27:31.419973+00:00,12160805,F. Ferrari,G. Ferrari,Challenger Men Singles,0.1485,4.87,0.2053,-0.0568,,,
+2026-09-06T10:27:32.260354+00:00,12160807,S. Popovic,O. Krutykh,Challenger Men Singles,0.3558,4.45,0.2247,0.1311,,,
+2026-09-06T10:27:33.049117+00:00,12160808,A. Vigoriti,G. La Vela,Challenger Men Singles,,10.7,0.0935,,,,
+2026-09-06T10:27:33.848001+00:00,12160818,G. A. Boitan,Z. Aydin,Challenger Men Singles,,,,,,,
+2026-09-06T10:27:34.648564+00:00,12160820,T. Tokac,T. Duran,Challenger Men Singles,0.0656,3.55,0.2817,-0.2161,,,
+2026-09-06T10:27:35.441652+00:00,12160823,L. Wessels,A. Kachmazov,Challenger Men Singles,0.7381,2.37,0.4219,0.3162,,,
+2026-09-06T10:27:36.225183+00:00,12160827,C. Van Zonneveld,M. Horvit,Itf Women Singles,0.1552,3.25,0.3077,-0.1525,,,
+2026-09-06T10:27:37.009963+00:00,12160596,F. Trevisan,N. Maines,Itf Women Singles,0.2892,1.26,0.7937,-0.5045,,,
+2026-09-06T10:27:37.800330+00:00,12160558,S. Nam Ji,J. Charlton,Challenger Men Singles,0.3051,2.1,0.4762,-0.1711,,,
+2026-09-06T10:27:38.593641+00:00,12160560,A. Wang,Y. Zeng,Challenger Men Singles,0.4762,2.2,0.4545,0.0216,,,
+2026-09-06T10:27:39.430368+00:00,12160562,C. Bouchelaghem,A. Dougaz,Itf Men Singles,0.5116,3.66,0.2732,0.2384,,,
+2026-09-06T10:27:40.231315+00:00,12160564,L. Lagerbohm,J. Hallquist Lithen,Itf Men Singles,0.2911,2.0,0.5,-0.2089,,,
+2026-09-06T10:27:41.054906+00:00,12160578,C. Ansari,E. Tse,Itf Women Singles,0.9226,,,,,,
+2026-09-06T10:27:41.937421+00:00,12160579,K. Mrazikova,E. Chiesa,Itf Women Singles,0.1,2.25,0.4444,-0.3444,,,
+2026-09-06T10:27:42.726954+00:00,12160584,Z. Bednarz,K. Lazarenko,Itf Women Singles,,1.9,0.5263,,,,
+2026-09-06T10:27:43.518707+00:00,12160592,R. Nijboer,M. Van Der Meerschen,Itf Men Singles,0.5503,1.41,0.7092,-0.1589,,,
+2026-09-06T10:27:44.311887+00:00,12160595,A. Breaz,D. Lopatetska,Itf Women Singles,,2.4,0.4167,,,,
+2026-09-06T10:27:45.105450+00:00,12160556,W. K. Leong M.,T. Yuzuki,Challenger Men Singles,0.9036,1.29,0.7752,0.1284,,,
+2026-09-06T10:27:45.908923+00:00,12160598,F. Mena,H. Dellien,Challenger Men Singles,0.3013,3.74,0.2674,0.0339,,,
+2026-09-06T10:27:46.702350+00:00,12160609,M. Dhamne,W. Rejchtman Vinciguerra,Challenger Men Singles,0.8242,1.17,0.8547,-0.0305,,,
+2026-09-06T10:27:47.580143+00:00,12160610,A. Escoffier,A. Soriano Barrera,Challenger Men Singles,0.3043,2.1,0.4762,-0.1718,,,
+2026-09-06T10:27:48.365470+00:00,12160611,O. Paldanius,N. Tepmahc,Challenger Men Singles,0.3548,1.37,0.7299,-0.3751,,,
+2026-09-06T10:27:49.145563+00:00,12160624,P. Dev S D,B. O'Connell,Challenger Men Singles,0.7317,,,,,,
+2026-09-06T10:27:49.936932+00:00,12160628,Y. Dzhavakian,A. Vishal Balsekar,Challenger Men Singles,0.7042,1.8,0.5556,0.1487,,,
+2026-09-06T10:27:50.724033+00:00,12160629,T. Hoang,G. Lomakin,Challenger Men Singles,,,,,,,
+2026-09-06T10:27:51.507468+00:00,12160631,D. J. Kim,K. Tamm,Challenger Men Singles,0.8033,,,,,,
+2026-09-06T10:27:52.403416+00:00,12160632,G. Kravchenko,Y. Milev,Challenger Men Singles,0.8125,1.52,0.6579,0.1546,,,
