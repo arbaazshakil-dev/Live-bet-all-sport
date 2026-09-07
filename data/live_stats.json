@@ -1,14 +1,109 @@
 {
-  "updated": "2026-09-07T22:25:28.081879+00:00",
+  "updated": "2026-09-07T23:25:15.639353+00:00",
   "matches": {
+    "12160858": {
+      "player": "I. Jovic",
+      "opponent": "C. Gauff",
+      "score": "1-0",
+      "status": "Set 1",
+      "stats": {
+        "aces": [
+          "0",
+          "0"
+        ],
+        "double_faults": [
+          "0",
+          "1"
+        ],
+        "win_1st_serve": [
+          "50%",
+          "40%"
+        ]
+      },
+      "timeline": [
+        "Set 1 Game 1: C. Gauff served \u2014 1 - 0",
+        "Set 1 Game 2: I. Jovic served \u2014 None"
+      ],
+      "h2h": {
+        "h2h_record": "0-1",
+        "p1_form": [
+          {
+            "result": "W",
+            "opponent": "A. Eala",
+            "score": "2 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "F. Jones",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "M. Frech",
+            "score": "2 - 0"
+          },
+          {
+            "result": "L",
+            "opponent": "M. Bouzkova",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "T. Korpatsch",
+            "score": "0 - 2"
+          }
+        ],
+        "p2_form": [
+          {
+            "result": "W",
+            "opponent": "C. Bucsa",
+            "score": "0 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "P. Badosa",
+            "score": "0 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "Z. Sonmez",
+            "score": "0 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "J. Pegula",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "S. Bejlek",
+            "score": "0 - 2"
+          }
+        ]
+      }
+    },
     "12161028": {
       "player": "Domenc/ Jade",
       "opponent": "Kusy/ Thompson",
-      "score": "0-0",
-      "status": "Set 1",
+      "score": "4-6, 6-3",
+      "status": "Set 3",
       "stats": null,
       "timeline": [
-        "Set 1 Game 1: Domenc/ Jade served \u2014 None"
+        "Set 1 Game 6: Kusy/ Thompson served \u2014 2 - 4",
+        "Set 1 Game 7: Domenc/ Jade served \u2014 3 - 4",
+        "Set 1 Game 8: Kusy/ Thompson served \u2014 3 - 5",
+        "Set 1 Game 9: Domenc/ Jade served \u2014 4 - 5",
+        "Set 1 Game 10: Kusy/ Thompson served \u2014 4 - 6",
+        "Set 2 Game 1: Domenc/ Jade served \u2014 1 - 0",
+        "Set 2 Game 2: Kusy/ Thompson served \u2014 2 - 0",
+        "Set 2 Game 3: Domenc/ Jade served \u2014 3 - 0",
+        "Set 2 Game 4: Kusy/ Thompson served \u2014 3 - 1",
+        "Set 2 Game 5: Domenc/ Jade served \u2014 4 - 1",
+        "Set 2 Game 6: Kusy/ Thompson served \u2014 4 - 2",
+        "Set 2 Game 7: Domenc/ Jade served \u2014 5 - 2",
+        "Set 2 Game 8: Kusy/ Thompson served \u2014 5 - 3",
+        "Set 2 Game 9: Domenc/ Jade served \u2014 6 - 3",
+        "Set 3 Game 1: Kusy/ Thompson served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "0-0",
@@ -48,120 +143,39 @@
         ]
       }
     },
-    "12161035": {
-      "player": "Ogunsakin/ Raguin",
-      "opponent": "Alexandrescou/ Tabata",
-      "score": "2-4",
-      "status": "Set 1",
+    "12161051": {
+      "player": "Fagan/ Sohns",
+      "opponent": "Alexander/ Beviz",
+      "score": "3-6, 4-2",
+      "status": "Set 2",
       "stats": null,
       "timeline": [
-        "Set 1 Game 1: Ogunsakin/ Raguin served \u2014 1 - 0",
-        "Set 1 Game 2: Alexandrescou/ Tabata served \u2014 1 - 1",
-        "Set 1 Game 3: Ogunsakin/ Raguin served \u2014 1 - 2",
-        "Set 1 Game 4: Alexandrescou/ Tabata served \u2014 1 - 3",
-        "Set 1 Game 5: Ogunsakin/ Raguin served \u2014 2 - 3",
-        "Set 1 Game 6: Alexandrescou/ Tabata served \u2014 2 - 4",
-        "Set 1 Game 7: Ogunsakin/ Raguin served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "1-0",
-        "p1_form": [
-          {
-            "result": "L",
-            "opponent": "Miguel/ Sesko",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "Alexandrescou/ Tabata",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "Azam/ Reddy",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "Behrmann/ Thomas",
-            "score": "0 - 2"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "L",
-            "opponent": "Ogunsakin/ Raguin",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "Fletcher/ Mirrington",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "Johnson/ Konduri",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "Kawanishi/ Watanabe",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Paparkar/ Santhosh",
-            "score": "2 - 0"
-          }
-        ]
-      }
-    },
-    "12161040": {
-      "player": "Combs/ De Los Reyes",
-      "opponent": "Rajeshwaran Revathi/ Sushkova",
-      "score": "5-1",
-      "status": "Set 1",
-      "stats": null,
-      "timeline": [
-        "Set 1 Game 1: Combs/ De Los Reyes served \u2014 1 - 0",
-        "Set 1 Game 2: Rajeshwaran Revathi/ Sushkova served \u2014 2 - 0",
-        "Set 1 Game 3: Combs/ De Los Reyes served \u2014 3 - 0",
-        "Set 1 Game 4: Rajeshwaran Revathi/ Sushkova served \u2014 4 - 0",
-        "Set 1 Game 5: Combs/ De Los Reyes served \u2014 4 - 1",
-        "Set 1 Game 6: Rajeshwaran Revathi/ Sushkova served \u2014 5 - 1",
-        "Set 1 Game 7: Combs/ De Los Reyes served \u2014 None"
+        "Set 1 Game 2: Fagan/ Sohns served \u2014 1 - 1",
+        "Set 1 Game 3: Alexander/ Beviz served \u2014 1 - 2",
+        "Set 1 Game 4: Fagan/ Sohns served \u2014 1 - 3",
+        "Set 1 Game 5: Alexander/ Beviz served \u2014 1 - 4",
+        "Set 1 Game 6: Fagan/ Sohns served \u2014 2 - 4",
+        "Set 1 Game 7: Alexander/ Beviz served \u2014 3 - 4",
+        "Set 1 Game 8: Fagan/ Sohns served \u2014 3 - 5",
+        "Set 1 Game 9: Alexander/ Beviz served \u2014 3 - 6",
+        "Set 2 Game 1: Fagan/ Sohns served \u2014 0 - 1",
+        "Set 2 Game 2: Alexander/ Beviz served \u2014 1 - 1",
+        "Set 2 Game 3: Fagan/ Sohns served \u2014 2 - 1",
+        "Set 2 Game 4: Alexander/ Beviz served \u2014 2 - 2",
+        "Set 2 Game 5: Alexander/ Beviz served \u2014 3 - 2",
+        "Set 2 Game 6: Alexander/ Beviz served \u2014 4 - 2",
+        "Set 2 Game 7: Fagan/ Sohns served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "0-0",
-        "p1_form": [
-          {
-            "result": "L",
-            "opponent": "Bertacchi/ Bohrer Martins",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Norin/ Suvirdjonkova",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "Vandromme/ Vladson",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "Montoya/ Virc",
-            "score": "2 - 1"
-          }
-        ],
+        "p1_form": [],
         "p2_form": []
       }
     },
-    "12161060": {
-      "player": "K. Scott",
-      "opponent": "V. Lepchenko",
-      "score": "5-4",
+    "12161059": {
+      "player": "V. Valdmannova",
+      "opponent": "C. Y. Lee",
+      "score": "3-4",
       "status": "Set 1",
       "stats": {
         "aces": [
@@ -169,80 +183,78 @@
           "1"
         ],
         "double_faults": [
-          "1",
+          "3",
           "1"
         ],
         "win_1st_serve": [
-          "83%",
-          "100%"
+          "67%",
+          "50%"
         ]
       },
       "timeline": [
-        "Set 1 Game 1: K. Scott served \u2014 1 - 0",
-        "Set 1 Game 2: V. Lepchenko served \u2014 1 - 1",
-        "Set 1 Game 3: K. Scott served \u2014 2 - 1",
-        "Set 1 Game 4: V. Lepchenko served \u2014 2 - 2",
-        "Set 1 Game 5: K. Scott served \u2014 3 - 2",
-        "Set 1 Game 6: V. Lepchenko served \u2014 3 - 3",
-        "Set 1 Game 7: K. Scott served \u2014 4 - 3",
-        "Set 1 Game 8: V. Lepchenko served \u2014 4 - 4",
-        "Set 1 Game 9: V. Lepchenko served \u2014 5 - 4",
-        "Set 1 Game 10: V. Lepchenko served \u2014 5 - 3"
+        "Set 1 Game 1: V. Valdmannova served \u2014 0 - 1",
+        "Set 1 Game 2: C. Y. Lee served \u2014 0 - 2",
+        "Set 1 Game 3: V. Valdmannova served \u2014 1 - 2",
+        "Set 1 Game 4: C. Y. Lee served \u2014 2 - 2",
+        "Set 1 Game 5: V. Valdmannova served \u2014 3 - 2",
+        "Set 1 Game 6: C. Y. Lee served \u2014 3 - 3",
+        "Set 1 Game 7: V. Valdmannova served \u2014 3 - 4",
+        "Set 1 Game 8: C. Y. Lee served \u2014 None"
       ],
       "h2h": {
-        "h2h_record": "1-1",
+        "h2h_record": "0-2",
         "p1_form": [
           {
             "result": "L",
-            "opponent": "K. Swan",
+            "opponent": "E. Kalieva",
+            "score": "2 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "A. Sasnovich",
+            "score": "2 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "M. L. Carle",
             "score": "2 - 0"
           },
           {
             "result": "L",
-            "opponent": "A. Zakharova",
-            "score": "0 - 2"
+            "opponent": "C. Y. Lee",
+            "score": "2 - 0"
           },
           {
             "result": "W",
-            "opponent": "Y. Ma",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "M. Hontama",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "E. Kalieva",
+            "opponent": "S. Bandecchi",
             "score": "2 - 0"
           }
         ],
         "p2_form": [
           {
             "result": "L",
-            "opponent": "G. Knutson",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Korneeva",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "E. Jones",
+            "opponent": "K. Boulter",
             "score": "1 - 2"
           },
           {
             "result": "L",
             "opponent": "P. Kudermetova",
-            "score": "2 - 1"
+            "score": "1 - 2"
           },
           {
             "result": "W",
-            "opponent": "C. Ngounoue",
-            "score": "1 - 2"
+            "opponent": "G. Knutson",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "V. Valdmannova",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "W. Falkowska",
+            "score": "2 - 1"
           }
         ]
       }
@@ -250,38 +262,38 @@
     "12160591": {
       "player": "Seggerman/ Trhac",
       "opponent": "Krajicek/ Mektic",
-      "score": "6-3, 2-3",
-      "status": "Set 2",
+      "score": "6-3, 3-6, 6-6",
+      "status": "Set 3",
       "stats": {
         "aces": [
-          "2",
-          "1"
+          "4",
+          "3"
         ],
         "double_faults": [
-          "2",
+          "0",
           "0"
         ],
         "win_1st_serve": [
-          "150%",
-          "50%"
+          "91%",
+          "79%"
         ]
       },
       "timeline": [
-        "Set 1 Game 1: Seggerman/ Trhac served \u2014 1 - 0",
-        "Set 1 Game 2: Krajicek/ Mektic served \u2014 1 - 1",
-        "Set 1 Game 3: Seggerman/ Trhac served \u2014 2 - 1",
-        "Set 1 Game 4: Krajicek/ Mektic served \u2014 2 - 2",
-        "Set 1 Game 5: Seggerman/ Trhac served \u2014 3 - 2",
-        "Set 1 Game 6: Krajicek/ Mektic served \u2014 3 - 3",
-        "Set 1 Game 7: Seggerman/ Trhac served \u2014 4 - 3",
-        "Set 1 Game 8: Krajicek/ Mektic served \u2014 5 - 3",
-        "Set 1 Game 9: Seggerman/ Trhac served \u2014 6 - 3",
-        "Set 2 Game 1: Krajicek/ Mektic served \u2014 0 - 1",
-        "Set 2 Game 2: Seggerman/ Trhac served \u2014 1 - 1",
-        "Set 2 Game 3: Krajicek/ Mektic served \u2014 1 - 2",
-        "Set 2 Game 4: Seggerman/ Trhac served \u2014 2 - 2",
-        "Set 2 Game 5: Krajicek/ Mektic served \u2014 1 - 2",
-        "Set 2 Game 6: Seggerman/ Trhac served \u2014 None"
+        "Set 3 Game 6: Krajicek/ Mektic served \u2014 3 - 3",
+        "Set 3 Game 7: Seggerman/ Trhac served \u2014 4 - 3",
+        "Set 3 Game 8: Krajicek/ Mektic served \u2014 4 - 4",
+        "Set 3 Game 9: Seggerman/ Trhac served \u2014 5 - 4",
+        "Set 3 Game 10: Krajicek/ Mektic served \u2014 5 - 5",
+        "Set 3 Game 11: Seggerman/ Trhac served \u2014 6 - 5",
+        "Set 3 Game 12: Krajicek/ Mektic served \u2014 6 - 6",
+        "Set 3 TieBreak Game 1: Seggerman/ Trhac served \u2014 1 - 0",
+        "Set 3 TieBreak Game 2: Krajicek/ Mektic served \u2014 1 - 1",
+        "Set 3 TieBreak Game 3: Krajicek/ Mektic served \u2014 1 - 2",
+        "Set 3 TieBreak Game 4: Seggerman/ Trhac served \u2014 1 - 3",
+        "Set 3 TieBreak Game 5: Seggerman/ Trhac served \u2014 2 - 3",
+        "Set 3 TieBreak Game 6: Krajicek/ Mektic served \u2014 2 - 4",
+        "Set 3 TieBreak Game 7: Krajicek/ Mektic served \u2014 3 - 4",
+        "Set 3 TieBreak Game 8: Seggerman/ Trhac served \u2014 4 - 4"
       ],
       "h2h": {
         "h2h_record": "0-0",
@@ -341,630 +353,96 @@
         ]
       }
     },
-    "12161058": {
-      "player": "A. Tikhonova",
-      "opponent": "D. Semenistaja",
-      "score": "6-4, 4-6, 5-5",
+    "12160802": {
+      "player": "Doumbia/ Reboul",
+      "opponent": "Schnaitter/ Wallner",
+      "score": "6-7, 6-2, 1-2",
       "status": "Set 3",
       "stats": {
         "aces": [
-          "4",
-          "0"
-        ],
-        "double_faults": [
-          "2",
-          "0"
-        ],
-        "win_1st_serve": [
-          "65%",
-          "38%"
-        ]
-      },
-      "timeline": [
-        "Set 2 Game 7: A. Tikhonova served \u2014 3 - 4",
-        "Set 2 Game 8: D. Semenistaja served \u2014 4 - 4",
-        "Set 2 Game 9: A. Tikhonova served \u2014 4 - 5",
-        "Set 2 Game 10: D. Semenistaja served \u2014 4 - 6",
-        "Set 3 Game 1: A. Tikhonova served \u2014 1 - 0",
-        "Set 3 Game 2: D. Semenistaja served \u2014 2 - 0",
-        "Set 3 Game 3: A. Tikhonova served \u2014 2 - 1",
-        "Set 3 Game 4: D. Semenistaja served \u2014 2 - 2",
-        "Set 3 Game 5: A. Tikhonova served \u2014 3 - 2",
-        "Set 3 Game 6: D. Semenistaja served \u2014 3 - 3",
-        "Set 3 Game 7: A. Tikhonova served \u2014 4 - 3",
-        "Set 3 Game 8: D. Semenistaja served \u2014 4 - 4",
-        "Set 3 Game 9: A. Tikhonova served \u2014 5 - 4",
-        "Set 3 Game 10: D. Semenistaja served \u2014 5 - 5",
-        "Set 3 Game 11: A. Tikhonova served \u2014 5 - 4"
-      ],
-      "h2h": {
-        "h2h_record": "0-1",
-        "p1_form": [
-          {
-            "result": "L",
-            "opponent": "N. Schunk",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "A. Mintegi Del Olmo",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "R. Roura Llaverias",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "J. Pieri",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "L. Giza",
-            "score": "0 - 2"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "L",
-            "opponent": "A. Potapova",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "S. Hunter",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "A. Shubladze",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "H. Kinoshita",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "M. Ristic",
-            "score": "2 - 0"
-          }
-        ]
-      }
-    },
-    "12161057": {
-      "player": "K. Day",
-      "opponent": "S. Lamens",
-      "score": "6-4, 6-3",
-      "status": "Finished",
-      "stats": {
-        "aces": [
-          "1",
-          "0"
-        ],
-        "double_faults": [
-          "1",
-          "5"
-        ],
-        "win_1st_serve": [
-          "65%",
-          "33%"
-        ]
-      },
-      "timeline": [
-        "Set 1 Game 5: K. Day served \u2014 4 - 1",
-        "Set 1 Game 6: S. Lamens served \u2014 5 - 1",
-        "Set 1 Game 7: K. Day served \u2014 5 - 2",
-        "Set 1 Game 8: S. Lamens served \u2014 5 - 3",
-        "Set 1 Game 9: K. Day served \u2014 5 - 4",
-        "Set 1 Game 10: S. Lamens served \u2014 6 - 4",
-        "Set 2 Game 1: K. Day served \u2014 0 - 1",
-        "Set 2 Game 2: S. Lamens served \u2014 1 - 1",
-        "Set 2 Game 3: K. Day served \u2014 2 - 1",
-        "Set 2 Game 4: S. Lamens served \u2014 2 - 2",
-        "Set 2 Game 5: K. Day served \u2014 3 - 2",
-        "Set 2 Game 6: S. Lamens served \u2014 4 - 2",
-        "Set 2 Game 7: K. Day served \u2014 5 - 2",
-        "Set 2 Game 8: S. Lamens served \u2014 5 - 3",
-        "Set 2 Game 9: K. Day served \u2014 6 - 3"
-      ],
-      "h2h": {
-        "h2h_record": "1-0",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "S. Lamens",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "J. Pareja",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "S. Zhang",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "Y. Yuan",
-            "score": "1 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "T. Preston",
-            "score": "2 - 0"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "L",
-            "opponent": "K. Day",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Rus",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "E. Jones",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "E. Pridankina",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "A. Rajecki",
-            "score": "0 - 2"
-          }
-        ]
-      }
-    },
-    "12161056": {
-      "player": "Jiang/ Zhang",
-      "opponent": "Kato/ Wu",
-      "score": "6-4, 3-4",
-      "status": "Set 2",
-      "stats": {
-        "aces": [
-          "1",
-          "0"
-        ],
-        "double_faults": [
-          "1",
-          "0"
-        ],
-        "win_1st_serve": [
-          "63%",
-          "53%"
-        ]
-      },
-      "timeline": [
-        "Set 1 Game 4: Jiang/ Zhang served \u2014 3 - 1",
-        "Set 1 Game 5: Kato/ Wu served \u2014 3 - 2",
-        "Set 1 Game 6: Jiang/ Zhang served \u2014 4 - 2",
-        "Set 1 Game 7: Kato/ Wu served \u2014 4 - 3",
-        "Set 1 Game 8: Jiang/ Zhang served \u2014 5 - 3",
-        "Set 1 Game 9: Kato/ Wu served \u2014 5 - 4",
-        "Set 1 Game 10: Jiang/ Zhang served \u2014 6 - 4",
-        "Set 2 Game 1: Kato/ Wu served \u2014 0 - 1",
-        "Set 2 Game 2: Jiang/ Zhang served \u2014 1 - 1",
-        "Set 2 Game 3: Kato/ Wu served \u2014 1 - 2",
-        "Set 2 Game 4: Jiang/ Zhang served \u2014 2 - 2",
-        "Set 2 Game 5: Kato/ Wu served \u2014 2 - 3",
-        "Set 2 Game 6: Jiang/ Zhang served \u2014 2 - 4",
-        "Set 2 Game 7: Kato/ Wu served \u2014 3 - 4",
-        "Set 2 Game 8: Jiang/ Zhang served \u2014 2 - 4"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "Chong/ Yang",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "Kenin/ Potapova",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "Cui/ Dev S D",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "Bar Biryukov/ Fomin",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Peliwo/ Wang",
-            "score": "2 - 0"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "Kichenok/ Kichenok",
-            "score": "1 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Mihalikova/ Nicholls",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "Xu/ Yang",
-            "score": "1 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "Olmos/ Sutjiadi",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "Muhammad/ Sutjiadi",
-            "score": "1 - 2"
-          }
-        ]
-      }
-    },
-    "12161053": {
-      "player": "Berezina/ Terentyeva",
-      "opponent": "DeLuccia/ Meabe",
-      "score": "5-6",
-      "status": "Set 1",
-      "stats": null,
-      "timeline": [
-        "Set 1 Game 1: DeLuccia/ Meabe served \u2014 1 - 0",
-        "Set 1 Game 2: Berezina/ Terentyeva served \u2014 2 - 0",
-        "Set 1 Game 3: DeLuccia/ Meabe served \u2014 2 - 1",
-        "Set 1 Game 4: Berezina/ Terentyeva served \u2014 2 - 2",
-        "Set 1 Game 5: DeLuccia/ Meabe served \u2014 2 - 3",
-        "Set 1 Game 6: Berezina/ Terentyeva served \u2014 2 - 4",
-        "Set 1 Game 7: DeLuccia/ Meabe served \u2014 2 - 5",
-        "Set 1 Game 8: Berezina/ Terentyeva served \u2014 3 - 5",
-        "Set 1 Game 9: DeLuccia/ Meabe served \u2014 4 - 5",
-        "Set 1 Game 10: Berezina/ Terentyeva served \u2014 5 - 5",
-        "Set 1 Game 11: DeLuccia/ Meabe served \u2014 5 - 6",
-        "Set 1 Game 12: Berezina/ Terentyeva served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [],
-        "p2_form": []
-      }
-    },
-    "12161043": {
-      "player": "Ishii/ Kha",
-      "opponent": "Burcescu/ Zhang",
-      "score": "6-4, 5-5",
-      "status": "Set 2",
-      "stats": null,
-      "timeline": [
-        "Set 1 Game 7: Burcescu/ Zhang served \u2014 4 - 3",
-        "Set 1 Game 8: Ishii/ Kha served \u2014 5 - 3",
-        "Set 1 Game 9: Burcescu/ Zhang served \u2014 5 - 4",
-        "Set 1 Game 10: Ishii/ Kha served \u2014 6 - 4",
-        "Set 2 Game 1: Burcescu/ Zhang served \u2014 0 - 1",
-        "Set 2 Game 2: Ishii/ Kha served \u2014 1 - 1",
-        "Set 2 Game 3: Burcescu/ Zhang served \u2014 1 - 2",
-        "Set 2 Game 4: Ishii/ Kha served \u2014 2 - 2",
-        "Set 2 Game 5: Burcescu/ Zhang served \u2014 2 - 3",
-        "Set 2 Game 6: Ishii/ Kha served \u2014 3 - 3",
-        "Set 2 Game 7: Burcescu/ Zhang served \u2014 3 - 4",
-        "Set 2 Game 8: Ishii/ Kha served \u2014 4 - 4",
-        "Set 2 Game 9: Burcescu/ Zhang served \u2014 4 - 5",
-        "Set 2 Game 10: Ishii/ Kha served \u2014 5 - 5",
-        "Set 2 Game 11: Burcescu/ Zhang served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [],
-        "p2_form": []
-      }
-    },
-    "12161041": {
-      "player": "Alame/ Frodin",
-      "opponent": "Ayrault/ Preston",
-      "score": "6-3, 4-3",
-      "status": "Set 2",
-      "stats": null,
-      "timeline": [
-        "Set 1 Game 3: Ayrault/ Preston served \u2014 1 - 2",
-        "Set 1 Game 4: Alame/ Frodin served \u2014 1 - 3",
-        "Set 1 Game 5: Ayrault/ Preston served \u2014 2 - 3",
-        "Set 1 Game 6: Alame/ Frodin served \u2014 3 - 3",
-        "Set 1 Game 7: Ayrault/ Preston served \u2014 4 - 3",
-        "Set 1 Game 8: Alame/ Frodin served \u2014 5 - 3",
-        "Set 1 Game 9: Ayrault/ Preston served \u2014 6 - 3",
-        "Set 2 Game 1: Alame/ Frodin served \u2014 1 - 0",
-        "Set 2 Game 2: Ayrault/ Preston served \u2014 1 - 1",
-        "Set 2 Game 3: Alame/ Frodin served \u2014 2 - 1",
-        "Set 2 Game 4: Ayrault/ Preston served \u2014 3 - 1",
-        "Set 2 Game 5: Alame/ Frodin served \u2014 4 - 1",
-        "Set 2 Game 6: Ayrault/ Preston served \u2014 4 - 2",
-        "Set 2 Game 7: Alame/ Frodin served \u2014 4 - 3",
-        "Set 2 Game 8: Ayrault/ Preston served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [],
-        "p2_form": []
-      }
-    },
-    "12161033": {
-      "player": "Jovanovski/ Majdandzic",
-      "opponent": "Konduri/ Latak",
-      "score": "4-6, 3-6",
-      "status": "Finished",
-      "stats": null,
-      "timeline": [
-        "Set 1 Game 6: Jovanovski/ Majdandzic served \u2014 3 - 3",
-        "Set 1 Game 7: Konduri/ Latak served \u2014 3 - 4",
-        "Set 1 Game 8: Jovanovski/ Majdandzic served \u2014 4 - 4",
-        "Set 1 Game 9: Konduri/ Latak served \u2014 4 - 5",
-        "Set 1 Game 10: Jovanovski/ Majdandzic served \u2014 4 - 6",
-        "Set 2 Game 1: Konduri/ Latak served \u2014 0 - 1",
-        "Set 2 Game 2: Jovanovski/ Majdandzic served \u2014 0 - 2",
-        "Set 2 Game 3: Konduri/ Latak served \u2014 0 - 3",
-        "Set 2 Game 4: Jovanovski/ Majdandzic served \u2014 0 - 4",
-        "Set 2 Game 5: Konduri/ Latak served \u2014 1 - 4",
-        "Set 2 Game 6: Jovanovski/ Majdandzic served \u2014 2 - 4",
-        "Set 2 Game 7: Konduri/ Latak served \u2014 2 - 5",
-        "Set 2 Game 8: Jovanovski/ Majdandzic served \u2014 3 - 5",
-        "Set 2 Game 9: Konduri/ Latak served \u2014 3 - 6",
-        "Set 2 Game 10: Jovanovski/ Majdandzic served \u2014 3 - 6"
-      ],
-      "h2h": {
-        "h2h_record": "0-1",
-        "p1_form": [
-          {
-            "result": "L",
-            "opponent": "Konduri/ Latak",
-            "score": "0 - 2"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "Jovanovski/ Majdandzic",
-            "score": "0 - 2"
-          }
-        ]
-      }
-    },
-    "12161030": {
-      "player": "Ceban/ Lawlor",
-      "opponent": "Hance/ Kennedy",
-      "score": "2-6, 1-0",
-      "status": "Set 2",
-      "stats": null,
-      "timeline": [
-        "Set 1 Game 1: Ceban/ Lawlor served \u2014 0 - 1",
-        "Set 1 Game 2: Hance/ Kennedy served \u2014 0 - 2",
-        "Set 1 Game 3: Ceban/ Lawlor served \u2014 0 - 3",
-        "Set 1 Game 4: Hance/ Kennedy served \u2014 0 - 4",
-        "Set 1 Game 5: Ceban/ Lawlor served \u2014 1 - 4",
-        "Set 1 Game 6: Hance/ Kennedy served \u2014 1 - 5",
-        "Set 1 Game 7: Ceban/ Lawlor served \u2014 2 - 5",
-        "Set 1 Game 8: Hance/ Kennedy served \u2014 2 - 4",
-        "Set 2 Game 1: Ceban/ Lawlor served \u2014 1 - 0",
-        "Set 2 Game 2: Hance/ Kennedy served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [],
-        "p2_form": [
-          {
-            "result": "L",
-            "opponent": "Domenc/ Jade",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "Baena/ Chavez",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Storck/ Thomas",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Gonzalez-Galino/ Massellani",
-            "score": "1 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "Lagutin/ Lalami Laaroussi",
-            "score": "2 - 0"
-          }
-        ]
-      }
-    },
-    "12161017": {
-      "player": "S. A. Larraya Guidi",
-      "opponent": "I. Pistola",
-      "score": "4-6, 6-4, 1-0",
-      "status": "Set 3",
-      "stats": null,
-      "timeline": [
-        "Set 1 Game 8: I. Pistola served \u2014 3 - 5",
-        "Set 1 Game 9: S. A. Larraya Guidi served \u2014 4 - 5",
-        "Set 1 Game 10: I. Pistola served \u2014 4 - 6",
-        "Set 2 Game 1: S. A. Larraya Guidi served \u2014 1 - 0",
-        "Set 2 Game 2: I. Pistola served \u2014 2 - 0",
-        "Set 2 Game 3: S. A. Larraya Guidi served \u2014 2 - 1",
-        "Set 2 Game 4: I. Pistola served \u2014 2 - 2",
-        "Set 2 Game 5: S. A. Larraya Guidi served \u2014 3 - 2",
-        "Set 2 Game 6: I. Pistola served \u2014 3 - 3",
-        "Set 2 Game 7: S. A. Larraya Guidi served \u2014 4 - 3",
-        "Set 2 Game 8: I. Pistola served \u2014 4 - 4",
-        "Set 2 Game 9: S. A. Larraya Guidi served \u2014 5 - 4",
-        "Set 2 Game 10: I. Pistola served \u2014 6 - 4",
-        "Set 3 Game 1: S. A. Larraya Guidi served \u2014 1 - 0",
-        "Set 3 Game 2: I. Pistola served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "N. Kha",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "L. Schaedel",
-            "score": "1 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "M. Carrocera",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "J. Estevez",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "D. Britton",
-            "score": "2 - 0"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "A. Pircher",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "L. Bronzetti",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "L. Vujovic",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "C. Giambelli",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "Y. Shao",
-            "score": "2 - 0"
-          }
-        ]
-      }
-    },
-    "12160860": {
-      "player": "K. Khachanov",
-      "opponent": "L. Tien",
-      "score": "5-5",
-      "status": "Set 1",
-      "stats": {
-        "aces": [
-          "2",
+          "0",
           "1"
         ],
         "double_faults": [
-          "1",
-          "2"
+          "0",
+          "1"
         ],
         "win_1st_serve": [
-          "75%",
-          "86%"
+          "46%",
+          "80%"
         ]
       },
       "timeline": [
-        "Set 1 Game 1: K. Khachanov served \u2014 1 - 0",
-        "Set 1 Game 2: L. Tien served \u2014 1 - 1",
-        "Set 1 Game 3: K. Khachanov served \u2014 2 - 1",
-        "Set 1 Game 4: L. Tien served \u2014 2 - 2",
-        "Set 1 Game 5: K. Khachanov served \u2014 2 - 3",
-        "Set 1 Game 6: L. Tien served \u2014 3 - 3",
-        "Set 1 Game 7: K. Khachanov served \u2014 4 - 3",
-        "Set 1 Game 8: L. Tien served \u2014 4 - 4",
-        "Set 1 Game 9: L. Tien served \u2014 5 - 4",
-        "Set 1 Game 10: L. Tien served \u2014 5 - 5",
-        "Set 1 Game 11: K. Khachanov served \u2014 5 - 4"
+        "Set 1 TieBreak Game 10: Doumbia/ Reboul served \u2014 4 - 6",
+        "Set 2 Game 1: Doumbia/ Reboul served \u2014 1 - 0",
+        "Set 1 TieBreak Game 11: Doumbia/ Reboul served \u2014 4 - 7",
+        "Set 1 Game 13: Schnaitter/ Wallner served \u2014 6 - 7",
+        "Set 2 Game 2: Schnaitter/ Wallner served \u2014 1 - 1",
+        "Set 2 Game 3: Doumbia/ Reboul served \u2014 2 - 1",
+        "Set 2 Game 4: Schnaitter/ Wallner served \u2014 2 - 2",
+        "Set 2 Game 5: Doumbia/ Reboul served \u2014 3 - 2",
+        "Set 2 Game 6: Schnaitter/ Wallner served \u2014 4 - 2",
+        "Set 2 Game 7: Doumbia/ Reboul served \u2014 5 - 2",
+        "Set 2 Game 8: Schnaitter/ Wallner served \u2014 6 - 2",
+        "Set 3 Game 1: Doumbia/ Reboul served \u2014 1 - 0",
+        "Set 3 Game 2: Schnaitter/ Wallner served \u2014 1 - 1",
+        "Set 3 Game 3: Doumbia/ Reboul served \u2014 1 - 2",
+        "Set 3 Game 4: Schnaitter/ Wallner served \u2014 None"
       ],
       "h2h": {
-        "h2h_record": "0-0",
+        "h2h_record": "4-1",
         "p1_form": [
           {
             "result": "W",
-            "opponent": "B. Bonzi",
-            "score": "3 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "F. Auger-Aliassime",
-            "score": "1 - 3"
-          },
-          {
-            "result": "W",
-            "opponent": "R. A. Burruchaga",
-            "score": "0 - 3"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Kovacevic",
+            "opponent": "Stevenson/ Willis",
             "score": "2 - 1"
           },
           {
             "result": "L",
-            "opponent": "T. Atmane",
-            "score": "0 - 2"
+            "opponent": "Ram/ Salisbury",
+            "score": "2 - 0"
+          },
+          {
+            "result": "L",
+            "opponent": "Nys/ Roger-Vasselin",
+            "score": "2 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "Schnaitter/ Wallner",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "Buse/ Cobolli",
+            "score": "1 - 2"
           }
         ],
         "p2_form": [
           {
             "result": "W",
-            "opponent": "J. Mensik",
-            "score": "2 - 3"
-          },
-          {
-            "result": "W",
-            "opponent": "G. Monfils",
-            "score": "0 - 3"
-          },
-          {
-            "result": "W",
-            "opponent": "N. Borges",
-            "score": "0 - 3"
+            "opponent": "Alvarez/ Johnston",
+            "score": "0 - 2"
           },
           {
             "result": "L",
-            "opponent": "F. Tiafoe",
-            "score": "1 - 2"
+            "opponent": "Arribage/ Guinard",
+            "score": "2 - 0"
           },
           {
             "result": "W",
-            "opponent": "S. Baez",
+            "opponent": "Lammons/ Withrow",
+            "score": "2 - 1"
+          },
+          {
+            "result": "L",
+            "opponent": "Doumbia/ Reboul",
             "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "Krawietz/ Puetz",
+            "score": "2 - 1"
           }
         ]
       }
@@ -972,38 +450,38 @@
     "12160856": {
       "player": "A. Gea",
       "opponent": "B. Van De Zandschulp",
-      "score": "6-3, 6.6-6.0",
-      "status": "Set 2",
+      "score": "6-3, 7-6, 5-5",
+      "status": "Set 3",
       "stats": {
         "aces": [
-          "3",
-          "3"
-        ],
-        "double_faults": [
-          "4",
+          "1",
           "2"
         ],
+        "double_faults": [
+          "3",
+          "0"
+        ],
         "win_1st_serve": [
-          "74%",
-          "82%"
+          "56%",
+          "65%"
         ]
       },
       "timeline": [
-        "Set 2 Game 4: A. Gea served \u2014 1 - 3",
-        "Set 2 Game 5: B. Van De Zandschulp served \u2014 1 - 4",
-        "Set 2 Game 6: A. Gea served \u2014 2 - 4",
-        "Set 2 Game 7: B. Van De Zandschulp served \u2014 3 - 4",
-        "Set 2 Game 8: A. Gea served \u2014 4 - 4",
-        "Set 2 Game 9: B. Van De Zandschulp served \u2014 4 - 5",
-        "Set 2 Game 10: A. Gea served \u2014 5 - 5",
-        "Set 2 Game 11: B. Van De Zandschulp served \u2014 5 - 6",
-        "Set 2 Game 12: A. Gea served \u2014 6 - 6",
-        "Set 2 TieBreak Game 1: B. Van De Zandschulp served \u2014 1 - 0",
-        "Set 2 TieBreak Game 2: A. Gea served \u2014 2 - 0",
-        "Set 2 TieBreak Game 3: A. Gea served \u2014 3 - 0",
-        "Set 2 TieBreak Game 4: B. Van De Zandschulp served \u2014 4 - 0",
         "Set 2 TieBreak Game 5: B. Van De Zandschulp served \u2014 5 - 0",
-        "Set 2 TieBreak Game 6: A. Gea served \u2014 6 - 0"
+        "Set 2 TieBreak Game 6: A. Gea served \u2014 6 - 0",
+        "Set 3 Game 1: A. Gea served \u2014 1 - 0",
+        "Set 2 TieBreak Game 7: A. Gea served \u2014 7 - 0",
+        "Set 2 Game 13: B. Van De Zandschulp served \u2014 7 - 6",
+        "Set 3 Game 2: B. Van De Zandschulp served \u2014 1 - 1",
+        "Set 3 Game 3: A. Gea served \u2014 1 - 2",
+        "Set 3 Game 4: B. Van De Zandschulp served \u2014 1 - 3",
+        "Set 3 Game 5: A. Gea served \u2014 2 - 3",
+        "Set 3 Game 6: B. Van De Zandschulp served \u2014 2 - 4",
+        "Set 3 Game 7: A. Gea served \u2014 3 - 4",
+        "Set 3 Game 8: B. Van De Zandschulp served \u2014 4 - 4",
+        "Set 3 Game 9: A. Gea served \u2014 4 - 5",
+        "Set 3 Game 10: B. Van De Zandschulp served \u2014 5 - 5",
+        "Set 3 Game 11: A. Gea served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "0-0",
@@ -1063,93 +541,231 @@
         ]
       }
     },
-    "12160802": {
-      "player": "Doumbia/ Reboul",
-      "opponent": "Schnaitter/ Wallner",
-      "score": "6.0-6.0",
-      "status": "Set 1",
+    "12160860": {
+      "player": "K. Khachanov",
+      "opponent": "L. Tien",
+      "score": "7-5, 4-6, 1-0",
+      "status": "Set 3",
       "stats": {
         "aces": [
-          "0",
-          "1"
+          "1",
+          "0"
         ],
         "double_faults": [
-          "2",
-          "1"
+          "0",
+          "0"
         ],
         "win_1st_serve": [
-          "71%",
-          "82%"
+          "150%",
+          "50%"
         ]
       },
       "timeline": [
-        "Set 1 Game 1: Schnaitter/ Wallner served \u2014 0 - 1",
-        "Set 1 Game 2: Doumbia/ Reboul served \u2014 1 - 1",
-        "Set 1 Game 3: Schnaitter/ Wallner served \u2014 1 - 2",
-        "Set 1 Game 4: Doumbia/ Reboul served \u2014 2 - 2",
-        "Set 1 Game 5: Schnaitter/ Wallner served \u2014 3 - 2",
-        "Set 1 Game 6: Doumbia/ Reboul served \u2014 4 - 2",
-        "Set 1 Game 7: Schnaitter/ Wallner served \u2014 4 - 3",
-        "Set 1 Game 8: Doumbia/ Reboul served \u2014 4 - 4",
-        "Set 1 Game 9: Schnaitter/ Wallner served \u2014 4 - 5",
-        "Set 1 Game 10: Doumbia/ Reboul served \u2014 5 - 5",
-        "Set 1 Game 11: Schnaitter/ Wallner served \u2014 5 - 6",
-        "Set 1 Game 12: Doumbia/ Reboul served \u2014 6 - 6"
+        "Set 1 Game 10: L. Tien served \u2014 5 - 5",
+        "Set 1 Game 11: K. Khachanov served \u2014 6 - 5",
+        "Set 1 Game 12: L. Tien served \u2014 7 - 5",
+        "Set 2 Game 1: K. Khachanov served \u2014 1 - 0",
+        "Set 2 Game 2: L. Tien served \u2014 1 - 1",
+        "Set 2 Game 3: K. Khachanov served \u2014 1 - 2",
+        "Set 2 Game 4: L. Tien served \u2014 1 - 3",
+        "Set 2 Game 5: K. Khachanov served \u2014 2 - 3",
+        "Set 2 Game 6: L. Tien served \u2014 2 - 4",
+        "Set 2 Game 7: K. Khachanov served \u2014 3 - 4",
+        "Set 2 Game 8: L. Tien served \u2014 3 - 5",
+        "Set 2 Game 9: K. Khachanov served \u2014 4 - 5",
+        "Set 2 Game 10: L. Tien served \u2014 4 - 6",
+        "Set 3 Game 1: K. Khachanov served \u2014 1 - 0",
+        "Set 3 Game 2: L. Tien served \u2014 None"
       ],
       "h2h": {
-        "h2h_record": "4-1",
+        "h2h_record": "0-0",
         "p1_form": [
           {
             "result": "W",
-            "opponent": "Stevenson/ Willis",
+            "opponent": "B. Bonzi",
+            "score": "3 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "F. Auger-Aliassime",
+            "score": "1 - 3"
+          },
+          {
+            "result": "W",
+            "opponent": "R. A. Burruchaga",
+            "score": "0 - 3"
+          },
+          {
+            "result": "L",
+            "opponent": "A. Kovacevic",
             "score": "2 - 1"
           },
           {
             "result": "L",
-            "opponent": "Ram/ Salisbury",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "Nys/ Roger-Vasselin",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "Schnaitter/ Wallner",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "Buse/ Cobolli",
-            "score": "1 - 2"
+            "opponent": "T. Atmane",
+            "score": "0 - 2"
           }
         ],
         "p2_form": [
           {
             "result": "W",
-            "opponent": "Alvarez/ Johnston",
+            "opponent": "J. Mensik",
+            "score": "2 - 3"
+          },
+          {
+            "result": "W",
+            "opponent": "G. Monfils",
+            "score": "0 - 3"
+          },
+          {
+            "result": "W",
+            "opponent": "N. Borges",
+            "score": "0 - 3"
+          },
+          {
+            "result": "L",
+            "opponent": "F. Tiafoe",
+            "score": "1 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "S. Baez",
+            "score": "2 - 0"
+          }
+        ]
+      }
+    },
+    "12161053": {
+      "player": "Berezina/ Terentyeva",
+      "opponent": "DeLuccia/ Meabe",
+      "score": "5-7, 6-4, 10-3",
+      "status": "Finished",
+      "stats": null,
+      "timeline": [
+        "Set 2 Game 10: Berezina/ Terentyeva served \u2014 6 - 4",
+        "Set 3 Game 1: DeLuccia/ Meabe served \u2014 1 - 0",
+        "Set 3 Game 2: Berezina/ Terentyeva served \u2014 1 - 1",
+        "Set 3 Game 3: Berezina/ Terentyeva served \u2014 2 - 1",
+        "Set 3 Game 4: DeLuccia/ Meabe served \u2014 2 - 2",
+        "Set 3 Game 5: DeLuccia/ Meabe served \u2014 3 - 2",
+        "Set 3 Game 7: Berezina/ Terentyeva served \u2014 5 - 2",
+        "Set 3 Game 8: DeLuccia/ Meabe served \u2014 6 - 2",
+        "Set 3 Game 9: DeLuccia/ Meabe served \u2014 7 - 2",
+        "Set 3 Game 10: Berezina/ Terentyeva served \u2014 8 - 2",
+        "Set 3 Game 11: Berezina/ Terentyeva served \u2014 8 - 3",
+        "Set 3 Game 13: DeLuccia/ Meabe served \u2014 10 - 3",
+        "Set 3 Game 14: Berezina/ Terentyeva served \u2014 10 - 3",
+        "Set 3 Game 6: Berezina/ Terentyeva served \u2014 4 - 2",
+        "Set 3 Game 12: DeLuccia/ Meabe served \u2014 9 - 3"
+      ],
+      "h2h": {
+        "h2h_record": "1-0",
+        "p1_form": [
+          {
+            "result": "W",
+            "opponent": "DeLuccia/ Meabe",
+            "score": "2 - 1"
+          }
+        ],
+        "p2_form": [
+          {
+            "result": "L",
+            "opponent": "Berezina/ Terentyeva",
+            "score": "2 - 1"
+          }
+        ]
+      }
+    },
+    "12161060": {
+      "player": "K. Scott",
+      "opponent": "V. Lepchenko",
+      "score": "6-7, 0-4",
+      "status": "Set 2",
+      "stats": {
+        "aces": [
+          "0",
+          "2"
+        ],
+        "double_faults": [
+          "3",
+          "1"
+        ],
+        "win_1st_serve": [
+          "57%",
+          "91%"
+        ]
+      },
+      "timeline": [
+        "Set 1 Game 12: V. Lepchenko served \u2014 6 - 6",
+        "Set 1 TieBreak Game 1: K. Scott served \u2014 1 - 0",
+        "Set 1 TieBreak Game 2: V. Lepchenko served \u2014 1 - 1",
+        "Set 1 TieBreak Game 3: V. Lepchenko served \u2014 1 - 2",
+        "Set 1 TieBreak Game 4: K. Scott served \u2014 1 - 3",
+        "Set 1 TieBreak Game 5: K. Scott served \u2014 1 - 4",
+        "Set 1 TieBreak Game 6: V. Lepchenko served \u2014 1 - 5",
+        "Set 1 TieBreak Game 7: V. Lepchenko served \u2014 1 - 6",
+        "Set 1 TieBreak Game 8: K. Scott served \u2014 1 - 7",
+        "Set 2 Game 1: V. Lepchenko served \u2014 0 - 1",
+        "Set 1 Game 13: V. Lepchenko served \u2014 6 - 7",
+        "Set 2 Game 2: K. Scott served \u2014 0 - 2",
+        "Set 2 Game 3: V. Lepchenko served \u2014 0 - 3",
+        "Set 2 Game 4: K. Scott served \u2014 0 - 4",
+        "Set 2 Game 5: V. Lepchenko served \u2014 0 - 3"
+      ],
+      "h2h": {
+        "h2h_record": "1-1",
+        "p1_form": [
+          {
+            "result": "L",
+            "opponent": "K. Swan",
+            "score": "2 - 0"
+          },
+          {
+            "result": "L",
+            "opponent": "A. Zakharova",
             "score": "0 - 2"
           },
           {
-            "result": "L",
-            "opponent": "Arribage/ Guinard",
-            "score": "2 - 0"
+            "result": "W",
+            "opponent": "Y. Ma",
+            "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "Lammons/ Withrow",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "Doumbia/ Reboul",
-            "score": "2 - 0"
+            "opponent": "M. Hontama",
+            "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "Krawietz/ Puetz",
+            "opponent": "E. Kalieva",
+            "score": "2 - 0"
+          }
+        ],
+        "p2_form": [
+          {
+            "result": "L",
+            "opponent": "G. Knutson",
+            "score": "2 - 0"
+          },
+          {
+            "result": "L",
+            "opponent": "A. Korneeva",
+            "score": "2 - 0"
+          },
+          {
+            "result": "L",
+            "opponent": "E. Jones",
+            "score": "1 - 2"
+          },
+          {
+            "result": "L",
+            "opponent": "P. Kudermetova",
             "score": "2 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "C. Ngounoue",
+            "score": "1 - 2"
           }
         ]
       }
