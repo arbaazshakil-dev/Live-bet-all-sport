@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-07T03:26:10.025190+00:00",
+  "updated": "2026-09-07T04:26:21.550747+00:00",
   "matches": {
     "12160631": {
       "player": "D. J. Kim",
       "opponent": "K. Tamm",
-      "score": "3-6, 4-2",
-      "status": "Set 2",
+      "score": "3-6, 6-3, 5-5",
+      "status": "Set 3",
       "stats": {
         "aces": [
-          "0",
-          "2"
+          "1",
+          "3"
         ],
         "double_faults": [
           "0",
-          "0"
+          "3"
         ],
         "win_1st_serve": [
-          "70%",
-          "56%"
+          "76%",
+          "89%"
         ]
       },
       "timeline": [
-        "Set 1 Game 2: D. J. Kim served \u2014 1 - 1",
-        "Set 1 Game 3: K. Tamm served \u2014 1 - 2",
-        "Set 1 Game 4: D. J. Kim served \u2014 1 - 3",
-        "Set 1 Game 5: K. Tamm served \u2014 1 - 4",
-        "Set 1 Game 6: D. J. Kim served \u2014 2 - 4",
-        "Set 1 Game 7: K. Tamm served \u2014 2 - 5",
-        "Set 1 Game 8: D. J. Kim served \u2014 3 - 5",
-        "Set 1 Game 9: K. Tamm served \u2014 3 - 6",
-        "Set 2 Game 1: D. J. Kim served \u2014 1 - 0",
-        "Set 2 Game 2: K. Tamm served \u2014 1 - 1",
-        "Set 2 Game 3: D. J. Kim served \u2014 2 - 1",
-        "Set 2 Game 4: K. Tamm served \u2014 2 - 2",
-        "Set 2 Game 5: D. J. Kim served \u2014 3 - 2",
         "Set 2 Game 6: K. Tamm served \u2014 4 - 2",
-        "Set 2 Game 7: D. J. Kim served \u2014 None"
+        "Set 2 Game 7: D. J. Kim served \u2014 4 - 3",
+        "Set 2 Game 8: K. Tamm served \u2014 5 - 3",
+        "Set 2 Game 9: D. J. Kim served \u2014 6 - 3",
+        "Set 3 Game 1: K. Tamm served \u2014 0 - 1",
+        "Set 3 Game 2: D. J. Kim served \u2014 1 - 1",
+        "Set 3 Game 3: K. Tamm served \u2014 1 - 2",
+        "Set 3 Game 4: D. J. Kim served \u2014 2 - 2",
+        "Set 3 Game 5: K. Tamm served \u2014 3 - 2",
+        "Set 3 Game 6: D. J. Kim served \u2014 4 - 2",
+        "Set 3 Game 7: K. Tamm served \u2014 4 - 3",
+        "Set 3 Game 8: D. J. Kim served \u2014 5 - 3",
+        "Set 3 Game 9: K. Tamm served \u2014 5 - 4",
+        "Set 3 Game 10: D. J. Kim served \u2014 5 - 5",
+        "Set 3 Game 11: K. Tamm served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "0-0",
@@ -98,11 +98,11 @@
     "12160876": {
       "player": "T. Derepasko",
       "opponent": "T. Yamanaka",
-      "score": "2-1",
-      "status": "Set 1",
+      "score": "6-3, 2-1",
+      "status": "Set 2",
       "stats": {
         "aces": [
-          "0",
+          "3",
           "0"
         ],
         "double_faults": [
@@ -110,15 +110,24 @@
           "0"
         ],
         "win_1st_serve": [
-          "75%",
-          "25%"
+          "100%",
+          "50%"
         ]
       },
       "timeline": [
         "Set 1 Game 1: T. Derepasko served \u2014 0 - 1",
         "Set 1 Game 2: T. Yamanaka served \u2014 1 - 1",
         "Set 1 Game 3: T. Derepasko served \u2014 2 - 1",
-        "Set 1 Game 4: T. Yamanaka served \u2014 None"
+        "Set 1 Game 4: T. Yamanaka served \u2014 2 - 2",
+        "Set 1 Game 5: T. Derepasko served \u2014 3 - 2",
+        "Set 1 Game 6: T. Yamanaka served \u2014 3 - 3",
+        "Set 1 Game 7: T. Derepasko served \u2014 4 - 3",
+        "Set 1 Game 8: T. Yamanaka served \u2014 5 - 3",
+        "Set 1 Game 9: T. Derepasko served \u2014 6 - 3",
+        "Set 2 Game 1: T. Yamanaka served \u2014 1 - 0",
+        "Set 2 Game 2: T. Derepasko served \u2014 2 - 0",
+        "Set 2 Game 3: T. Yamanaka served \u2014 2 - 1",
+        "Set 2 Game 4: T. Derepasko served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "0-0",
@@ -181,28 +190,38 @@
     "12160877": {
       "player": "Y. Kawahashi",
       "opponent": "S. Ryan Ziegann",
-      "score": "2-2",
-      "status": "Set 1",
+      "score": "4-6, 3-3",
+      "status": "Set 2",
       "stats": {
         "aces": [
           "0",
-          "1"
+          "0"
         ],
         "double_faults": [
-          "1",
+          "0",
           "0"
         ],
         "win_1st_serve": [
-          "100%",
-          "100%"
+          "75%",
+          "64%"
         ]
       },
       "timeline": [
-        "Set 1 Game 1: S. Ryan Ziegann served \u2014 0 - 1",
-        "Set 1 Game 2: Y. Kawahashi served \u2014 1 - 1",
         "Set 1 Game 3: S. Ryan Ziegann served \u2014 1 - 2",
         "Set 1 Game 4: Y. Kawahashi served \u2014 2 - 2",
-        "Set 1 Game 5: S. Ryan Ziegann served \u2014 None"
+        "Set 1 Game 5: S. Ryan Ziegann served \u2014 2 - 3",
+        "Set 1 Game 6: Y. Kawahashi served \u2014 3 - 3",
+        "Set 1 Game 7: S. Ryan Ziegann served \u2014 3 - 4",
+        "Set 1 Game 8: Y. Kawahashi served \u2014 4 - 4",
+        "Set 1 Game 9: S. Ryan Ziegann served \u2014 4 - 5",
+        "Set 1 Game 10: Y. Kawahashi served \u2014 4 - 6",
+        "Set 2 Game 1: S. Ryan Ziegann served \u2014 0 - 1",
+        "Set 2 Game 2: Y. Kawahashi served \u2014 1 - 1",
+        "Set 2 Game 3: S. Ryan Ziegann served \u2014 1 - 2",
+        "Set 2 Game 4: Y. Kawahashi served \u2014 2 - 2",
+        "Set 2 Game 5: S. Ryan Ziegann served \u2014 2 - 3",
+        "Set 2 Game 6: Y. Kawahashi served \u2014 3 - 3",
+        "Set 2 Game 7: S. Ryan Ziegann served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "0-1",
@@ -265,27 +284,38 @@
     "12160878": {
       "player": "B. O'Connell",
       "opponent": "T. Ichikawa",
-      "score": "1-2",
-      "status": "Set 1",
+      "score": "6.8-7.10, 0-1",
+      "status": "Set 2",
       "stats": {
         "aces": [
-          "2",
-          "1"
-        ],
-        "double_faults": [
           "0",
           "0"
         ],
+        "double_faults": [
+          "1",
+          "0"
+        ],
         "win_1st_serve": [
-          "38%",
-          "67%"
+          "67%",
+          "100%"
         ]
       },
       "timeline": [
-        "Set 1 Game 1: B. O'Connell served \u2014 1 - 0",
-        "Set 1 Game 2: T. Ichikawa served \u2014 1 - 1",
-        "Set 1 Game 3: B. O'Connell served \u2014 1 - 2",
-        "Set 1 Game 4: T. Ichikawa served \u2014 None"
+        "Set 1 TieBreak Game 7: T. Ichikawa served \u2014 4 - 3",
+        "Set 1 TieBreak Game 8: B. O'Connell served \u2014 4 - 4",
+        "Set 1 TieBreak Game 9: B. O'Connell served \u2014 5 - 4",
+        "Set 1 TieBreak Game 10: T. Ichikawa served \u2014 5 - 5",
+        "Set 1 TieBreak Game 11: T. Ichikawa served \u2014 5 - 6",
+        "Set 1 TieBreak Game 12: B. O'Connell served \u2014 6 - 6",
+        "Set 1 TieBreak Game 13: B. O'Connell served \u2014 6 - 7",
+        "Set 1 TieBreak Game 14: T. Ichikawa served \u2014 7 - 7",
+        "Set 1 TieBreak Game 15: T. Ichikawa served \u2014 7 - 8",
+        "Set 1 TieBreak Game 16: B. O'Connell served \u2014 8 - 8",
+        "Set 1 TieBreak Game 17: B. O'Connell served \u2014 8 - 9",
+        "Set 1 TieBreak Game 18: T. Ichikawa served \u2014 8 - 10",
+        "Set 2 Game 1: T. Ichikawa served \u2014 0 - 1",
+        "Set 1 Game 13: T. Ichikawa served \u2014 6 - 7",
+        "Set 2 Game 2: B. O'Connell served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "0-0",
