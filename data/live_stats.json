@@ -1,271 +1,69 @@
 {
-  "updated": "2026-09-07T00:33:56.493257+00:00",
+  "updated": "2026-09-07T01:24:06.071623+00:00",
   "matches": {
-    "12160511": {
-      "player": "J. Pegula",
-      "opponent": "S. Cirstea",
-      "score": "6-3, 6-4",
-      "status": "Finished",
-      "stats": {
-        "aces": [
-          "2",
-          "1"
-        ],
-        "double_faults": [
-          "2",
-          "0"
-        ],
-        "win_1st_serve": [
-          "69%",
-          "40%"
-        ]
-      },
+    "12160544": {
+      "player": "A. Kalinskaya",
+      "opponent": "E. Navarro",
+      "score": "0-0",
+      "status": "Set 1",
+      "stats": null,
       "timeline": [
-        "Set 1 Game 5: S. Cirstea served \u2014 3 - 2",
-        "Set 1 Game 6: J. Pegula served \u2014 4 - 2",
-        "Set 1 Game 7: S. Cirstea served \u2014 5 - 2",
-        "Set 1 Game 8: J. Pegula served \u2014 5 - 3",
-        "Set 1 Game 9: S. Cirstea served \u2014 6 - 3",
-        "Set 2 Game 1: J. Pegula served \u2014 1 - 0",
-        "Set 2 Game 2: S. Cirstea served \u2014 1 - 1",
-        "Set 2 Game 3: J. Pegula served \u2014 2 - 1",
-        "Set 2 Game 4: S. Cirstea served \u2014 3 - 1",
-        "Set 2 Game 5: J. Pegula served \u2014 4 - 1",
-        "Set 2 Game 6: S. Cirstea served \u2014 4 - 2",
-        "Set 2 Game 7: J. Pegula served \u2014 4 - 3",
-        "Set 2 Game 8: S. Cirstea served \u2014 5 - 3",
-        "Set 2 Game 9: J. Pegula served \u2014 5 - 4",
-        "Set 2 Game 10: S. Cirstea served \u2014 6 - 4"
+        "Set 1 Game 1: None served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "2-0",
         "p1_form": [
           {
             "result": "W",
-            "opponent": "S. Cirstea",
-            "score": "2 - 0"
+            "opponent": "E. Svitolina",
+            "score": "1 - 2"
           },
           {
             "result": "W",
-            "opponent": "L. Fernandez",
-            "score": "2 - 1"
+            "opponent": "Xin. Wang",
+            "score": "1 - 2"
           },
           {
             "result": "W",
-            "opponent": "S. Kenin",
-            "score": "2 - 0"
+            "opponent": "A. Blinkova",
+            "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "G. Ruse",
-            "score": "2 - 0"
+            "opponent": "C. McNally",
+            "score": "0 - 2"
           },
           {
             "result": "L",
-            "opponent": "C. Gauff",
-            "score": "2 - 0"
+            "opponent": "D. Shnaider",
+            "score": "0 - 2"
           }
         ],
         "p2_form": [
           {
-            "result": "L",
-            "opponent": "J. Pegula",
+            "result": "W",
+            "opponent": "K. Muchova",
             "score": "2 - 0"
           },
           {
             "result": "W",
-            "opponent": "J. Paolini",
-            "score": "0 - 2"
+            "opponent": "C. McNally",
+            "score": "2 - 1"
           },
           {
             "result": "W",
-            "opponent": "D. Parry",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "J. Grabher",
-            "score": "0 - 2"
+            "opponent": "L. Boisson",
+            "score": "2 - 1"
           },
           {
             "result": "L",
             "opponent": "J. Pegula",
-            "score": "1 - 2"
-          }
-        ]
-      }
-    },
-    "12160546": {
-      "player": "B. Shelton",
-      "opponent": "S. Tsitsipas",
-      "score": "6-2, 6-3",
-      "status": "Set 3",
-      "stats": {
-        "aces": [
-          "1",
-          "0"
-        ],
-        "double_faults": [
-          "0",
-          "0"
-        ],
-        "win_1st_serve": [
-          null,
-          "0%"
-        ]
-      },
-      "timeline": [
-        "Set 1 Game 4: S. Tsitsipas served \u2014 3 - 1",
-        "Set 1 Game 5: B. Shelton served \u2014 4 - 1",
-        "Set 1 Game 6: S. Tsitsipas served \u2014 4 - 2",
-        "Set 1 Game 7: B. Shelton served \u2014 5 - 2",
-        "Set 1 Game 8: S. Tsitsipas served \u2014 6 - 2",
-        "Set 2 Game 1: B. Shelton served \u2014 1 - 0",
-        "Set 2 Game 2: S. Tsitsipas served \u2014 1 - 1",
-        "Set 2 Game 3: B. Shelton served \u2014 2 - 1",
-        "Set 2 Game 4: S. Tsitsipas served \u2014 2 - 2",
-        "Set 2 Game 5: B. Shelton served \u2014 3 - 2",
-        "Set 2 Game 6: S. Tsitsipas served \u2014 4 - 2",
-        "Set 2 Game 7: B. Shelton served \u2014 5 - 2",
-        "Set 2 Game 8: S. Tsitsipas served \u2014 5 - 3",
-        "Set 2 Game 9: B. Shelton served \u2014 5 - 2",
-        "Set 3 Game 1: S. Tsitsipas served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-1",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "D. Shapovalov",
-            "score": "3 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "H. Hurkacz",
-            "score": "3 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "T. Griekspoor",
-            "score": "3 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "J. Faria",
             "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "B. Nakashima",
-            "score": "2 - 0"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "J. Lehecka",
-            "score": "1 - 3"
-          },
-          {
-            "result": "W",
-            "opponent": "L. Harris",
-            "score": "1 - 3"
-          },
-          {
-            "result": "W",
-            "opponent": "A. Fils",
-            "score": "3 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Kovacevic",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "J. Brooksby",
-            "score": "0 - 2"
-          }
-        ]
-      }
-    },
-    "12160732": {
-      "player": "Y. Qu",
-      "opponent": "A. Malygina",
-      "score": "6.4-7.7, 6-2, 5-6",
-      "status": "Set 3",
-      "stats": null,
-      "timeline": [
-        "Set 2 Game 6: Y. Qu served \u2014 5 - 1",
-        "Set 2 Game 7: A. Malygina served \u2014 5 - 2",
-        "Set 2 Game 8: Y. Qu served \u2014 6 - 2",
-        "Set 3 Game 1: A. Malygina served \u2014 0 - 1",
-        "Set 3 Game 2: Y. Qu served \u2014 0 - 2",
-        "Set 3 Game 3: A. Malygina served \u2014 1 - 2",
-        "Set 3 Game 4: Y. Qu served \u2014 1 - 3",
-        "Set 3 Game 5: A. Malygina served \u2014 2 - 3",
-        "Set 3 Game 6: Y. Qu served \u2014 3 - 3",
-        "Set 3 Game 7: A. Malygina served \u2014 3 - 4",
-        "Set 3 Game 8: Y. Qu served \u2014 4 - 4",
-        "Set 3 Game 9: A. Malygina served \u2014 5 - 4",
-        "Set 3 Game 10: Y. Qu served \u2014 5 - 5",
-        "Set 3 Game 11: A. Malygina served \u2014 5 - 6",
-        "Set 3 Game 12: Y. Qu served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "M. Ozeki",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Pushkareva",
-            "score": "1 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "M. Thamm",
+            "opponent": "A. Kalinina",
             "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "T. Hermanova",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "A. Cvetkovic",
-            "score": "1 - 2"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "M. Angel",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "K. Drenser-Hagmann",
-            "score": "1 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "M. Argyrokastriti",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "M. Maquet",
-            "score": "1 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "I. Pascual Montalvo",
-            "score": "2 - 0"
           }
         ]
       }
