@@ -1,14 +1,38 @@
 {
-  "updated": "2026-09-07T01:24:06.071623+00:00",
+  "updated": "2026-09-07T02:25:05.807451+00:00",
   "matches": {
     "12160544": {
       "player": "A. Kalinskaya",
       "opponent": "E. Navarro",
-      "score": "0-0",
-      "status": "Set 1",
-      "stats": null,
+      "score": "4-6, 0-1",
+      "status": "Set 2",
+      "stats": {
+        "aces": [
+          "0",
+          "0"
+        ],
+        "double_faults": [
+          "1",
+          "0"
+        ],
+        "win_1st_serve": [
+          "0%",
+          "56%"
+        ]
+      },
       "timeline": [
-        "Set 1 Game 1: None served \u2014 None"
+        "Set 1 Game 1: E. Navarro served \u2014 0 - 1",
+        "Set 1 Game 2: A. Kalinskaya served \u2014 1 - 1",
+        "Set 1 Game 3: E. Navarro served \u2014 1 - 2",
+        "Set 1 Game 4: A. Kalinskaya served \u2014 2 - 2",
+        "Set 1 Game 5: E. Navarro served \u2014 2 - 3",
+        "Set 1 Game 6: A. Kalinskaya served \u2014 3 - 3",
+        "Set 1 Game 7: E. Navarro served \u2014 3 - 4",
+        "Set 1 Game 8: A. Kalinskaya served \u2014 4 - 4",
+        "Set 1 Game 9: E. Navarro served \u2014 4 - 5",
+        "Set 1 Game 10: A. Kalinskaya served \u2014 4 - 6",
+        "Set 2 Game 1: E. Navarro served \u2014 0 - 1",
+        "Set 2 Game 2: A. Kalinskaya served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "2-0",
