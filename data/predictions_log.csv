@@ -3810,7 +3810,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-07T18:30:09.616958+00:00,12160698,O. Majdandzic,R. Lawlor,Boys Singles,0.5556,,,,1,O. Majdandzic,2026-09-07T19:12:48.282625+00:00
 2026-09-07T18:30:10.710897+00:00,12160692,G. Goode,T. Chavez,Boys Singles,0.4444,,,,1,T. Chavez,2026-09-07T19:12:48.645218+00:00
 2026-09-07T19:12:50.975743+00:00,12161002,M. Antonius,S. Massellani,Boys Singles,0.9434,,,,0,S. Massellani,2026-09-07T20:14:04.557443+00:00
-2026-09-07T19:12:51.967056+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,,,
+2026-09-07T19:12:51.967056+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,1,V. Lepchenko,2026-09-08T00:22:45.258776+00:00
 2026-09-07T19:12:52.700777+00:00,12161058,A. Tikhonova,D. Semenistaja,Challenger Women Singles,0.2831,3.97,0.2519,0.0312,0,A. Tikhonova,2026-09-07T23:13:38.830079+00:00
 2026-09-07T19:12:53.426619+00:00,12161057,K. Day,S. Lamens,Challenger Women Singles,0.5739,,,,1,K. Day,2026-09-07T22:25:04.303900+00:00
 2026-09-07T19:12:54.148270+00:00,12161042,Drenser-Hagmann/ Hoo,Britton/ Kovacevic,Girls Doubles,,,,,,,
@@ -3833,7 +3833,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-07T19:13:06.576252+00:00,12160716,T. Frodin,K. Zajickova,Girls Singles,,,,,,,
 2026-09-07T19:13:07.304765+00:00,12160604,Choinski/ Donski,Harrison/ Skupski,Atp Doubles,,,,,,,
 2026-09-07T19:18:48.000106+00:00,12161002,M. Antonius,S. Massellani,Boys Singles,0.9434,,,,0,S. Massellani,2026-09-07T20:14:09.777505+00:00
-2026-09-07T19:18:48.786352+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,,,
+2026-09-07T19:18:48.786352+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,1,V. Lepchenko,2026-09-08T00:22:45.805582+00:00
 2026-09-07T19:18:49.504776+00:00,12161058,A. Tikhonova,D. Semenistaja,Challenger Women Singles,0.2831,3.97,0.2519,0.0312,0,A. Tikhonova,2026-09-07T23:13:39.544903+00:00
 2026-09-07T19:18:50.229333+00:00,12161057,K. Day,S. Lamens,Challenger Women Singles,0.5739,,,,1,K. Day,2026-09-07T22:25:05.399125+00:00
 2026-09-07T19:18:50.965784+00:00,12161042,Drenser-Hagmann/ Hoo,Britton/ Kovacevic,Girls Doubles,,,,,,,
@@ -3857,7 +3857,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-07T19:19:04.014972+00:00,12160741,Bondar/ Kalinina,Routliffe/ Sutjiadi,Wta Doubles,,,,,,,
 2026-09-07T19:19:04.741534+00:00,12160604,Choinski/ Donski,Harrison/ Skupski,Atp Doubles,,,,,,,
 2026-09-07T19:24:49.907773+00:00,12160988,Neel/ Olmos,Bucsa/ Melichar-Martinez,Wta Doubles,,,,,,,
-2026-09-07T19:24:50.629878+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,,,
+2026-09-07T19:24:50.629878+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,1,V. Lepchenko,2026-09-08T00:22:46.396329+00:00
 2026-09-07T19:24:51.369037+00:00,12161058,A. Tikhonova,D. Semenistaja,Challenger Women Singles,0.2831,3.97,0.2519,0.0312,0,A. Tikhonova,2026-09-07T23:13:40.265672+00:00
 2026-09-07T19:24:52.100245+00:00,12161057,K. Day,S. Lamens,Challenger Women Singles,0.5739,,,,1,K. Day,2026-09-07T22:25:06.503929+00:00
 2026-09-07T19:24:52.816112+00:00,12161042,Drenser-Hagmann/ Hoo,Britton/ Kovacevic,Girls Doubles,,,,,,,
@@ -3980,7 +3980,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-07T21:25:40.392170+00:00,12161056,Jiang/ Zhang,Kato/ Wu,Wta Doubles,,,,,,,
 2026-09-07T22:13:38.878521+00:00,12161035,Ogunsakin/ Raguin,Alexandrescou/ Tabata,Boys Doubles,,,,,,,
 2026-09-07T22:13:39.614307+00:00,12161040,Combs/ De Los Reyes,Rajeshwaran Revathi/ Sushkova,Girls Doubles,,,,,,,
-2026-09-07T22:13:40.351587+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,,,
+2026-09-07T22:13:40.351587+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,1,V. Lepchenko,2026-09-08T00:22:49.757734+00:00
 2026-09-07T22:13:41.076698+00:00,12160591,Seggerman/ Trhac,Krajicek/ Mektic,Atp Doubles,,,,,,,
 2026-09-07T22:13:41.806375+00:00,12161058,A. Tikhonova,D. Semenistaja,Challenger Women Singles,0.2831,3.97,0.2519,0.0312,0,A. Tikhonova,2026-09-07T23:13:43.851442+00:00
 2026-09-07T22:13:42.539287+00:00,12161057,K. Day,S. Lamens,Challenger Women Singles,0.5739,,,,1,K. Day,2026-09-07T22:25:10.569776+00:00
@@ -3997,7 +3997,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-07T22:13:50.569412+00:00,12160802,Doumbia/ Reboul,Schnaitter/ Wallner,Atp Doubles,,,,,,,
 2026-09-07T22:19:26.404925+00:00,12161035,Ogunsakin/ Raguin,Alexandrescou/ Tabata,Boys Doubles,,,,,,,
 2026-09-07T22:19:27.133307+00:00,12161040,Combs/ De Los Reyes,Rajeshwaran Revathi/ Sushkova,Girls Doubles,,,,,,,
-2026-09-07T22:19:27.876228+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,,,
+2026-09-07T22:19:27.876228+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,1,V. Lepchenko,2026-09-08T00:22:51.346602+00:00
 2026-09-07T22:19:28.604259+00:00,12160591,Seggerman/ Trhac,Krajicek/ Mektic,Atp Doubles,,,,,,,
 2026-09-07T22:19:29.347053+00:00,12161058,A. Tikhonova,D. Semenistaja,Challenger Women Singles,0.2831,3.97,0.2519,0.0312,0,A. Tikhonova,2026-09-07T23:13:45.581395+00:00
 2026-09-07T22:19:30.082365+00:00,12161057,K. Day,S. Lamens,Challenger Women Singles,0.5739,,,,1,K. Day,2026-09-07T22:25:12.761792+00:00
@@ -4015,7 +4015,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-07T22:25:16.214454+00:00,12161028,Domenc/ Jade,Kusy/ Thompson,Boys Doubles,,,,,,,
 2026-09-07T22:25:16.959405+00:00,12161035,Ogunsakin/ Raguin,Alexandrescou/ Tabata,Boys Doubles,,,,,,,
 2026-09-07T22:25:17.702972+00:00,12161040,Combs/ De Los Reyes,Rajeshwaran Revathi/ Sushkova,Girls Doubles,,,,,,,
-2026-09-07T22:25:18.432786+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,,,
+2026-09-07T22:25:18.432786+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,1,V. Lepchenko,2026-09-08T00:22:52.949186+00:00
 2026-09-07T22:25:19.172418+00:00,12160591,Seggerman/ Trhac,Krajicek/ Mektic,Atp Doubles,,,,,,,
 2026-09-07T22:25:19.924243+00:00,12161058,A. Tikhonova,D. Semenistaja,Challenger Women Singles,0.2831,3.97,0.2519,0.0312,0,A. Tikhonova,2026-09-07T23:13:47.340004+00:00
 2026-09-07T22:25:20.669446+00:00,12161057,K. Day,S. Lamens,Challenger Women Singles,0.5739,,,,1,K. Day,2026-09-07T23:13:47.699872+00:00
@@ -4041,7 +4041,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-07T23:13:57.392290+00:00,12160860,K. Khachanov,L. Tien,Atp Singles,0.2905,2.7,0.3704,-0.0799,,,
 2026-09-07T23:13:58.076111+00:00,12161017,S. A. Larraya Guidi,I. Pistola,Girls Singles,0.3913,,,,0,S. A. Larraya Guidi,2026-09-07T23:19:27.863902+00:00
 2026-09-07T23:13:58.755524+00:00,12161053,Berezina/ Terentyeva,DeLuccia/ Meabe,Girls Doubles,,,,,,,
-2026-09-07T23:13:59.454088+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,,,
+2026-09-07T23:13:59.454088+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,1,V. Lepchenko,2026-09-08T00:22:56.777769+00:00
 2026-09-07T23:19:30.480589+00:00,12160858,I. Jovic,C. Gauff,Wta Singles,0.2849,3.52,0.2841,0.0008,,,
 2026-09-07T23:19:31.160768+00:00,12161028,Domenc/ Jade,Kusy/ Thompson,Boys Doubles,,,,,,,
 2026-09-07T23:19:31.858609+00:00,12161051,Fagan/ Sohns,Alexander/ Beviz,Girls Doubles,,,,,,,
@@ -4051,7 +4051,7 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-07T23:19:34.812306+00:00,12160856,A. Gea,B. Van De Zandschulp,Atp Singles,0.4496,2.42,0.4132,0.0364,,,
 2026-09-07T23:19:35.526469+00:00,12160860,K. Khachanov,L. Tien,Atp Singles,0.2905,2.7,0.3704,-0.0799,,,
 2026-09-07T23:19:36.224334+00:00,12161053,Berezina/ Terentyeva,DeLuccia/ Meabe,Girls Doubles,,,,,,,
-2026-09-07T23:19:36.937594+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,,,
+2026-09-07T23:19:36.937594+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,1,V. Lepchenko,2026-09-08T00:22:59.477715+00:00
 2026-09-07T23:25:09.315551+00:00,12160858,I. Jovic,C. Gauff,Wta Singles,0.2849,3.52,0.2841,0.0008,,,
 2026-09-07T23:25:09.998495+00:00,12161028,Domenc/ Jade,Kusy/ Thompson,Boys Doubles,,,,,,,
 2026-09-07T23:25:10.698932+00:00,12161051,Fagan/ Sohns,Alexander/ Beviz,Girls Doubles,,,,,,,
@@ -4061,4 +4061,22 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-07T23:25:13.547967+00:00,12160856,A. Gea,B. Van De Zandschulp,Atp Singles,0.4496,2.42,0.4132,0.0364,,,
 2026-09-07T23:25:14.227861+00:00,12160860,K. Khachanov,L. Tien,Atp Singles,0.2905,2.7,0.3704,-0.0799,,,
 2026-09-07T23:25:14.929503+00:00,12161053,Berezina/ Terentyeva,DeLuccia/ Meabe,Girls Doubles,,,,,,,
-2026-09-07T23:25:15.639255+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,,,
+2026-09-07T23:25:15.639255+00:00,12161060,K. Scott,V. Lepchenko,Challenger Women Singles,0.418,1.97,0.5076,-0.0896,1,V. Lepchenko,2026-09-08T00:23:02.270925+00:00
+2026-09-08T00:23:05.616394+00:00,12160858,I. Jovic,C. Gauff,Wta Singles,0.2849,3.52,0.2841,0.0008,,,
+2026-09-08T00:23:06.687333+00:00,12161059,V. Valdmannova,C. Y. Lee,Challenger Women Singles,0.4671,,,,,,
+2026-09-08T00:23:07.786169+00:00,12161061,N. Hibino,M. C. Torres Murcia,Challenger Women Singles,0.9173,1.05,0.9524,-0.035,,,
+2026-09-08T00:23:09.154995+00:00,12160802,Doumbia/ Reboul,Schnaitter/ Wallner,Atp Doubles,,,,,,,
+2026-09-08T00:23:10.222377+00:00,12160856,A. Gea,B. Van De Zandschulp,Atp Singles,0.4496,2.42,0.4132,0.0364,,,
+2026-09-08T00:23:11.294864+00:00,12160860,K. Khachanov,L. Tien,Atp Singles,0.2905,2.7,0.3704,-0.0799,,,
+2026-09-08T00:29:01.647211+00:00,12160858,I. Jovic,C. Gauff,Wta Singles,0.2849,3.52,0.2841,0.0008,,,
+2026-09-08T00:29:02.710737+00:00,12161059,V. Valdmannova,C. Y. Lee,Challenger Women Singles,0.4671,,,,,,
+2026-09-08T00:29:03.841381+00:00,12161061,N. Hibino,M. C. Torres Murcia,Challenger Women Singles,0.9173,1.05,0.9524,-0.035,,,
+2026-09-08T00:29:05.124228+00:00,12160802,Doumbia/ Reboul,Schnaitter/ Wallner,Atp Doubles,,,,,,,
+2026-09-08T00:29:06.204597+00:00,12160856,A. Gea,B. Van De Zandschulp,Atp Singles,0.4496,2.42,0.4132,0.0364,,,
+2026-09-08T00:29:07.270493+00:00,12160860,K. Khachanov,L. Tien,Atp Singles,0.2905,2.7,0.3704,-0.0799,,,
+2026-09-08T00:34:59.821052+00:00,12160858,I. Jovic,C. Gauff,Wta Singles,0.2849,3.52,0.2841,0.0008,,,
+2026-09-08T00:35:00.956442+00:00,12161059,V. Valdmannova,C. Y. Lee,Challenger Women Singles,0.4671,,,,,,
+2026-09-08T00:35:02.034545+00:00,12161061,N. Hibino,M. C. Torres Murcia,Challenger Women Singles,0.9173,1.05,0.9524,-0.035,,,
+2026-09-08T00:35:03.316633+00:00,12160802,Doumbia/ Reboul,Schnaitter/ Wallner,Atp Doubles,,,,,,,
+2026-09-08T00:35:04.391763+00:00,12160856,A. Gea,B. Van De Zandschulp,Atp Singles,0.4496,2.42,0.4132,0.0364,,,
+2026-09-08T00:35:05.458490+00:00,12160860,K. Khachanov,L. Tien,Atp Singles,0.2905,2.7,0.3704,-0.0799,,,
