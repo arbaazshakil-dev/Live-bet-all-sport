@@ -1,88 +1,41 @@
 {
-  "updated": "2026-09-10T23:23:59.774126+00:00",
+  "updated": "2026-09-11T00:32:34.107647+00:00",
   "matches": {
-    "12161831": {
-      "player": "Salkova/ Semenistaja",
-      "opponent": "Cavalle-Reimers/ Salden",
-      "score": "1-3",
-      "status": "Set 1",
-      "stats": {
-        "aces": [
-          "0",
-          "0"
-        ],
-        "double_faults": [
-          "0",
-          "0"
-        ],
-        "win_1st_serve": [
-          "25%",
-          "33%"
-        ]
-      },
-      "timeline": [
-        "Set 1 Game 1: Cavalle-Reimers/ Salden served \u2014 0 - 1",
-        "Set 1 Game 2: Salkova/ Semenistaja served \u2014 0 - 2",
-        "Set 1 Game 3: Cavalle-Reimers/ Salden served \u2014 1 - 2",
-        "Set 1 Game 4: Salkova/ Semenistaja served \u2014 1 - 3",
-        "Set 1 Game 5: Cavalle-Reimers/ Salden served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [],
-        "p2_form": [
-          {
-            "result": "L",
-            "opponent": "Ciric Bagaric/ Moratelli",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "Bara/ Karamoko",
-            "score": "1 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Laboutkova/ Monnet",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Ayukawa/ Barry",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "Jakupovic/ Radisic",
-            "score": "2 - 0"
-          }
-        ]
-      }
-    },
     "12161926": {
       "player": "A. Sabalenka",
       "opponent": "J. Pegula",
-      "score": "1-1",
-      "status": "Set 1",
+      "score": "7-5, 5-2",
+      "status": "Set 2",
       "stats": {
         "aces": [
-          "1",
-          "0"
+          "3",
+          "2"
         ],
         "double_faults": [
-          "0",
+          "1",
           "0"
         ],
         "win_1st_serve": [
           "86%",
-          "100%"
+          "73%"
         ]
       },
       "timeline": [
-        "Set 1 Game 1: A. Sabalenka served \u2014 1 - 0",
-        "Set 1 Game 2: J. Pegula served \u2014 1 - 1",
-        "Set 1 Game 3: A. Sabalenka served \u2014 2 - 1",
-        "Set 1 Game 4: J. Pegula served \u2014 None"
+        "Set 1 Game 6: J. Pegula served \u2014 3 - 3",
+        "Set 1 Game 7: A. Sabalenka served \u2014 4 - 3",
+        "Set 1 Game 8: J. Pegula served \u2014 4 - 4",
+        "Set 1 Game 9: A. Sabalenka served \u2014 5 - 4",
+        "Set 1 Game 10: J. Pegula served \u2014 5 - 5",
+        "Set 1 Game 11: A. Sabalenka served \u2014 6 - 5",
+        "Set 1 Game 12: J. Pegula served \u2014 7 - 5",
+        "Set 2 Game 1: A. Sabalenka served \u2014 1 - 0",
+        "Set 2 Game 2: J. Pegula served \u2014 1 - 1",
+        "Set 2 Game 3: A. Sabalenka served \u2014 2 - 1",
+        "Set 2 Game 4: J. Pegula served \u2014 3 - 1",
+        "Set 2 Game 5: A. Sabalenka served \u2014 4 - 1",
+        "Set 2 Game 6: J. Pegula served \u2014 4 - 2",
+        "Set 2 Game 7: A. Sabalenka served \u2014 5 - 2",
+        "Set 2 Game 8: J. Pegula served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "7-3",
@@ -142,256 +95,85 @@
         ]
       }
     },
-    "12162243": {
-      "player": "C. Y. Lee",
-      "opponent": "L. Jeanjean",
-      "score": "1-6, 3-5",
-      "status": "Set 2",
+    "12162245": {
+      "player": "J. Riera",
+      "opponent": "A. Blinkova",
+      "score": "1-2",
+      "status": "Set 1",
       "stats": {
         "aces": [
-          "1",
-          "0"
+          "0",
+          "1"
         ],
         "double_faults": [
-          "1",
+          "0",
           "0"
         ],
         "win_1st_serve": [
-          "58%",
-          "79%"
+          "50%",
+          "57%"
         ]
       },
       "timeline": [
-        "Set 1 Game 2: C. Y. Lee served \u2014 1 - 1",
-        "Set 1 Game 3: L. Jeanjean served \u2014 1 - 2",
-        "Set 1 Game 4: C. Y. Lee served \u2014 1 - 3",
-        "Set 1 Game 5: L. Jeanjean served \u2014 1 - 4",
-        "Set 1 Game 6: C. Y. Lee served \u2014 1 - 5",
-        "Set 1 Game 7: L. Jeanjean served \u2014 1 - 6",
-        "Set 2 Game 1: C. Y. Lee served \u2014 0 - 1",
-        "Set 2 Game 2: L. Jeanjean served \u2014 0 - 2",
-        "Set 2 Game 3: C. Y. Lee served \u2014 0 - 3",
-        "Set 2 Game 4: L. Jeanjean served \u2014 0 - 4",
-        "Set 2 Game 5: C. Y. Lee served \u2014 1 - 4",
-        "Set 2 Game 6: L. Jeanjean served \u2014 2 - 4",
-        "Set 2 Game 7: C. Y. Lee served \u2014 3 - 4",
-        "Set 2 Game 8: L. Jeanjean served \u2014 3 - 5",
-        "Set 2 Game 9: C. Y. Lee served \u2014 3 - 4"
+        "Set 1 Game 1: A. Blinkova served \u2014 1 - 0",
+        "Set 1 Game 2: J. Riera served \u2014 1 - 1",
+        "Set 1 Game 3: A. Blinkova served \u2014 1 - 2",
+        "Set 1 Game 4: J. Riera served \u2014 None"
       ],
       "h2h": {
-        "h2h_record": "0-0",
+        "h2h_record": "1-0",
         "p1_form": [
           {
             "result": "W",
-            "opponent": "E. Arango",
-            "score": "0 - 2"
+            "opponent": "M. Stoiana",
+            "score": "2 - 1"
           },
           {
             "result": "W",
-            "opponent": "V. Valdmannova",
+            "opponent": "D. Salkova",
             "score": "0 - 2"
           },
           {
             "result": "L",
-            "opponent": "K. Boulter",
-            "score": "1 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "P. Kudermetova",
-            "score": "1 - 2"
+            "opponent": "V. Hruncakova",
+            "score": "2 - 0"
           },
           {
             "result": "W",
-            "opponent": "G. Knutson",
+            "opponent": "L. Perez Alarcon",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "L. Pigossi",
             "score": "2 - 0"
           }
         ],
         "p2_form": [
           {
             "result": "W",
-            "opponent": "J. Pareja",
-            "score": "2 - 1"
+            "opponent": "N. Podoroska",
+            "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "C. Alves",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Potapova",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "A. Rus",
+            "opponent": "A. V. Mediorreal",
             "score": "0 - 2"
           },
           {
             "result": "L",
-            "opponent": "K. Rakhimova",
+            "opponent": "A. Kalinskaya",
+            "score": "0 - 2"
+          },
+          {
+            "result": "L",
+            "opponent": "A. Zakharova",
+            "score": "2 - 0"
+          },
+          {
+            "result": "L",
+            "opponent": "E. Alexandrova",
             "score": "1 - 2"
-          }
-        ]
-      }
-    },
-    "12161886": {
-      "player": "R. Augusto dos Santos",
-      "opponent": "M. Napoli da Silveira",
-      "score": "6-4, 6-6",
-      "status": "Set 2",
-      "stats": null,
-      "timeline": [
-        "Set 2 Game 4: R. Augusto dos Santos served \u2014 2 - 2",
-        "Set 2 Game 5: M. Napoli da Silveira served \u2014 2 - 3",
-        "Set 2 Game 6: R. Augusto dos Santos served \u2014 3 - 3",
-        "Set 2 Game 7: M. Napoli da Silveira served \u2014 3 - 4",
-        "Set 2 Game 8: R. Augusto dos Santos served \u2014 4 - 4",
-        "Set 2 Game 9: M. Napoli da Silveira served \u2014 4 - 5",
-        "Set 2 Game 10: R. Augusto dos Santos served \u2014 5 - 5",
-        "Set 2 Game 11: M. Napoli da Silveira served \u2014 5 - 6",
-        "Set 2 Game 12: R. Augusto dos Santos served \u2014 6 - 6",
-        "Set 2 TieBreak Game 1: M. Napoli da Silveira served \u2014 1 - 0",
-        "Set 2 TieBreak Game 2: R. Augusto dos Santos served \u2014 2 - 0",
-        "Set 2 TieBreak Game 3: R. Augusto dos Santos served \u2014 3 - 0",
-        "Set 2 TieBreak Game 4: M. Napoli da Silveira served \u2014 4 - 0",
-        "Set 2 TieBreak Game 5: M. Napoli da Silveira served \u2014 4 - 1",
-        "Set 2 TieBreak Game 6: R. Augusto dos Santos served \u2014 4 - 2"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [
-          {
-            "result": "L",
-            "opponent": "N. Zanellato",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "S. Price",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "V. C. Loureiro J.",
-            "score": "1 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "C. M. Zarate",
-            "score": "1 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "M. Alves",
-            "score": "2 - 1"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "L",
-            "opponent": "T. Tischner",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "T. Martinez",
-            "score": "0 - 2"
-          }
-        ]
-      }
-    },
-    "12162246": {
-      "player": "Heliovaara/ Patten",
-      "opponent": "Harrison/ Skupski",
-      "score": "6.4-7.7, 2-6",
-      "status": "Finished",
-      "stats": {
-        "aces": [
-          "2",
-          "0"
-        ],
-        "double_faults": [
-          "3",
-          "2"
-        ],
-        "win_1st_serve": [
-          "53%",
-          "91%"
-        ]
-      },
-      "timeline": [
-        "Set 1 TieBreak Game 6: Harrison/ Skupski served \u2014 2 - 4",
-        "Set 1 TieBreak Game 7: Harrison/ Skupski served \u2014 2 - 5",
-        "Set 1 TieBreak Game 8: Heliovaara/ Patten served \u2014 3 - 5",
-        "Set 1 TieBreak Game 9: Heliovaara/ Patten served \u2014 3 - 6",
-        "Set 1 TieBreak Game 10: Harrison/ Skupski served \u2014 4 - 6",
-        "Set 1 TieBreak Game 11: Harrison/ Skupski served \u2014 4 - 7",
-        "Set 2 Game 1: Harrison/ Skupski served \u2014 0 - 1",
-        "Set 2 Game 2: Heliovaara/ Patten served \u2014 1 - 1",
-        "Set 2 Game 3: Harrison/ Skupski served \u2014 1 - 2",
-        "Set 1 Game 13: Harrison/ Skupski served \u2014 6 - 7",
-        "Set 2 Game 4: Heliovaara/ Patten served \u2014 1 - 3",
-        "Set 2 Game 5: Harrison/ Skupski served \u2014 1 - 4",
-        "Set 2 Game 6: Heliovaara/ Patten served \u2014 2 - 4",
-        "Set 2 Game 7: Harrison/ Skupski served \u2014 2 - 5",
-        "Set 2 Game 8: Heliovaara/ Patten served \u2014 2 - 6"
-      ],
-      "h2h": {
-        "h2h_record": "1-1",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "Andreozzi/ Guinard",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "Harrison/ Skupski",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Cabral/ Tracy",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "J- Arnaldi/ Struff",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "Cerundolo/ Cerundolo",
-            "score": "2 - 0"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "Bolelli/ Vavassori",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Heliovaara/ Patten",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Schnaitter/ Wallner",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Choinski/ Donski",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Reymond/ Sanchez",
-            "score": "0 - 2"
           }
         ]
       }
