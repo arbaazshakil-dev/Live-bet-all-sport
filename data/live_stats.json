@@ -1,330 +1,152 @@
 {
-  "updated": "2026-09-11T22:27:47.564445+00:00",
+  "updated": "2026-09-11T23:26:37.393982+00:00",
   "matches": {
-    "12162244": {
-      "player": "A. Zverev",
-      "opponent": "K. Khachanov",
-      "score": "6-3, 7.9-6.7, 7.8-6.6",
-      "status": "Finished",
-      "stats": {
-        "aces": [
-          "5",
-          "3"
-        ],
-        "double_faults": [
-          "2",
-          "0"
-        ],
-        "win_1st_serve": [
-          "83%",
-          "83%"
-        ]
-      },
-      "timeline": [
-        "Set 3 TieBreak Game 1: A. Zverev served \u2014 0 - 1",
-        "Set 3 TieBreak Game 2: K. Khachanov served \u2014 0 - 2",
-        "Set 3 TieBreak Game 3: K. Khachanov served \u2014 0 - 3",
-        "Set 3 TieBreak Game 4: A. Zverev served \u2014 1 - 3",
-        "Set 3 TieBreak Game 7: K. Khachanov served \u2014 2 - 5",
-        "Set 3 TieBreak Game 5: A. Zverev served \u2014 1 - 4",
-        "Set 3 TieBreak Game 6: K. Khachanov served \u2014 2 - 4",
-        "Set 3 TieBreak Game 8: A. Zverev served \u2014 3 - 5",
-        "Set 3 TieBreak Game 9: A. Zverev served \u2014 4 - 5",
-        "Set 3 TieBreak Game 10: K. Khachanov served \u2014 4 - 6",
-        "Set 3 TieBreak Game 11: K. Khachanov served \u2014 5 - 6",
-        "Set 3 TieBreak Game 12: A. Zverev served \u2014 6 - 6",
-        "Set 3 TieBreak Game 13: A. Zverev served \u2014 7 - 6",
-        "Set 3 TieBreak Game 14: K. Khachanov served \u2014 8 - 6",
-        "Set 3 Game 13: K. Khachanov served \u2014 7 - 6"
-      ],
-      "h2h": {
-        "h2h_record": "4-2",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "K. Khachanov",
-            "score": "3 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "B. Van De Zandschulp",
-            "score": "3 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "L. Darderi",
-            "score": "3 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "A. Tabilo",
-            "score": "3 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "Q. Halys",
-            "score": "3 - 2"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "L",
-            "opponent": "A. Zverev",
-            "score": "3 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "L. Tien",
-            "score": "3 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "B. Bonzi",
-            "score": "3 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "F. Auger-Aliassime",
-            "score": "1 - 3"
-          },
-          {
-            "result": "W",
-            "opponent": "R. A. Burruchaga",
-            "score": "0 - 3"
-          }
-        ]
-      }
-    },
-    "12162418": {
-      "player": "E. Lage",
-      "opponent": "R. Valente",
-      "score": "7-6, 0-1",
-      "status": "Set 2",
-      "stats": null,
-      "timeline": [
-        "Set 1 Game 1: E. Lage served \u2014 1 - 0",
-        "Set 1 Game 2: R. Valente served \u2014 1 - 1",
-        "Set 1 Game 3: E. Lage served \u2014 2 - 1",
-        "Set 1 Game 4: R. Valente served \u2014 2 - 2",
-        "Set 1 Game 5: E. Lage served \u2014 3 - 2",
-        "Set 1 Game 6: R. Valente served \u2014 4 - 2",
-        "Set 1 Game 7: E. Lage served \u2014 5 - 2",
-        "Set 1 Game 8: R. Valente served \u2014 5 - 3",
-        "Set 1 Game 9: E. Lage served \u2014 5 - 4",
-        "Set 1 Game 10: R. Valente served \u2014 5 - 5",
-        "Set 1 Game 11: E. Lage served \u2014 6 - 5",
-        "Set 1 Game 12: R. Valente served \u2014 6 - 6",
-        "Set 1 TieBreak Game 16: None served \u2014 9 - 7",
-        "Set 2 Game 1: R. Valente served \u2014 0 - 1",
-        "Set 2 Game 2: E. Lage served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "V. Bini",
-            "score": "1 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "G. Sekachov",
-            "score": "2 - 0"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "N. Bruna",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "N. Villalon",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "T. J. Leston",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "G. M. Noce",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "Y. Dlimi",
-            "score": "0 - 2"
-          }
-        ]
-      }
-    },
-    "12162430": {
-      "player": "L. Jeanjean",
-      "opponent": "C. Liu",
-      "score": "2-6, 4-2",
-      "status": "Set 2",
-      "stats": {
-        "aces": [
-          "2",
-          "3"
-        ],
-        "double_faults": [
-          "0",
-          "3"
-        ],
-        "win_1st_serve": [
-          "89%",
-          "76%"
-        ]
-      },
-      "timeline": [
-        "Set 1 Game 1: L. Jeanjean served \u2014 1 - 0",
-        "Set 1 Game 2: C. Liu served \u2014 1 - 1",
-        "Set 1 Game 3: L. Jeanjean served \u2014 2 - 1",
-        "Set 1 Game 4: C. Liu served \u2014 2 - 2",
-        "Set 1 Game 5: L. Jeanjean served \u2014 2 - 3",
-        "Set 1 Game 6: C. Liu served \u2014 2 - 4",
-        "Set 1 Game 7: L. Jeanjean served \u2014 2 - 5",
-        "Set 1 Game 8: C. Liu served \u2014 2 - 6",
-        "Set 2 Game 1: L. Jeanjean served \u2014 1 - 0",
-        "Set 2 Game 2: C. Liu served \u2014 1 - 1",
-        "Set 2 Game 3: L. Jeanjean served \u2014 2 - 1",
-        "Set 2 Game 4: C. Liu served \u2014 2 - 2",
-        "Set 2 Game 5: L. Jeanjean served \u2014 3 - 2",
-        "Set 2 Game 6: C. Liu served \u2014 4 - 2",
-        "Set 2 Game 7: L. Jeanjean served \u2014 3 - 2"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "C. Y. Lee",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "J. Pareja",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "C. Alves",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Potapova",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "A. Rus",
-            "score": "0 - 2"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "K. Quevedo",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "V. Lepchenko",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "X. You",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "H. Watson",
-            "score": "1 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "S. Kraus",
-            "score": "2 - 0"
-          }
-        ]
-      }
-    },
-    "12162541": {
-      "player": "N. Zanellato",
-      "opponent": "P. Sakamoto",
-      "score": "3-5",
+    "12161947": {
+      "player": "F. Tiafoe",
+      "opponent": "B. Shelton",
+      "score": "0-0",
       "status": "Set 1",
       "stats": null,
       "timeline": [
-        "Set 1 Game 1: N. Zanellato served \u2014 0 - 1",
-        "Set 1 Game 2: P. Sakamoto served \u2014 1 - 1",
-        "Set 1 Game 3: N. Zanellato served \u2014 1 - 2",
-        "Set 1 Game 4: P. Sakamoto served \u2014 1 - 3",
-        "Set 1 Game 5: N. Zanellato served \u2014 2 - 3",
-        "Set 1 Game 6: P. Sakamoto served \u2014 2 - 4",
-        "Set 1 Game 7: N. Zanellato served \u2014 3 - 4",
-        "Set 1 Game 8: P. Sakamoto served \u2014 3 - 5",
-        "Set 1 Game 9: N. Zanellato served \u2014 None"
+        "Set 1 Game 1: None served \u2014 None"
+      ],
+      "h2h": {
+        "h2h_record": "1-3",
+        "p1_form": [
+          {
+            "result": "W",
+            "opponent": "A. Michelsen",
+            "score": "3 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "D. Medvedev",
+            "score": "0 - 3"
+          },
+          {
+            "result": "W",
+            "opponent": "V. Vacherot",
+            "score": "0 - 3"
+          },
+          {
+            "result": "W",
+            "opponent": "R. Sakamoto",
+            "score": "0 - 3"
+          },
+          {
+            "result": "W",
+            "opponent": "M. Damm",
+            "score": "2 - 3"
+          }
+        ],
+        "p2_form": [
+          {
+            "result": "W",
+            "opponent": "C. Alcaraz",
+            "score": "3 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "S. Tsitsipas",
+            "score": "3 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "D. Shapovalov",
+            "score": "3 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "H. Hurkacz",
+            "score": "3 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "T. Griekspoor",
+            "score": "3 - 1"
+          }
+        ]
+      }
+    },
+    "12162460": {
+      "player": "E. Jacquemot",
+      "opponent": "A. Blinkova",
+      "score": "0-4",
+      "status": "Set 1",
+      "stats": {
+        "aces": [
+          "3",
+          "2"
+        ],
+        "double_faults": [
+          "0",
+          "0"
+        ],
+        "win_1st_serve": [
+          "55%",
+          "70%"
+        ]
+      },
+      "timeline": [
+        "Set 1 Game 1: A. Blinkova served \u2014 0 - 1",
+        "Set 1 Game 2: E. Jacquemot served \u2014 0 - 2",
+        "Set 1 Game 3: A. Blinkova served \u2014 0 - 3",
+        "Set 1 Game 4: E. Jacquemot served \u2014 0 - 4",
+        "Set 1 Game 5: A. Blinkova served \u2014 0 - 3"
       ],
       "h2h": {
         "h2h_record": "1-2",
         "p1_form": [
           {
             "result": "W",
-            "opponent": "E. Camargo Lima",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "P. Gava",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "B. Malla",
+            "opponent": "A. Tikhonova",
             "score": "2 - 1"
           },
           {
-            "result": "L",
-            "opponent": "J. Aguilar Cardozo",
+            "result": "W",
+            "opponent": "K. Day",
             "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "J. B. Otegui",
+            "opponent": "E. Lares",
+            "score": "0 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "E. Ovcharenko",
             "score": "2 - 1"
+          },
+          {
+            "result": "L",
+            "opponent": "M. Bouzkova",
+            "score": "0 - 2"
           }
         ],
         "p2_form": [
           {
             "result": "W",
-            "opponent": "P. Albuquerque Dietrich",
+            "opponent": "J. Riera",
             "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "B. Braga",
+            "opponent": "N. Podoroska",
+            "score": "0 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "A. V. Mediorreal",
             "score": "0 - 2"
           },
           {
             "result": "L",
-            "opponent": "A. Magadan",
-            "score": "1 - 2"
+            "opponent": "A. Kalinskaya",
+            "score": "0 - 2"
           },
           {
             "result": "L",
-            "opponent": "T. Genier",
-            "score": "1 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "A. Casanova",
+            "opponent": "A. Zakharova",
             "score": "2 - 0"
           }
         ]
