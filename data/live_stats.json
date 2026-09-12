@@ -1,37 +1,41 @@
 {
-  "updated": "2026-09-12T00:31:45.006087+00:00",
+  "updated": "2026-09-12T01:24:33.853342+00:00",
   "matches": {
     "12161947": {
       "player": "F. Tiafoe",
       "opponent": "B. Shelton",
-      "score": "6-4",
-      "status": "Set 2",
+      "score": "6-4, 3-6, 2-1",
+      "status": "Set 3",
       "stats": {
         "aces": [
           "0",
-          "0"
+          "1"
         ],
         "double_faults": [
           "0",
           "0"
         ],
         "win_1st_serve": [
-          "0%",
-          "0%"
+          "90%",
+          "86%"
         ]
       },
       "timeline": [
-        "Set 1 Game 1: B. Shelton served \u2014 0 - 1",
-        "Set 1 Game 2: F. Tiafoe served \u2014 1 - 1",
-        "Set 1 Game 3: B. Shelton served \u2014 1 - 2",
-        "Set 1 Game 4: F. Tiafoe served \u2014 2 - 2",
-        "Set 1 Game 5: B. Shelton served \u2014 2 - 3",
-        "Set 1 Game 6: F. Tiafoe served \u2014 3 - 3",
-        "Set 1 Game 7: B. Shelton served \u2014 3 - 4",
-        "Set 1 Game 8: F. Tiafoe served \u2014 4 - 4",
         "Set 1 Game 9: B. Shelton served \u2014 5 - 4",
         "Set 1 Game 10: F. Tiafoe served \u2014 6 - 4",
-        "Set 2 Game 1: B. Shelton served \u2014 None"
+        "Set 2 Game 1: B. Shelton served \u2014 0 - 1",
+        "Set 2 Game 2: F. Tiafoe served \u2014 0 - 2",
+        "Set 2 Game 3: B. Shelton served \u2014 1 - 2",
+        "Set 2 Game 4: F. Tiafoe served \u2014 2 - 2",
+        "Set 2 Game 5: B. Shelton served \u2014 2 - 3",
+        "Set 2 Game 6: F. Tiafoe served \u2014 3 - 3",
+        "Set 2 Game 7: B. Shelton served \u2014 3 - 4",
+        "Set 2 Game 8: F. Tiafoe served \u2014 3 - 5",
+        "Set 2 Game 9: B. Shelton served \u2014 3 - 6",
+        "Set 3 Game 1: F. Tiafoe served \u2014 1 - 0",
+        "Set 3 Game 2: B. Shelton served \u2014 1 - 1",
+        "Set 3 Game 3: F. Tiafoe served \u2014 2 - 1",
+        "Set 3 Game 4: B. Shelton served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "1-3",
@@ -91,171 +95,215 @@
         ]
       }
     },
-    "12162460": {
-      "player": "E. Jacquemot",
-      "opponent": "A. Blinkova",
-      "score": "1-6, 3-3",
-      "status": "Set 2",
-      "stats": {
-        "aces": [
-          "0",
-          "0"
-        ],
-        "double_faults": [
-          "2",
-          "1"
-        ],
-        "win_1st_serve": [
-          "80%",
-          "57%"
-        ]
-      },
-      "timeline": [
-        "Set 1 Game 1: A. Blinkova served \u2014 0 - 1",
-        "Set 1 Game 2: E. Jacquemot served \u2014 0 - 2",
-        "Set 1 Game 3: A. Blinkova served \u2014 0 - 3",
-        "Set 1 Game 4: E. Jacquemot served \u2014 0 - 4",
-        "Set 1 Game 5: A. Blinkova served \u2014 0 - 5",
-        "Set 1 Game 6: E. Jacquemot served \u2014 1 - 5",
-        "Set 1 Game 7: A. Blinkova served \u2014 1 - 6",
-        "Set 2 Game 1: E. Jacquemot served \u2014 1 - 0",
-        "Set 2 Game 2: A. Blinkova served \u2014 2 - 0",
-        "Set 2 Game 3: E. Jacquemot served \u2014 2 - 1",
-        "Set 2 Game 4: A. Blinkova served \u2014 3 - 1",
-        "Set 2 Game 5: E. Jacquemot served \u2014 3 - 2",
-        "Set 2 Game 6: A. Blinkova served \u2014 3 - 3",
-        "Set 2 Game 7: E. Jacquemot served \u2014 3 - 2"
-      ],
-      "h2h": {
-        "h2h_record": "1-2",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "A. Tikhonova",
-            "score": "2 - 1"
-          },
-          {
-            "result": "W",
-            "opponent": "K. Day",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "E. Lares",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "E. Ovcharenko",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "M. Bouzkova",
-            "score": "0 - 2"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "J. Riera",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "N. Podoroska",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "A. V. Mediorreal",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Kalinskaya",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Zakharova",
-            "score": "2 - 0"
-          }
-        ]
-      }
-    },
-    "12162548": {
-      "player": "G. Schenekenberg",
-      "opponent": "V. H. Remondy Pagotto",
-      "score": "0-6, 0-3",
-      "status": "Set 2",
+    "12162467": {
+      "player": "J. Roddick",
+      "opponent": "C. Ferguson",
+      "score": "3-1",
+      "status": "Set 1",
       "stats": null,
       "timeline": [
-        "Set 1 Game 1: V. H. Remondy Pagotto served \u2014 0 - 1",
-        "Set 1 Game 2: G. Schenekenberg served \u2014 0 - 2",
-        "Set 1 Game 3: V. H. Remondy Pagotto served \u2014 0 - 3",
-        "Set 1 Game 4: G. Schenekenberg served \u2014 0 - 4",
-        "Set 1 Game 5: V. H. Remondy Pagotto served \u2014 0 - 5",
-        "Set 1 Game 6: G. Schenekenberg served \u2014 0 - 6",
-        "Set 2 Game 1: V. H. Remondy Pagotto served \u2014 0 - 1",
-        "Set 2 Game 2: G. Schenekenberg served \u2014 0 - 2",
-        "Set 2 Game 3: V. H. Remondy Pagotto served \u2014 0 - 3",
-        "Set 2 Game 4: G. Schenekenberg served \u2014 None"
+        "Set 1 Game 1: J. Roddick served \u2014 1 - 0",
+        "Set 1 Game 2: C. Ferguson served \u2014 2 - 0",
+        "Set 1 Game 3: J. Roddick served \u2014 3 - 0",
+        "Set 1 Game 4: C. Ferguson served \u2014 3 - 1",
+        "Set 1 Game 5: J. Roddick served \u2014 3 - 0"
       ],
       "h2h": {
         "h2h_record": "0-0",
         "p1_form": [
           {
             "result": "W",
-            "opponent": "D. A. Nunez",
-            "score": "1 - 2"
+            "opponent": "Y. Chung",
+            "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "J. Wendler Filho",
+            "opponent": "R. Tanuma",
+            "score": "2 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "Y. Taka",
+            "score": "0 - 2"
+          },
+          {
+            "result": "L",
+            "opponent": "T. Ichikawa",
             "score": "2 - 0"
           },
           {
             "result": "L",
-            "opponent": "M. Alves",
+            "opponent": "B. Kuzuhara",
             "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "E. Martins",
-            "score": "1 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "V. Cunha",
-            "score": "0 - 2"
           }
         ],
         "p2_form": [
           {
             "result": "W",
-            "opponent": "N. Garcia Longo",
+            "opponent": "S. Shin",
+            "score": "1 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "Y. Mochizuki",
             "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "J. E. Schiessl",
+            "opponent": "R. Takahata",
+            "score": "0 - 2"
+          },
+          {
+            "result": "L",
+            "opponent": "K. Saitoh",
             "score": "2 - 0"
           },
           {
             "result": "W",
-            "opponent": "M. Alves",
+            "opponent": "Y. Takahashi",
+            "score": "1 - 2"
+          }
+        ]
+      }
+    },
+    "12162479": {
+      "player": "H. E. Lee",
+      "opponent": "D. Kim",
+      "score": "1-2",
+      "status": "Set 1",
+      "stats": null,
+      "timeline": [
+        "Set 1 Game 1: H. E. Lee served \u2014 0 - 1",
+        "Set 1 Game 2: D. Kim served \u2014 1 - 1",
+        "Set 1 Game 3: H. E. Lee served \u2014 1 - 2",
+        "Set 1 Game 4: D. Kim served \u2014 None"
+      ],
+      "h2h": {
+        "h2h_record": "0-0",
+        "p1_form": [
+          {
+            "result": "W",
+            "opponent": "K. Yoshioka",
+            "score": "1 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "M. Uemura",
             "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "J. E. Schiessl",
+            "opponent": "M. Ozeki",
+            "score": "2 - 0"
+          },
+          {
+            "result": "L",
+            "opponent": "K. Yodpetch",
             "score": "2 - 0"
           },
           {
             "result": "W",
-            "opponent": "D. A. Nunez",
+            "opponent": "Mushika Mio",
+            "score": "2 - 0"
+          }
+        ],
+        "p2_form": [
+          {
+            "result": "W",
+            "opponent": "S. Y. Choi",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "P. Leykina",
+            "score": "0 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "C. Muramatsu",
+            "score": "0 - 2"
+          },
+          {
+            "result": "L",
+            "opponent": "K. Sawashiro",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "T. Naklo",
             "score": "2 - 1"
+          }
+        ]
+      }
+    },
+    "12162486": {
+      "player": "Y. Kim",
+      "opponent": "C. Y. Tsao",
+      "score": "2-3",
+      "status": "Set 1",
+      "stats": null,
+      "timeline": [
+        "Set 1 Game 1: C. Y. Tsao served \u2014 0 - 1",
+        "Set 1 Game 2: Y. Kim served \u2014 0 - 2",
+        "Set 1 Game 3: C. Y. Tsao served \u2014 0 - 3",
+        "Set 1 Game 4: Y. Kim served \u2014 1 - 3",
+        "Set 1 Game 5: C. Y. Tsao served \u2014 2 - 3",
+        "Set 1 Game 6: Y. Kim served \u2014 None"
+      ],
+      "h2h": {
+        "h2h_record": "0-0",
+        "p1_form": [
+          {
+            "result": "W",
+            "opponent": "K. Sawashiro",
+            "score": "2 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "H. Abe",
+            "score": "1 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "K. Yodpetch",
+            "score": "1 - 2"
+          },
+          {
+            "result": "L",
+            "opponent": "N. Sato",
+            "score": "0 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "C. Zhu",
+            "score": "2 - 1"
+          }
+        ],
+        "p2_form": [
+          {
+            "result": "W",
+            "opponent": "T. Naklo",
+            "score": "0 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "C. Zhu",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "M. Y. Choi",
+            "score": "0 - 2"
+          },
+          {
+            "result": "L",
+            "opponent": "N. Sato",
+            "score": "2 - 0"
+          },
+          {
+            "result": "W",
+            "opponent": "S. . LEE",
+            "score": "2 - 0"
           }
         ]
       }
@@ -263,21 +311,25 @@
     "12162582": {
       "player": "V. Goncalves",
       "opponent": "R. Tosetto",
-      "score": "5-5",
-      "status": "Set 1",
+      "score": "6-7, 2-3",
+      "status": "Set 2",
       "stats": null,
       "timeline": [
-        "Set 1 Game 1: R. Tosetto served \u2014 0 - 1",
-        "Set 1 Game 2: V. Goncalves served \u2014 0 - 2",
-        "Set 1 Game 3: R. Tosetto served \u2014 1 - 2",
-        "Set 1 Game 4: V. Goncalves served \u2014 2 - 2",
-        "Set 1 Game 5: R. Tosetto served \u2014 2 - 3",
-        "Set 1 Game 6: V. Goncalves served \u2014 3 - 3",
-        "Set 1 Game 7: R. Tosetto served \u2014 3 - 4",
-        "Set 1 Game 8: V. Goncalves served \u2014 3 - 5",
-        "Set 1 Game 9: R. Tosetto served \u2014 4 - 5",
-        "Set 1 Game 10: V. Goncalves served \u2014 5 - 5",
-        "Set 1 Game 11: R. Tosetto served \u2014 None"
+        "Set 1 TieBreak Game 3: V. Goncalves served \u2014 1 - 2",
+        "Set 1 TieBreak Game 4: R. Tosetto served \u2014 1 - 3",
+        "Set 1 TieBreak Game 5: R. Tosetto served \u2014 1 - 4",
+        "Set 1 TieBreak Game 6: V. Goncalves served \u2014 2 - 4",
+        "Set 1 TieBreak Game 7: V. Goncalves served \u2014 3 - 4",
+        "Set 1 TieBreak Game 8: R. Tosetto served \u2014 3 - 5",
+        "Set 1 TieBreak Game 9: R. Tosetto served \u2014 3 - 6",
+        "Set 1 TieBreak Game 10: V. Goncalves served \u2014 4 - 6",
+        "Set 1 TieBreak Game 12: None served \u2014 7 - 5",
+        "Set 2 Game 1: V. Goncalves served \u2014 0 - 1",
+        "Set 2 Game 2: R. Tosetto served \u2014 0 - 2",
+        "Set 2 Game 3: V. Goncalves served \u2014 1 - 2",
+        "Set 2 Game 4: R. Tosetto served \u2014 1 - 3",
+        "Set 2 Game 5: V. Goncalves served \u2014 2 - 3",
+        "Set 2 Game 6: R. Tosetto served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "1-1",
