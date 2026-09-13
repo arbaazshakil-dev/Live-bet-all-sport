@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-12T23:26:04.539901+00:00",
+  "updated": "2026-09-13T00:34:49.270137+00:00",
   "matches": {
     "12162562": {
       "player": "H. Kinoshita",
       "opponent": "V. Rodriguez",
-      "score": "4-3",
-      "status": "Set 1",
+      "score": "6-4, 1-6, 2-2",
+      "status": "Set 3",
       "stats": {
         "aces": [
           "0",
@@ -13,22 +13,29 @@
         ],
         "double_faults": [
           "1",
-          "1"
+          "0"
         ],
         "win_1st_serve": [
-          "50%",
-          "57%"
+          "133%",
+          "50%"
         ]
       },
       "timeline": [
-        "Set 1 Game 1: H. Kinoshita served \u2014 0 - 1",
-        "Set 1 Game 2: V. Rodriguez served \u2014 1 - 1",
-        "Set 1 Game 3: H. Kinoshita served \u2014 1 - 2",
-        "Set 1 Game 4: V. Rodriguez served \u2014 1 - 3",
-        "Set 1 Game 5: H. Kinoshita served \u2014 2 - 3",
-        "Set 1 Game 6: V. Rodriguez served \u2014 3 - 3",
-        "Set 1 Game 7: H. Kinoshita served \u2014 4 - 3",
-        "Set 1 Game 8: V. Rodriguez served \u2014 None"
+        "Set 1 Game 8: V. Rodriguez served \u2014 5 - 3",
+        "Set 1 Game 9: H. Kinoshita served \u2014 5 - 4",
+        "Set 1 Game 10: V. Rodriguez served \u2014 6 - 4",
+        "Set 2 Game 1: H. Kinoshita served \u2014 0 - 1",
+        "Set 2 Game 2: V. Rodriguez served \u2014 0 - 2",
+        "Set 2 Game 3: H. Kinoshita served \u2014 0 - 3",
+        "Set 2 Game 4: V. Rodriguez served \u2014 0 - 4",
+        "Set 2 Game 5: H. Kinoshita served \u2014 1 - 4",
+        "Set 2 Game 6: V. Rodriguez served \u2014 1 - 5",
+        "Set 2 Game 7: H. Kinoshita served \u2014 1 - 6",
+        "Set 3 Game 1: V. Rodriguez served \u2014 1 - 0",
+        "Set 3 Game 2: H. Kinoshita served \u2014 2 - 0",
+        "Set 3 Game 3: V. Rodriguez served \u2014 2 - 1",
+        "Set 3 Game 4: H. Kinoshita served \u2014 2 - 2",
+        "Set 3 Game 5: V. Rodriguez served \u2014 None"
       ],
       "h2h": {
         "h2h_record": "0-0",
@@ -91,30 +98,47 @@
     "12162564": {
       "player": "W. Osuigwe",
       "opponent": "F. Labrana",
-      "score": "1-1",
-      "status": "Set 1",
+      "score": "6-3, 6-0",
+      "status": "Finished",
       "stats": {
         "aces": [
-          "1",
+          "0",
           "0"
         ],
         "double_faults": [
-          "0",
-          "2"
+          "1",
+          "1"
         ],
         "win_1st_serve": [
-          "75%",
-          "100%"
+          "62%",
+          "41%"
         ]
       },
       "timeline": [
-        "Set 1 Game 1: W. Osuigwe served \u2014 0 - 1",
-        "Set 1 Game 2: W. Osuigwe served \u2014 1 - 1",
-        "Set 1 Game 3: W. Osuigwe served \u2014 None"
+        "Set 1 Game 1: W. Osuigwe served \u2014 1 - 0",
+        "Set 1 Game 2: F. Labrana served \u2014 1 - 1",
+        "Set 1 Game 3: W. Osuigwe served \u2014 2 - 1",
+        "Set 1 Game 4: F. Labrana served \u2014 2 - 2",
+        "Set 1 Game 5: W. Osuigwe served \u2014 3 - 2",
+        "Set 1 Game 6: F. Labrana served \u2014 3 - 3",
+        "Set 1 Game 7: W. Osuigwe served \u2014 4 - 3",
+        "Set 1 Game 8: F. Labrana served \u2014 5 - 3",
+        "Set 1 Game 9: W. Osuigwe served \u2014 6 - 3",
+        "Set 2 Game 1: F. Labrana served \u2014 1 - 0",
+        "Set 2 Game 2: W. Osuigwe served \u2014 2 - 0",
+        "Set 2 Game 3: F. Labrana served \u2014 3 - 0",
+        "Set 2 Game 4: W. Osuigwe served \u2014 4 - 0",
+        "Set 2 Game 5: F. Labrana served \u2014 5 - 0",
+        "Set 2 Game 6: W. Osuigwe served \u2014 6 - 0"
       ],
       "h2h": {
-        "h2h_record": "0-0",
+        "h2h_record": "1-0",
         "p1_form": [
+          {
+            "result": "W",
+            "opponent": "F. Labrana",
+            "score": "2 - 0"
+          },
           {
             "result": "L",
             "opponent": "M. Barthel",
@@ -134,14 +158,14 @@
             "result": "L",
             "opponent": "M. Yamaguchi",
             "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "M. Timofeeva",
-            "score": "2 - 0"
           }
         ],
         "p2_form": [
+          {
+            "result": "L",
+            "opponent": "W. Osuigwe",
+            "score": "2 - 0"
+          },
           {
             "result": "L",
             "opponent": "L. Ayala",
@@ -161,327 +185,88 @@
             "result": "W",
             "opponent": "L. Agudelo",
             "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "A. Corbalan Miranda",
-            "score": "0 - 2"
           }
         ]
       }
     },
-    "12162593": {
-      "player": "Tosetto/ Zanellato",
-      "opponent": "Augusto dos Santos/ Bini",
-      "score": "6-3, 4-4",
-      "status": "Set 2",
-      "stats": null,
-      "timeline": [
-        "Set 1 Game 4: Tosetto/ Zanellato served \u2014 3 - 1",
-        "Set 1 Game 5: Augusto dos Santos/ Bini served \u2014 3 - 2",
-        "Set 1 Game 6: Tosetto/ Zanellato served \u2014 4 - 2",
-        "Set 1 Game 7: Augusto dos Santos/ Bini served \u2014 4 - 3",
-        "Set 1 Game 8: Tosetto/ Zanellato served \u2014 5 - 3",
-        "Set 1 Game 9: Augusto dos Santos/ Bini served \u2014 6 - 3",
-        "Set 2 Game 1: Tosetto/ Zanellato served \u2014 0 - 1",
-        "Set 2 Game 2: Augusto dos Santos/ Bini served \u2014 1 - 1",
-        "Set 2 Game 3: Tosetto/ Zanellato served \u2014 2 - 1",
-        "Set 2 Game 4: Augusto dos Santos/ Bini served \u2014 2 - 2",
-        "Set 2 Game 5: Tosetto/ Zanellato served \u2014 3 - 2",
-        "Set 2 Game 6: Augusto dos Santos/ Bini served \u2014 3 - 3",
-        "Set 2 Game 7: Tosetto/ Zanellato served \u2014 4 - 3",
-        "Set 2 Game 8: Augusto dos Santos/ Bini served \u2014 4 - 4",
-        "Set 2 Game 9: Tosetto/ Zanellato served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "Almeida Junior/ de Camargo Silva",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "Leite/ Saraiva Dos Santos",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Rodriguez/ Roveri Sidney",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "GARCIA/ Lopes",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "Rodriguez/ Roveri Sidney",
-            "score": "1 - 2"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "Bojicic Ono/ Wendler Filho",
-            "score": "0 - 2"
-          }
-        ]
-      }
-    },
-    "12162563": {
-      "player": "C. Paquet",
-      "opponent": "M. Capurro Taborda",
-      "score": "7-5, 1-6, 1-0",
-      "status": "Set 3",
+    "12162706": {
+      "player": "M. F. Urrutia",
+      "opponent": "A. Tikhonova",
+      "score": "0-2",
+      "status": "Set 1",
       "stats": {
         "aces": [
-          "0",
-          "0"
+          "1",
+          "1"
         ],
         "double_faults": [
           "1",
-          "0"
-        ]
-      },
-      "timeline": [
-        "Set 1 Game 7: C. Paquet served \u2014 3 - 4",
-        "Set 1 Game 8: M. Capurro Taborda served \u2014 4 - 4",
-        "Set 1 Game 9: C. Paquet served \u2014 5 - 4",
-        "Set 1 Game 10: M. Capurro Taborda served \u2014 5 - 5",
-        "Set 1 Game 11: C. Paquet served \u2014 6 - 5",
-        "Set 1 Game 12: M. Capurro Taborda served \u2014 7 - 5",
-        "Set 2 Game 1: C. Paquet served \u2014 0 - 1",
-        "Set 2 Game 2: M. Capurro Taborda served \u2014 0 - 2",
-        "Set 2 Game 3: C. Paquet served \u2014 0 - 3",
-        "Set 2 Game 4: M. Capurro Taborda served \u2014 0 - 4",
-        "Set 2 Game 5: C. Paquet served \u2014 1 - 4",
-        "Set 2 Game 6: M. Capurro Taborda served \u2014 1 - 5",
-        "Set 2 Game 7: C. Paquet served \u2014 1 - 6",
-        "Set 3 Game 1: M. Capurro Taborda served \u2014 1 - 0",
-        "Set 3 Game 2: C. Paquet served \u2014 None"
-      ],
-      "h2h": {
-        "h2h_record": "0-0",
-        "p1_form": [
-          {
-            "result": "L",
-            "opponent": "V. Strakhova",
-            "score": "1 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Geerlings Martinez",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "R. Zolotareva",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "F. Jones",
-            "score": "2 - 1"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Rus",
-            "score": "2 - 1"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "L",
-            "opponent": "V. L. Barros",
-            "score": "1 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "M. Laron",
-            "score": "2 - 0"
-          },
-          {
-            "result": "L",
-            "opponent": "D. Egorova",
-            "score": "2 - 0"
-          },
-          {
-            "result": "W",
-            "opponent": "B. Bonardi",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "O. Babel",
-            "score": "1 - 2"
-          }
-        ]
-      }
-    },
-    "12162591": {
-      "player": "C. Liu",
-      "opponent": "A. Blinkova",
-      "score": "6-0, 2-6, 2-5",
-      "status": "Set 3",
-      "stats": {
-        "aces": [
-          "0",
-          "0"
-        ],
-        "double_faults": [
-          "1",
-          "0"
+          "1"
         ],
         "win_1st_serve": [
-          "42%",
-          "65%"
+          "50%",
+          "67%"
         ]
       },
       "timeline": [
-        "Set 2 Game 3: C. Liu served \u2014 0 - 3",
-        "Set 2 Game 4: A. Blinkova served \u2014 0 - 4",
-        "Set 2 Game 5: C. Liu served \u2014 1 - 4",
-        "Set 2 Game 6: A. Blinkova served \u2014 1 - 5",
-        "Set 2 Game 7: C. Liu served \u2014 2 - 5",
-        "Set 2 Game 8: A. Blinkova served \u2014 2 - 6",
-        "Set 3 Game 1: C. Liu served \u2014 0 - 1",
-        "Set 2 Game 9: A. Blinkova served \u2014 None",
-        "Set 3 Game 2: A. Blinkova served \u2014 0 - 2",
-        "Set 3 Game 3: C. Liu served \u2014 1 - 2",
-        "Set 3 Game 4: A. Blinkova served \u2014 2 - 2",
-        "Set 3 Game 5: C. Liu served \u2014 2 - 3",
-        "Set 3 Game 6: A. Blinkova served \u2014 2 - 4",
-        "Set 3 Game 7: C. Liu served \u2014 2 - 5",
-        "Set 3 Game 8: A. Blinkova served \u2014 2 - 4"
+        "Set 1 Game 2: M. F. Urrutia served \u2014 0 - 2",
+        "Set 1 Game 3: A. Tikhonova served \u2014 None",
+        "Set 1 Game 1: A. Tikhonova served \u2014 0 - 1"
       ],
       "h2h": {
         "h2h_record": "0-0",
         "p1_form": [
           {
-            "result": "W",
-            "opponent": "L. Jeanjean",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "K. Quevedo",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "V. Lepchenko",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "X. You",
-            "score": "0 - 2"
-          },
-          {
             "result": "L",
-            "opponent": "H. Watson",
-            "score": "1 - 2"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "E. Jacquemot",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "J. Riera",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "N. Podoroska",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "A. V. Mediorreal",
-            "score": "0 - 2"
-          },
-          {
-            "result": "L",
-            "opponent": "A. Kalinskaya",
-            "score": "0 - 2"
-          }
-        ]
-      }
-    },
-    "12162594": {
-      "player": "V. H. Remondy Pagotto",
-      "opponent": "P. Sakamoto",
-      "score": "4-6, 7-6, 4-6",
-      "status": "Finished",
-      "stats": null,
-      "timeline": [
-        "Set 2 TieBreak Game 7: P. Sakamoto served \u2014 5 - 2",
-        "Set 2 TieBreak Game 8: V. H. Remondy Pagotto served \u2014 5 - 3",
-        "Set 2 TieBreak Game 9: V. H. Remondy Pagotto served \u2014 6 - 3",
-        "Set 2 TieBreak Game 10: P. Sakamoto served \u2014 6 - 4",
-        "Set 2 TieBreak Game 11: None served \u2014 7 - 4",
-        "Set 3 Game 1: P. Sakamoto served \u2014 0 - 1",
-        "Set 3 Game 2: V. H. Remondy Pagotto served \u2014 1 - 1",
-        "Set 3 Game 3: P. Sakamoto served \u2014 1 - 2",
-        "Set 3 Game 4: V. H. Remondy Pagotto served \u2014 2 - 2",
-        "Set 3 Game 5: P. Sakamoto served \u2014 3 - 2",
-        "Set 3 Game 6: V. H. Remondy Pagotto served \u2014 3 - 3",
-        "Set 3 Game 7: P. Sakamoto served \u2014 3 - 4",
-        "Set 3 Game 8: V. H. Remondy Pagotto served \u2014 4 - 4",
-        "Set 3 Game 9: P. Sakamoto served \u2014 4 - 5",
-        "Set 3 Game 10: V. H. Remondy Pagotto served \u2014 4 - 6"
-      ],
-      "h2h": {
-        "h2h_record": "0-1",
-        "p1_form": [
-          {
-            "result": "W",
-            "opponent": "G. Schenekenberg",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "N. Garcia Longo",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "J. E. Schiessl",
+            "opponent": "L. M. Cinalli",
             "score": "2 - 0"
           },
           {
             "result": "W",
-            "opponent": "M. Alves",
-            "score": "0 - 2"
-          }
-        ],
-        "p2_form": [
-          {
-            "result": "W",
-            "opponent": "P. Albuquerque Dietrich",
+            "opponent": "A. J. Lopez Ocampos",
             "score": "0 - 2"
           },
           {
             "result": "W",
-            "opponent": "N. Zanellato",
-            "score": "0 - 2"
-          },
-          {
-            "result": "W",
-            "opponent": "B. Braga",
+            "opponent": "N. Sousa Salazar",
             "score": "0 - 2"
           },
           {
             "result": "L",
-            "opponent": "A. Magadan",
-            "score": "1 - 2"
+            "opponent": "V. Bosio",
+            "score": "2 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "F. Labrana",
+            "score": "2 - 0"
+          }
+        ],
+        "p2_form": [
+          {
+            "result": "L",
+            "opponent": "E. Jacquemot",
+            "score": "2 - 1"
+          },
+          {
+            "result": "W",
+            "opponent": "N. Hibino",
+            "score": "0 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "D. Semenistaja",
+            "score": "2 - 1"
+          },
+          {
+            "result": "L",
+            "opponent": "N. Schunk",
+            "score": "0 - 2"
+          },
+          {
+            "result": "W",
+            "opponent": "A. Mintegi Del Olmo",
+            "score": "2 - 0"
           }
         ]
       }
