@@ -12339,17 +12339,58 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-15T22:13:52.793166+00:00,12163331,T. Legout,H. Searle,Challenger Men Singles,0.3011,1.87,0.5348,-0.2336,0,T. Legout,2026-09-16T00:09:26.026302+00:00
 2026-09-15T22:13:54.018928+00:00,12163333,B. Nakashima,A. Ilagan,Challenger Men Singles,0.1246,2.37,0.4219,-0.2973,0,B. Nakashima,2026-09-16T00:09:26.419541+00:00
 2026-09-16T00:09:28.809598+00:00,12162585,Bucsa/ Melichar-Martinez,Cabezas Dominguez/ Gomez Pezuela Cano,Wta Doubles,,,,,,,
-2026-09-16T00:09:29.729502+00:00,12162846,Dar. Blanch,S. Kozlov,Challenger Men Singles,0.5446,1.45,0.6897,-0.1451,,,
-2026-09-16T00:09:30.683624+00:00,12163000,D. Parry,P. Stearns,Wta Singles,0.6078,2.04,0.4902,0.1176,,,
-2026-09-16T00:09:31.648189+00:00,12163335,L. Staeheli,S. Gorzny,Challenger Men Singles,0.5255,3.24,0.3086,0.2169,,,
-2026-09-16T00:09:32.628771+00:00,12163336,M. Zheng,E. Zhu,Challenger Men Singles,0.8903,1.05,0.9524,-0.062,,,
+2026-09-16T00:09:29.729502+00:00,12162846,Dar. Blanch,S. Kozlov,Challenger Men Singles,0.5446,1.45,0.6897,-0.1451,1,Dar. Blanch,2026-09-16T05:46:08.130578+00:00
+2026-09-16T00:09:30.683624+00:00,12163000,D. Parry,P. Stearns,Wta Singles,0.6078,2.04,0.4902,0.1176,0,P. Stearns,2026-09-16T05:46:08.466208+00:00
+2026-09-16T00:09:31.648189+00:00,12163335,L. Staeheli,S. Gorzny,Challenger Men Singles,0.5255,3.24,0.3086,0.2169,0,S. Gorzny,2026-09-16T05:46:08.817585+00:00
+2026-09-16T00:09:32.628771+00:00,12163336,M. Zheng,E. Zhu,Challenger Men Singles,0.8903,1.05,0.9524,-0.062,1,M. Zheng,2026-09-16T05:46:09.152628+00:00
 2026-09-16T00:15:55.323441+00:00,12162585,Bucsa/ Melichar-Martinez,Cabezas Dominguez/ Gomez Pezuela Cano,Wta Doubles,,,,,,,
-2026-09-16T00:15:56.238660+00:00,12162846,Dar. Blanch,S. Kozlov,Challenger Men Singles,0.5446,1.45,0.6897,-0.1451,,,
-2026-09-16T00:15:57.195108+00:00,12163000,D. Parry,P. Stearns,Wta Singles,0.6078,2.04,0.4902,0.1176,,,
-2026-09-16T00:15:58.144577+00:00,12163335,L. Staeheli,S. Gorzny,Challenger Men Singles,0.5255,3.24,0.3086,0.2169,,,
-2026-09-16T00:15:59.080088+00:00,12163336,M. Zheng,E. Zhu,Challenger Men Singles,0.8903,1.05,0.9524,-0.062,,,
+2026-09-16T00:15:56.238660+00:00,12162846,Dar. Blanch,S. Kozlov,Challenger Men Singles,0.5446,1.45,0.6897,-0.1451,1,Dar. Blanch,2026-09-16T05:46:09.515124+00:00
+2026-09-16T00:15:57.195108+00:00,12163000,D. Parry,P. Stearns,Wta Singles,0.6078,2.04,0.4902,0.1176,0,P. Stearns,2026-09-16T05:46:09.852391+00:00
+2026-09-16T00:15:58.144577+00:00,12163335,L. Staeheli,S. Gorzny,Challenger Men Singles,0.5255,3.24,0.3086,0.2169,0,S. Gorzny,2026-09-16T05:46:10.200505+00:00
+2026-09-16T00:15:59.080088+00:00,12163336,M. Zheng,E. Zhu,Challenger Men Singles,0.8903,1.05,0.9524,-0.062,1,M. Zheng,2026-09-16T05:46:10.535945+00:00
 2026-09-16T00:22:23.965745+00:00,12162585,Bucsa/ Melichar-Martinez,Cabezas Dominguez/ Gomez Pezuela Cano,Wta Doubles,,,,,,,
-2026-09-16T00:22:24.910081+00:00,12162846,Dar. Blanch,S. Kozlov,Challenger Men Singles,0.5446,1.45,0.6897,-0.1451,,,
-2026-09-16T00:22:25.861655+00:00,12163000,D. Parry,P. Stearns,Wta Singles,0.6078,2.04,0.4902,0.1176,,,
-2026-09-16T00:22:26.813524+00:00,12163335,L. Staeheli,S. Gorzny,Challenger Men Singles,0.5255,3.24,0.3086,0.2169,,,
-2026-09-16T00:22:27.783103+00:00,12163336,M. Zheng,E. Zhu,Challenger Men Singles,0.8903,1.05,0.9524,-0.062,,,
+2026-09-16T00:22:24.910081+00:00,12162846,Dar. Blanch,S. Kozlov,Challenger Men Singles,0.5446,1.45,0.6897,-0.1451,1,Dar. Blanch,2026-09-16T05:46:10.873259+00:00
+2026-09-16T00:22:25.861655+00:00,12163000,D. Parry,P. Stearns,Wta Singles,0.6078,2.04,0.4902,0.1176,0,P. Stearns,2026-09-16T05:46:11.207353+00:00
+2026-09-16T00:22:26.813524+00:00,12163335,L. Staeheli,S. Gorzny,Challenger Men Singles,0.5255,3.24,0.3086,0.2169,0,S. Gorzny,2026-09-16T05:46:11.544024+00:00
+2026-09-16T00:22:27.783103+00:00,12163336,M. Zheng,E. Zhu,Challenger Men Singles,0.8903,1.05,0.9524,-0.062,1,M. Zheng,2026-09-16T05:46:11.880101+00:00
+2026-09-16T05:46:14.008842+00:00,12162620,Jeong/ Matsuda,Cook/ Sach,Challenger Men Doubles,,,,,,,
+2026-09-16T05:46:14.685052+00:00,12162622,Charlton/ Shimizu,Nguyen/ Cuong,Challenger Men Doubles,,,,,,,
+2026-09-16T05:46:15.460267+00:00,12162625,Sueoka/ Tajima,Bittoun/ Dev S D,Challenger Men Doubles,,,,,,,
+2026-09-16T05:46:16.155163+00:00,12163034,M. Guo,J. Zhang,Itf Women Singles,0.4681,,,,,,
+2026-09-16T05:46:16.923039+00:00,12163035,V. Savinykh,Huang Yujia,Itf Women Singles,0.3403,,,,1,Huang Yujia,2026-09-16T05:52:32.304486+00:00
+2026-09-16T05:46:17.727044+00:00,12163038,J. Wang,Y. Ren,Itf Women Singles,0.2793,,,,,,
+2026-09-16T05:46:18.495576+00:00,12163039,J. Wang,A. Kubareva,Itf Women Singles,0.4721,1.83,0.5464,-0.0744,,,
+2026-09-16T05:46:19.173771+00:00,12163067,L. Borg,Oh Chan-Yeong,Itf Men Singles,0.8333,,,,,,
+2026-09-16T05:46:20.087468+00:00,12163071,Mushika Mio,D. Aiava,Itf Women Singles,0.7048,,,,,,
+2026-09-16T05:46:20.794761+00:00,12163073,E. Shimizu,M. Ozeki,Itf Women Singles,0.6816,1.12,0.8929,-0.2113,,,
+2026-09-16T05:46:21.565515+00:00,12163341,K. Miyoshi,P. Sekulic,Challenger Men Singles,0.4111,1.5,0.6667,-0.2556,,,
+2026-09-16T05:46:22.248185+00:00,12163366,Han Seon Yong,I. Dorokhov,Itf Men Singles,,,,,,,
+2026-09-16T05:46:22.923046+00:00,12163367,Lin Hao Yu,M. Shin,Itf Men Singles,,,,,,,
+2026-09-16T05:46:23.592924+00:00,12163369,K. Wang,J. Lan,Itf Men Singles,,,,,,,
+2026-09-16T05:46:24.357549+00:00,12163381,K. Sawashiro,J. Lu,Itf Women Singles,0.2322,2.35,0.4255,-0.1933,,,
+2026-09-16T05:52:36.666947+00:00,12162620,Jeong/ Matsuda,Cook/ Sach,Challenger Men Doubles,,,,,,,
+2026-09-16T05:52:37.444688+00:00,12162625,Sueoka/ Tajima,Bittoun/ Dev S D,Challenger Men Doubles,,,,,,,
+2026-09-16T05:52:38.133770+00:00,12163034,M. Guo,J. Zhang,Itf Women Singles,0.4681,,,,,,
+2026-09-16T05:52:38.937832+00:00,12163038,J. Wang,Y. Ren,Itf Women Singles,0.2793,,,,,,
+2026-09-16T05:52:39.708148+00:00,12163039,J. Wang,A. Kubareva,Itf Women Singles,0.4721,1.83,0.5464,-0.0744,,,
+2026-09-16T05:52:40.385483+00:00,12163067,L. Borg,Oh Chan-Yeong,Itf Men Singles,0.8333,,,,,,
+2026-09-16T05:52:41.101520+00:00,12163071,Mushika Mio,D. Aiava,Itf Women Singles,0.7048,,,,,,
+2026-09-16T05:52:41.783142+00:00,12163073,E. Shimizu,M. Ozeki,Itf Women Singles,0.6816,1.12,0.8929,-0.2113,,,
+2026-09-16T05:52:42.552169+00:00,12163341,K. Miyoshi,P. Sekulic,Challenger Men Singles,0.4111,1.5,0.6667,-0.2556,,,
+2026-09-16T05:52:43.229872+00:00,12163366,Han Seon Yong,I. Dorokhov,Itf Men Singles,,,,,,,
+2026-09-16T05:52:43.911535+00:00,12163367,Lin Hao Yu,M. Shin,Itf Men Singles,,,,,,,
+2026-09-16T05:52:44.594654+00:00,12163369,K. Wang,J. Lan,Itf Men Singles,,,,,,,
+2026-09-16T05:52:45.381901+00:00,12163381,K. Sawashiro,J. Lu,Itf Women Singles,0.2322,2.35,0.4255,-0.1933,,,
+2026-09-16T05:59:00.928288+00:00,12162620,Jeong/ Matsuda,Cook/ Sach,Challenger Men Doubles,,,,,,,
+2026-09-16T05:59:01.717044+00:00,12162625,Sueoka/ Tajima,Bittoun/ Dev S D,Challenger Men Doubles,,,,,,,
+2026-09-16T05:59:02.399722+00:00,12163034,M. Guo,J. Zhang,Itf Women Singles,0.4681,,,,,,
+2026-09-16T05:59:03.193590+00:00,12163038,J. Wang,Y. Ren,Itf Women Singles,0.2793,,,,,,
+2026-09-16T05:59:03.964030+00:00,12163039,J. Wang,A. Kubareva,Itf Women Singles,0.4721,1.83,0.5464,-0.0744,,,
+2026-09-16T05:59:04.653160+00:00,12163067,L. Borg,Oh Chan-Yeong,Itf Men Singles,0.8333,,,,,,
+2026-09-16T05:59:05.377665+00:00,12163071,Mushika Mio,D. Aiava,Itf Women Singles,0.7048,,,,,,
+2026-09-16T05:59:06.075327+00:00,12163073,E. Shimizu,M. Ozeki,Itf Women Singles,0.6816,1.12,0.8929,-0.2113,,,
+2026-09-16T05:59:06.841959+00:00,12163341,K. Miyoshi,P. Sekulic,Challenger Men Singles,0.4111,1.5,0.6667,-0.2556,,,
+2026-09-16T05:59:07.529572+00:00,12163366,Han Seon Yong,I. Dorokhov,Itf Men Singles,,,,,,,
+2026-09-16T05:59:08.202767+00:00,12163367,Lin Hao Yu,M. Shin,Itf Men Singles,,,,,,,
+2026-09-16T05:59:08.870906+00:00,12163369,K. Wang,J. Lan,Itf Men Singles,,,,,,,
+2026-09-16T05:59:09.645118+00:00,12163381,K. Sawashiro,J. Lu,Itf Women Singles,0.2322,2.35,0.4255,-0.1933,,,
