@@ -12854,8 +12854,8 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-17T18:16:33.281757+00:00,12163857,J. Ortenzi,P. Badosa,Wta Singles,0.3246,12.9,0.0775,0.2471,1,P. Badosa,2026-09-17T21:59:29.239860+00:00
 2026-09-17T21:59:31.921897+00:00,12163817,Dell'Edera/ Katsumi,Pahwa/ Tahiri,Itf Women Doubles,,,,,,,
 2026-09-17T21:59:32.797324+00:00,12162860,Quevedo/ Salkova,Riera/ Sierra,Wta Doubles,,,,,,,
-2026-09-17T21:59:33.814478+00:00,12163660,B. Gojo,M. Martineau,Challenger Men Singles,0.6456,1.27,0.7874,-0.1418,,,
-2026-09-17T21:59:34.868137+00:00,12163823,E. Lys,N. Podoroska,Wta Singles,0.7809,1.5,0.6667,0.1142,,,
+2026-09-17T21:59:33.814478+00:00,12163660,B. Gojo,M. Martineau,Challenger Men Singles,0.6456,1.27,0.7874,-0.1418,1,B. Gojo,2026-09-18T00:05:46.659753+00:00
+2026-09-17T21:59:34.868137+00:00,12163823,E. Lys,N. Podoroska,Wta Singles,0.7809,1.5,0.6667,0.1142,0,N. Podoroska,2026-09-18T00:05:47.129937+00:00
 2026-09-17T21:59:35.990197+00:00,12163832,M. Frech,I. Jovic,Wta Singles,0.3016,3.8,0.2632,0.0384,1,I. Jovic,2026-09-17T22:06:10.586731+00:00
 2026-09-17T21:59:36.872411+00:00,12163834,V. Bini,M. Echazu,Itf Men Singles,0.3333,5.5,0.1818,0.1515,0,V. Bini,2026-09-17T22:06:11.024122+00:00
 2026-09-17T21:59:37.775918+00:00,12163838,V. Cunha,P. Sakamoto,Itf Men Singles,,21.29,0.047,,,,
@@ -12866,22 +12866,39 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-17T22:06:14.674598+00:00,12163826,Gonzalez/ Smith,Gomez/ Martinez,Challenger Men Doubles,,,,,,,
 2026-09-17T22:06:15.546826+00:00,12163830,Ilagan/ Zhu,Cash/ Seggerman,Challenger Men Doubles,,,,,,,
 2026-09-17T22:06:16.505477+00:00,12162860,Quevedo/ Salkova,Riera/ Sierra,Wta Doubles,,,,,,,
-2026-09-17T22:06:17.538606+00:00,12163660,B. Gojo,M. Martineau,Challenger Men Singles,0.6456,1.27,0.7874,-0.1418,,,
-2026-09-17T22:06:18.611175+00:00,12163823,E. Lys,N. Podoroska,Wta Singles,0.7809,1.5,0.6667,0.1142,,,
+2026-09-17T22:06:17.538606+00:00,12163660,B. Gojo,M. Martineau,Challenger Men Singles,0.6456,1.27,0.7874,-0.1418,1,B. Gojo,2026-09-18T00:05:47.600750+00:00
+2026-09-17T22:06:18.611175+00:00,12163823,E. Lys,N. Podoroska,Wta Singles,0.7809,1.5,0.6667,0.1142,0,N. Podoroska,2026-09-18T00:05:48.075821+00:00
 2026-09-17T22:06:19.683971+00:00,12163832,M. Frech,I. Jovic,Wta Singles,0.3016,3.8,0.2632,0.0384,1,I. Jovic,2026-09-17T22:12:57.040078+00:00
 2026-09-17T22:06:20.576247+00:00,12163834,V. Bini,M. Echazu,Itf Men Singles,0.3333,5.5,0.1818,0.1515,0,V. Bini,2026-09-17T22:12:57.488265+00:00
 2026-09-17T22:06:21.444216+00:00,12163838,V. Cunha,P. Sakamoto,Itf Men Singles,,21.29,0.047,,,,
-2026-09-17T22:06:22.358872+00:00,12163839,J. S. Osorio,V. Garay,Itf Men Singles,0.913,,,,,,
+2026-09-17T22:06:22.358872+00:00,12163839,J. S. Osorio,V. Garay,Itf Men Singles,0.913,,,,1,J. S. Osorio,2026-09-18T00:05:48.541736+00:00
 2026-09-17T22:06:23.784907+00:00,12163858,Bucsa/ Melichar-Martinez,Kozyreva/ Lumsden,Wta Doubles,,,,,,,
 2026-09-17T22:06:24.689144+00:00,12163859,Galloway/ King,Hach Verdugo/ Tracy,Challenger Men Doubles,,,,,,,
 2026-09-17T22:06:25.566459+00:00,12163861,Martins/ Ortenzi,Rogers/ Zamarripa,Wta Doubles,,,,,,,
 2026-09-17T22:13:00.553938+00:00,12163826,Gonzalez/ Smith,Gomez/ Martinez,Challenger Men Doubles,,,,,,,
 2026-09-17T22:13:01.415729+00:00,12163830,Ilagan/ Zhu,Cash/ Seggerman,Challenger Men Doubles,,,,,,,
 2026-09-17T22:13:02.282712+00:00,12162860,Quevedo/ Salkova,Riera/ Sierra,Wta Doubles,,,,,,,
-2026-09-17T22:13:03.298494+00:00,12163660,B. Gojo,M. Martineau,Challenger Men Singles,0.6456,1.27,0.7874,-0.1418,,,
-2026-09-17T22:13:04.286576+00:00,12163823,E. Lys,N. Podoroska,Wta Singles,0.7809,1.5,0.6667,0.1142,,,
-2026-09-17T22:13:05.345943+00:00,12163832,M. Frech,I. Jovic,Wta Singles,0.3016,3.8,0.2632,0.0384,,,
+2026-09-17T22:13:03.298494+00:00,12163660,B. Gojo,M. Martineau,Challenger Men Singles,0.6456,1.27,0.7874,-0.1418,1,B. Gojo,2026-09-18T00:05:49.015123+00:00
+2026-09-17T22:13:04.286576+00:00,12163823,E. Lys,N. Podoroska,Wta Singles,0.7809,1.5,0.6667,0.1142,0,N. Podoroska,2026-09-18T00:05:49.484124+00:00
+2026-09-17T22:13:05.345943+00:00,12163832,M. Frech,I. Jovic,Wta Singles,0.3016,3.8,0.2632,0.0384,1,I. Jovic,2026-09-18T00:05:49.958302+00:00
 2026-09-17T22:13:06.244053+00:00,12163838,V. Cunha,P. Sakamoto,Itf Men Singles,,21.29,0.047,,,,
-2026-09-17T22:13:07.154102+00:00,12163839,J. S. Osorio,V. Garay,Itf Men Singles,0.913,,,,,,
+2026-09-17T22:13:07.154102+00:00,12163839,J. S. Osorio,V. Garay,Itf Men Singles,0.913,,,,1,J. S. Osorio,2026-09-18T00:05:50.433080+00:00
 2026-09-17T22:13:08.333592+00:00,12163858,Bucsa/ Melichar-Martinez,Kozyreva/ Lumsden,Wta Doubles,,,,,,,
 2026-09-17T22:13:09.243533+00:00,12163861,Martins/ Ortenzi,Rogers/ Zamarripa,Wta Doubles,,,,,,,
+2026-09-18T00:05:53.288786+00:00,12162859,Ovcharenko/ Pigossi,Stoiana/ Valdmannova,Wta Doubles,,,,,,,
+2026-09-18T00:05:54.427970+00:00,12163608,M. Zheng,T. Svajda,Challenger Men Singles,0.8938,1.23,0.813,0.0808,1,M. Zheng,2026-09-18T00:12:34.665270+00:00
+2026-09-18T00:05:55.380016+00:00,12163826,Gonzalez/ Smith,Gomez/ Martinez,Challenger Men Doubles,,,,,,,
+2026-09-18T00:05:56.309873+00:00,12163863,Braga/ Tosetto,Garcia Finetto/ Meneguetti,Itf Men Doubles,,,,,,,
+2026-09-18T00:05:57.432358+00:00,12163865,M. Kostyuk,L. Samsonova,Wta Singles,0.7836,1.27,0.7874,-0.0038,,,
+2026-09-18T00:05:58.748783+00:00,12163840,P. A. Saraiva Dos Santos,H. Ortenblad Nogueira,Itf Men Singles,0.9709,1.01,0.9901,-0.0192,,,
+2026-09-18T00:06:00.032851+00:00,12163858,Bucsa/ Melichar-Martinez,Kozyreva/ Lumsden,Wta Doubles,,,,,,,
+2026-09-18T00:12:38.577845+00:00,12163608,M. Zheng,T. Svajda,Challenger Men Singles,0.8938,1.23,0.813,0.0808,1,M. Zheng,2026-09-18T00:19:19.745417+00:00
+2026-09-18T00:12:39.527048+00:00,12163850,Bini/ Bojicic Ono,Almeida Junior/ Pinto,Itf Men Doubles,,,,,,,
+2026-09-18T00:12:40.463106+00:00,12163863,Braga/ Tosetto,Garcia Finetto/ Meneguetti,Itf Men Doubles,,,,,,,
+2026-09-18T00:12:41.564688+00:00,12163865,M. Kostyuk,L. Samsonova,Wta Singles,0.7836,1.27,0.7874,-0.0038,,,
+2026-09-18T00:12:42.837857+00:00,12163840,P. A. Saraiva Dos Santos,H. Ortenblad Nogueira,Itf Men Singles,0.9709,1.01,0.9901,-0.0192,,,
+2026-09-18T00:12:44.090990+00:00,12163858,Bucsa/ Melichar-Martinez,Kozyreva/ Lumsden,Wta Doubles,,,,,,,
+2026-09-18T00:19:23.492063+00:00,12163850,Bini/ Bojicic Ono,Almeida Junior/ Pinto,Itf Men Doubles,,,,,,,
+2026-09-18T00:19:24.617493+00:00,12163865,M. Kostyuk,L. Samsonova,Wta Singles,0.7836,1.22,0.8197,-0.0361,,,
+2026-09-18T00:19:25.893168+00:00,12163840,P. A. Saraiva Dos Santos,H. Ortenblad Nogueira,Itf Men Singles,0.9709,1.02,0.9804,-0.0095,,,
+2026-09-18T00:19:27.173954+00:00,12163858,Bucsa/ Melichar-Martinez,Kozyreva/ Lumsden,Wta Doubles,,,,,,,
