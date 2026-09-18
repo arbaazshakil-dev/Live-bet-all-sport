@@ -12902,24 +12902,83 @@ timestamp,event_id,player,opponent,tour_type,model_prob,market_odds,implied_prob
 2026-09-18T00:19:24.617493+00:00,12163865,M. Kostyuk,L. Samsonova,Wta Singles,0.7836,1.22,0.8197,-0.0361,0,L. Samsonova,2026-09-18T05:39:43.529665+00:00
 2026-09-18T00:19:25.893168+00:00,12163840,P. A. Saraiva Dos Santos,H. Ortenblad Nogueira,Itf Men Singles,0.9709,1.02,0.9804,-0.0095,,,
 2026-09-18T00:19:27.173954+00:00,12163858,Bucsa/ Melichar-Martinez,Kozyreva/ Lumsden,Wta Doubles,,,,,,,
-2026-09-18T05:39:46.164177+00:00,12163624,R. Pacheco Mendez,P. Sekulic,Challenger Men Singles,0.5779,1.29,0.7752,-0.1973,,,
+2026-09-18T05:39:46.164177+00:00,12163624,R. Pacheco Mendez,P. Sekulic,Challenger Men Singles,0.5779,1.29,0.7752,-0.1973,1,R. Pacheco Mendez,2026-09-18T10:50:22.647133+00:00
 2026-09-18T05:39:46.990149+00:00,12163867,M. Kouame,F. Bax,Challenger Men Singles,0.6078,1.23,0.813,-0.2052,1,M. Kouame,2026-09-18T05:52:29.089036+00:00
-2026-09-18T05:39:47.828446+00:00,12163869,A. Kachmazov,R. Catry,Itf Men Singles,0.35,1.3,0.7692,-0.4192,,,
-2026-09-18T05:39:48.685331+00:00,12163875,K. Sidorova,Y. Ren,Itf Women Singles,0.3878,,,,,,
+2026-09-18T05:39:47.828446+00:00,12163869,A. Kachmazov,R. Catry,Itf Men Singles,0.35,1.3,0.7692,-0.4192,0,A. Kachmazov,2026-09-18T10:50:23.180653+00:00
+2026-09-18T05:39:48.685331+00:00,12163875,K. Sidorova,Y. Ren,Itf Women Singles,0.3878,,,,0,K. Sidorova,2026-09-18T10:50:23.729956+00:00
 2026-09-18T05:39:49.417921+00:00,12163885,Ishii/ Sawashiro,Deng/ Matsuda,Itf Women Doubles,,,,,,,
 2026-09-18T05:39:50.145927+00:00,12163886,Miyamoto/ Yoshioka,Abe/ Rajecki,Itf Women Doubles,,,,,,,
-2026-09-18T05:39:51.012915+00:00,12163910,S. Kwon,D. Suresh,Atp Singles,0.7157,1.61,0.6211,0.0946,,,
-2026-09-18T05:46:08.957116+00:00,12163624,R. Pacheco Mendez,P. Sekulic,Challenger Men Singles,0.5779,1.29,0.7752,-0.1973,,,
+2026-09-18T05:39:51.012915+00:00,12163910,S. Kwon,D. Suresh,Atp Singles,0.7157,1.61,0.6211,0.0946,1,S. Kwon,2026-09-18T10:50:24.298425+00:00
+2026-09-18T05:46:08.957116+00:00,12163624,R. Pacheco Mendez,P. Sekulic,Challenger Men Singles,0.5779,1.29,0.7752,-0.1973,1,R. Pacheco Mendez,2026-09-18T10:50:24.843708+00:00
 2026-09-18T05:46:09.795941+00:00,12163867,M. Kouame,F. Bax,Challenger Men Singles,0.6078,1.23,0.813,-0.2052,1,M. Kouame,2026-09-18T05:52:30.907698+00:00
-2026-09-18T05:46:10.633336+00:00,12163869,A. Kachmazov,R. Catry,Itf Men Singles,0.35,1.3,0.7692,-0.4192,,,
-2026-09-18T05:46:11.497447+00:00,12163875,K. Sidorova,Y. Ren,Itf Women Singles,0.3878,,,,,,
+2026-09-18T05:46:10.633336+00:00,12163869,A. Kachmazov,R. Catry,Itf Men Singles,0.35,1.3,0.7692,-0.4192,0,A. Kachmazov,2026-09-18T10:50:25.389060+00:00
+2026-09-18T05:46:11.497447+00:00,12163875,K. Sidorova,Y. Ren,Itf Women Singles,0.3878,,,,0,K. Sidorova,2026-09-18T10:50:25.931872+00:00
 2026-09-18T05:46:12.232830+00:00,12163885,Ishii/ Sawashiro,Deng/ Matsuda,Itf Women Doubles,,,,,,,
 2026-09-18T05:46:12.964549+00:00,12163886,Miyamoto/ Yoshioka,Abe/ Rajecki,Itf Women Doubles,,,,,,,
-2026-09-18T05:46:13.837352+00:00,12163910,S. Kwon,D. Suresh,Atp Singles,0.7157,1.61,0.6211,0.0946,,,
-2026-09-18T05:52:34.287529+00:00,12163624,R. Pacheco Mendez,P. Sekulic,Challenger Men Singles,0.5779,1.29,0.7752,-0.1973,,,
-2026-09-18T05:52:35.126720+00:00,12163867,M. Kouame,F. Bax,Challenger Men Singles,0.6078,1.23,0.813,-0.2052,,,
-2026-09-18T05:52:35.961762+00:00,12163869,A. Kachmazov,R. Catry,Itf Men Singles,0.35,1.3,0.7692,-0.4192,,,
-2026-09-18T05:52:36.821060+00:00,12163875,K. Sidorova,Y. Ren,Itf Women Singles,0.3878,,,,,,
+2026-09-18T05:46:13.837352+00:00,12163910,S. Kwon,D. Suresh,Atp Singles,0.7157,1.61,0.6211,0.0946,1,S. Kwon,2026-09-18T10:50:26.474356+00:00
+2026-09-18T05:52:34.287529+00:00,12163624,R. Pacheco Mendez,P. Sekulic,Challenger Men Singles,0.5779,1.29,0.7752,-0.1973,1,R. Pacheco Mendez,2026-09-18T10:50:27.020487+00:00
+2026-09-18T05:52:35.126720+00:00,12163867,M. Kouame,F. Bax,Challenger Men Singles,0.6078,1.23,0.813,-0.2052,1,M. Kouame,2026-09-18T10:50:27.569747+00:00
+2026-09-18T05:52:35.961762+00:00,12163869,A. Kachmazov,R. Catry,Itf Men Singles,0.35,1.3,0.7692,-0.4192,0,A. Kachmazov,2026-09-18T10:50:28.110982+00:00
+2026-09-18T05:52:36.821060+00:00,12163875,K. Sidorova,Y. Ren,Itf Women Singles,0.3878,,,,0,K. Sidorova,2026-09-18T10:50:28.677385+00:00
 2026-09-18T05:52:37.547663+00:00,12163885,Ishii/ Sawashiro,Deng/ Matsuda,Itf Women Doubles,,,,,,,
 2026-09-18T05:52:38.279406+00:00,12163886,Miyamoto/ Yoshioka,Abe/ Rajecki,Itf Women Doubles,,,,,,,
-2026-09-18T05:52:39.136638+00:00,12163910,S. Kwon,D. Suresh,Atp Singles,0.7157,1.61,0.6211,0.0946,,,
+2026-09-18T05:52:39.136638+00:00,12163910,S. Kwon,D. Suresh,Atp Singles,0.7157,1.61,0.6211,0.0946,1,S. Kwon,2026-09-18T10:50:29.228056+00:00
+2026-09-18T10:50:32.722463+00:00,12163960,Bove/ Mura,Mondazzi/ Sciahbasi,Itf Men Doubles,,,,,,,
+2026-09-18T10:50:33.827986+00:00,12164053,A. Turriziani Alvarez,A. Fabre,Itf Men Singles,0.7091,1.55,0.6452,0.0639,,,
+2026-09-18T10:50:34.932660+00:00,12164029,Arends/ Stevens,Stevenson/ Vocel,Challenger Men Doubles,,,,,,,
+2026-09-18T10:50:36.027292+00:00,12164009,Connel/ Elamin,Corbinais/ Nortey,Itf Men Doubles,,,,,,,
+2026-09-18T10:50:37.273820+00:00,12164008,L. Mi,I. Dapkute,Itf Women Singles,0.7898,,,,,,
+2026-09-18T10:50:38.812433+00:00,12164002,A. Reco,E. Donnet,Itf Men Singles,0.4783,1.56,0.641,-0.1628,,,
+2026-09-18T10:50:39.920655+00:00,12164001,F. Lagarrigue,M. Van Der Meerschen,Itf Men Singles,0.0385,3.87,0.2584,-0.2199,,,
+2026-09-18T10:50:41.030727+00:00,12163997,S. Vincent Ruggeri,J. Bilardo,Itf Men Singles,0.8033,1.38,0.7246,0.0786,,,
+2026-09-18T10:50:42.292083+00:00,12163996,E. Lumsden,E. Kirkin,Itf Men Singles,0.0833,2.75,0.3636,-0.2803,,,
+2026-09-18T10:50:43.389995+00:00,12163995,L. Sheyngezikht,P. Marino,Itf Men Singles,0.2571,2.36,0.4237,-0.1666,,,
+2026-09-18T10:50:44.700573+00:00,12163981,F. Crawley,J. Avdeeva,Itf Women Singles,0.4163,1.72,0.5814,-0.1651,,,
+2026-09-18T10:50:45.963643+00:00,12163980,I. Pistola,O. Babel,Itf Women Singles,0.1197,2.63,0.3802,-0.2606,,,
+2026-09-18T10:50:47.225006+00:00,12163975,M. Topo,N. Belozertsev,Itf Men Singles,,,,,,,
+2026-09-18T10:50:48.486931+00:00,12163974,A. Aubriot,N. Hipfl,Itf Men Singles,0.3788,2.86,0.3497,0.0291,,,
+2026-09-18T10:50:49.584892+00:00,12163961,Perin/ Rottoli,Carboni/ Garbero,Itf Men Doubles,,,,,,,
+2026-09-18T10:50:50.682467+00:00,12163561,Kucmova/ Laboutkova,Lovric/ Senica,Challenger Women Doubles,,,,,,,
+2026-09-18T10:50:51.965722+00:00,12163959,D. Milanovic,S. Popovic,Itf Men Singles,0.0179,2.37,0.4219,-0.4041,,,
+2026-09-18T10:50:53.250625+00:00,12163957,L. Maxted,F. Tabacco,Itf Men Singles,0.6238,1.54,0.6494,-0.0256,,,
+2026-09-18T10:50:54.518630+00:00,12163955,A. de Marchi,A. Chepelev,Itf Men Singles,0.2951,,,,,,
+2026-09-18T10:50:55.803769+00:00,12163919,P. Schoen,R. Bertrand,Itf Men Singles,0.4052,1.46,0.6849,-0.2798,,,
+2026-09-18T10:50:57.061508+00:00,12163911,H. Chung,S. Nagal,Atp Singles,0.2475,2.44,0.4098,-0.1623,0,H. Chung,2026-09-18T10:58:08.354105+00:00
+2026-09-18T10:50:58.184697+00:00,12163906,A. Dougaz,M. Shoaib,Atp Singles,0.8273,1.14,0.8772,-0.0499,,,
+2026-09-18T10:50:59.685865+00:00,12163905,T. Skatov,K. Samrej,Atp Singles,0.6796,1.42,0.7042,-0.0246,,,
+2026-09-18T10:51:00.785860+00:00,12163903,R. Da Costa,R. M. Papoe,Atp Singles,0.0172,,,,1,R. M. Papoe,2026-09-18T10:58:09.990185+00:00
+2026-09-18T10:51:02.045118+00:00,12163893,C. Gennaro,F. Sziedat,Itf Women Singles,0.443,1.69,0.5917,-0.1487,,,
+2026-09-18T10:51:03.339568+00:00,12163878,W. K. Leong M.,P. Bar Biryukov,Challenger Men Singles,0.3519,1.72,0.5814,-0.2295,,,
+2026-09-18T10:51:04.420347+00:00,12163817,Dell'Edera/ Katsumi,Pahwa/ Tahiri,Itf Women Doubles,,,,,,,
+2026-09-18T10:51:05.728768+00:00,12163772,E. Ymer,M. Sharipov,Challenger Men Singles,0.6619,2.73,0.3663,0.2956,,,
+2026-09-18T10:51:07.007545+00:00,12163700,S. De Stefano,A. Tubello,Challenger Women Singles,0.4821,1.88,0.5319,-0.0498,,,
+2026-09-18T10:51:08.272184+00:00,12163666,M. Lollia,M. Matoula,Itf Women Singles,0.2117,2.52,0.3968,-0.1851,,,
+2026-09-18T10:58:16.381144+00:00,12163959,D. Milanovic,S. Popovic,Itf Men Singles,0.0179,2.37,0.4219,-0.4041,,,
+2026-09-18T10:58:17.485368+00:00,12164053,A. Turriziani Alvarez,A. Fabre,Itf Men Singles,0.7091,1.55,0.6452,0.0639,,,
+2026-09-18T10:58:18.589861+00:00,12164029,Arends/ Stevens,Stevenson/ Vocel,Challenger Men Doubles,,,,,,,
+2026-09-18T10:58:19.677909+00:00,12164009,Connel/ Elamin,Corbinais/ Nortey,Itf Men Doubles,,,,,,,
+2026-09-18T10:58:20.961021+00:00,12164008,L. Mi,I. Dapkute,Itf Women Singles,0.7898,,,,,,
+2026-09-18T10:58:22.459074+00:00,12164002,A. Reco,E. Donnet,Itf Men Singles,0.4783,1.56,0.641,-0.1628,,,
+2026-09-18T10:58:23.568890+00:00,12164001,F. Lagarrigue,M. Van Der Meerschen,Itf Men Singles,0.0385,3.87,0.2584,-0.2199,,,
+2026-09-18T10:58:24.679521+00:00,12163997,S. Vincent Ruggeri,J. Bilardo,Itf Men Singles,0.8033,1.38,0.7246,0.0786,,,
+2026-09-18T10:58:25.941907+00:00,12163996,E. Lumsden,E. Kirkin,Itf Men Singles,0.0833,2.75,0.3636,-0.2803,,,
+2026-09-18T10:58:27.055687+00:00,12163995,L. Sheyngezikht,P. Marino,Itf Men Singles,0.2571,2.36,0.4237,-0.1666,,,
+2026-09-18T10:58:28.345768+00:00,12163981,F. Crawley,J. Avdeeva,Itf Women Singles,0.4163,1.72,0.5814,-0.1651,,,
+2026-09-18T10:58:29.632045+00:00,12163980,I. Pistola,O. Babel,Itf Women Singles,0.1197,2.63,0.3802,-0.2606,,,
+2026-09-18T10:58:30.886631+00:00,12163975,M. Topo,N. Belozertsev,Itf Men Singles,,,,,,,
+2026-09-18T10:58:32.150131+00:00,12163974,A. Aubriot,N. Hipfl,Itf Men Singles,0.3788,2.86,0.3497,0.0291,,,
+2026-09-18T10:58:33.243942+00:00,12163960,Bove/ Mura,Mondazzi/ Sciahbasi,Itf Men Doubles,,,,,,,
+2026-09-18T10:58:34.355560+00:00,12163561,Kucmova/ Laboutkova,Lovric/ Senica,Challenger Women Doubles,,,,,,,
+2026-09-18T10:58:35.671683+00:00,12163957,L. Maxted,F. Tabacco,Itf Men Singles,0.6238,1.54,0.6494,-0.0256,,,
+2026-09-18T10:58:36.930876+00:00,12163955,A. de Marchi,A. Chepelev,Itf Men Singles,0.2951,,,,,,
+2026-09-18T10:58:38.217648+00:00,12163919,P. Schoen,R. Bertrand,Itf Men Singles,0.4052,1.46,0.6849,-0.2798,,,
+2026-09-18T10:58:39.533375+00:00,12163912,J. Rodionov,G. Onclin,Atp Singles,0.5474,1.37,0.7299,-0.1826,,,
+2026-09-18T10:58:40.814424+00:00,12163911,H. Chung,S. Nagal,Atp Singles,0.2475,2.44,0.4098,-0.1623,,,
+2026-09-18T10:58:41.914676+00:00,12163906,A. Dougaz,M. Shoaib,Atp Singles,0.8273,1.14,0.8772,-0.0499,,,
+2026-09-18T10:58:43.436534+00:00,12163905,T. Skatov,K. Samrej,Atp Singles,0.6796,1.42,0.7042,-0.0246,,,
+2026-09-18T10:58:44.686280+00:00,12163903,R. Da Costa,R. M. Papoe,Atp Singles,0.0172,,,,,,
+2026-09-18T10:58:45.949660+00:00,12163893,C. Gennaro,F. Sziedat,Itf Women Singles,0.443,1.69,0.5917,-0.1487,,,
+2026-09-18T10:58:47.248322+00:00,12163878,W. K. Leong M.,P. Bar Biryukov,Challenger Men Singles,0.3519,1.72,0.5814,-0.2295,,,
+2026-09-18T10:58:48.522330+00:00,12163772,E. Ymer,M. Sharipov,Challenger Men Singles,0.6619,2.73,0.3663,0.2956,,,
+2026-09-18T10:58:49.851706+00:00,12163700,S. De Stefano,A. Tubello,Challenger Women Singles,0.4821,1.88,0.5319,-0.0498,,,
+2026-09-18T10:58:51.112293+00:00,12163666,M. Lollia,M. Matoula,Itf Women Singles,0.2117,2.52,0.3968,-0.1851,,,
